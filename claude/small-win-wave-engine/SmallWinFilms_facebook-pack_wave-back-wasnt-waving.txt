@@ -1,0 +1,33 @@
+FACEBOOK PACK: SMALL WIN FILMS REEL, "POV: YOU WAVE BACK AT SOMEONE WHO WASN'T WAVING AT YOU" (IT'S NOT JUST ME, EPISODE 2)
+File: SmallWinFilms_facebook-reel_wave-back-wasnt-waving.mp4 (0:38, 1080x1920 edge to edge, music only, loops)
+Cover: SmallWinFilms_facebook-reel-cover_wave-back-wasnt-waving.png
+Post: Small Win Films Facebook Page, Wed 9 Dec 2026, 11:00 pm Lagos (5 pm New York). Facebook only. Not on a day another Small Win Films Reel posts.
+
+HOOK (frame 1)
+Sunny street seen through your own eyes; a stranger across the road is already waving, card "WAS THAT WAVE FOR YOU?". Your arm shoots up at 0:03 ("HEY!!"), a dotted wave arc travels from their hand. Payoff: at 0:09 the arc bends past you to the person behind you (connects 0:10), your hand freezes, then three recoveries (fix the hair, check the sky, big stretch). "NOBODY SAW THAT." 0:31, "EVERYBODY SAW THAT." 0:33 (everyone, the pigeon and a neighbour in a window stare). Ends 0:38.
+
+FACEBOOK CAPTION
+POV: you wave back at someone who wasn't waving at you.
+Three recoveries later... nobody saw that. Everybody saw that.
+#AwkwardMoments #Relatable #WavingAtSomeone #SmallWinFilms
+
+FIRST COMMENT (post as the Page, then pin it)
+What's your go-to recovery move: the hair fix, the sky check or the big stretch?
+
+FACEBOOK STEPS
+Switch to the Small Win Films Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music > paste caption > Share > pin the first comment > reply as the Page in the first 30 minutes.
+
+AI LABEL
+No voice. Tick "AI info" only if Meta asks about the generated music.
+
+COVER
+Cliffhanger: stranger waving, dotted arc ending in a coral "?" (who it lands on is hidden), card "WAS THAT WAVE / FOR YOU?" at y 400 to 720, your hand rising at the right.
+
+SCORE
+Synthetic pizzicato strings, glockenspiel and shaker, D major, 107 bpm. Record-stop at 0:11 with one held note, near silence and one clock tick during the freeze, a weaker chord on each recovery, sheepish walking groove with footsteps, two-note ding on "NOBODY SAW THAT.", descending womp on "EVERYBODY SAW THAT.", end chime. -16.3 LUFS, peak -1.3 dBFS. No licensed or trending music.
+
+SEO CHECK (free YouTube autocomplete, 24 Nov 2026)
+"when you wave at someone who wasn't waving at you" and "waving at someone who wasn't waving at you" are both suggested phrases (exact match), so the caption opens with that wording. "awkward relatable moments" is also suggested. Volume and competition not measured (yt-stats sign-in expired, vidIQ 0 credits).
+
+GATE
+Passes. Adults only, no names, no real brands or shop signs, no politics, no engagement bait (the pinned comment is a genuine question, no tag or share demands). Full-bleed 9:16, no frames or bars. Safe-zone overlay checked: cards y 1070 to 1330, recovery tags y 1000 to 1080, "HEY!!" y 300 to 640, end card text y 450 to 1160; the hair fringe at the very top is decoration only.

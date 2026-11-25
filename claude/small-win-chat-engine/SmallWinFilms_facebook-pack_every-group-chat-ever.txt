@@ -1,0 +1,33 @@
+FACEBOOK PACK: SMALL WIN FILMS REEL, "EVERY GROUP CHAT EVER" (IT'S NOT JUST ME, EPISODE 1)
+File: SmallWinFilms_facebook-reel_every-group-chat-ever.mp4 (0:38, 1080x1920 edge to edge, music only, loops)
+Cover: SmallWinFilms_facebook-reel-cover_every-group-chat-ever.png
+Post: Small Win Films Facebook Page, Tue 1 Dec 2026, 11:00 pm Lagos (5 pm New York). Facebook only. Not on a day another Small Win Films Reel posts.
+
+HOOK (frame 1)
+A group chat with the message "we should hang out soon!!" and the card "EVERY GROUP CHAT EVER", ping on frame 1, counter PLANS MADE: 0 that never changes. Payoff: nobody answers "what day works?" and the calendar flips through twelve months (0:16 to 0:21), then the same message returns (0:22). Ends 0:38.
+
+FACEBOOK CAPTION
+Every group chat ever: "we should hang out soon!!" Plans made: 0.
+Everyone replied. Nobody picked a day. Same thing every year.
+#GroupChat #Relatable #WeShouldHangOutSoon #SmallWinFilms
+
+FIRST COMMENT (post as the Page, then pin it)
+How long has your longest "we should hang out soon" gone on for?
+
+FACEBOOK STEPS
+Switch to the Small Win Films Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music > paste caption > Share > pin the first comment > reply as the Page in the first 30 minutes.
+
+AI LABEL
+No voice. Tick "AI info" only if Meta asks about the generated music.
+
+COVER
+Cliffhanger: "EVERY GROUP CHAT EVER", bubble "we should hang out soon!!", "YES omg", typing dots, counter reads PLANS MADE: ? (answer hidden).
+
+SCORE
+Lo-fi electric piano, bass and soft drums, 101 bpm, 16 bars = 38.0 s. Drums drop out at the "what day works?" question, a quiet pad and clock ticks under the calendar, groove returns for "12 months later", dead air before the end card chime. -16 LUFS.
+
+SEO CHECK (free autocomplete only)
+Not run in this build (YouTube quota was spent on 21 Nov). Keywords used: group chat, we should hang out soon, relatable.
+
+GATE
+Passes. Adults only, no names, no real app branding, no politics, no engagement bait (no tag or comment demands). Safe-zone overlay checked: pill y 318 to 414, card y 450 to 743, chat y 760 to 1332, nothing essential in the top 270 px, bottom 400 px or sides.

@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 62. Pending: 157. Excluded: 1.
+220 files in the project. Copied: 70. Pending: 149. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -154,10 +154,10 @@ Regenerate with: python3 tools/manifest.py
 | claude/series-plan-2026-11-24.md | copied |
 | claude/series-scan-2026-11-24.md | copied |
 | claude/small-win-chat-engine/README.txt | copied |
-| claude/small-win-chat-engine/SmallWinFilms_facebook-pack_every-group-chat-ever.txt | pending |
-| claude/small-win-chat-engine/chat_reel.py | pending |
-| claude/small-win-chat-engine/gc_audio.py | pending |
-| claude/small-win-chat-engine/gc_common.py | pending |
+| claude/small-win-chat-engine/SmallWinFilms_facebook-pack_every-group-chat-ever.txt | copied |
+| claude/small-win-chat-engine/chat_reel.py | copied |
+| claude/small-win-chat-engine/gc_audio.py | copied |
+| claude/small-win-chat-engine/gc_common.py | copied |
 | claude/small-win-films-research.md | copied |
 | claude/small-win-night-engine/README.txt | copied |
 | claude/small-win-night-engine/SmallWinFilms_facebook-pack_everybody-goes-out-except-me.txt | pending |
@@ -169,10 +169,10 @@ Regenerate with: python3 tools/manifest.py
 | claude/small-win-numbers-engine/facebook-pack-3-alarms-reel.txt | pending |
 | claude/small-win-numbers-engine/piano_loop.py | pending |
 | claude/small-win-wave-engine/README.txt | copied |
-| claude/small-win-wave-engine/SmallWinFilms_facebook-pack_wave-back-wasnt-waving.txt | pending |
-| claude/small-win-wave-engine/wave_reel.py | pending |
-| claude/small-win-wave-engine/wv_audio.py | pending |
-| claude/small-win-wave-engine/wv_common.py | pending |
+| claude/small-win-wave-engine/SmallWinFilms_facebook-pack_wave-back-wasnt-waving.txt | copied |
+| claude/small-win-wave-engine/wave_reel.py | copied |
+| claude/small-win-wave-engine/wv_audio.py | copied |
+| claude/small-win-wave-engine/wv_common.py | copied |
 | claude/story-films-blueprint.md | copied |
 | claude/story-films-engine/brand-fb.py | pending |
 | claude/story-films-engine/brand.py | pending |
