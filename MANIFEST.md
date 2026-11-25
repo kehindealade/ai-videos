@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 70. Pending: 149. Excluded: 1.
+220 files in the project. Copied: 73. Pending: 146. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -160,9 +160,9 @@ Regenerate with: python3 tools/manifest.py
 | claude/small-win-chat-engine/gc_common.py | copied |
 | claude/small-win-films-research.md | copied |
 | claude/small-win-night-engine/README.txt | copied |
-| claude/small-win-night-engine/SmallWinFilms_facebook-pack_everybody-goes-out-except-me.txt | pending |
-| claude/small-win-night-engine/ni_audio.py | pending |
-| claude/small-win-night-engine/night_reel.py | pending |
+| claude/small-win-night-engine/SmallWinFilms_facebook-pack_everybody-goes-out-except-me.txt | copied |
+| claude/small-win-night-engine/ni_audio.py | copied |
+| claude/small-win-night-engine/night_reel.py | copied |
 | claude/small-win-numbers-engine/README.txt | copied |
 | claude/small-win-numbers-engine/alarms3.py | pending |
 | claude/small-win-numbers-engine/common.py | pending |

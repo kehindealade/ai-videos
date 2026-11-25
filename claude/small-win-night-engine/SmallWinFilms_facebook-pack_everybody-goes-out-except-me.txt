@@ -1,0 +1,33 @@
+FACEBOOK PACK: SMALL WIN FILMS REEL, "IN THIS TOWN, EVERYBODY GOES OUT PARTYING EXCEPT ME" (IT'S NOT JUST ME, EPISODE 3)
+File: SmallWinFilms_facebook-reel_everybody-goes-out-except-me.mp4 (0:38, 1080x1920 edge to edge, music only, loops)
+Cover: SmallWinFilms_facebook-reel-cover_everybody-goes-out-except-me.png
+Post: Small Win Films Facebook Page, Thu 26 Nov 2026, 3:00 pm Lagos (9 am New York). Facebook only. Posted early because the meme is trending now and fades within 2 to 3 weeks. No other Small Win Films Reel posts that day.
+
+HOOK (frame 1)
+A sliced-open apartment building at night with a disco party on the top floor, card "IN THIS TOWN, EVERYBODY GOES OUT PARTYING..." on screen from the first frame. The camera scrolls down while every flat gets ready and leaves (pill GOING OUT TONIGHT climbs to 46), taxis honk and drive off, then the whole dark building is shown with one lit window. Payoff at 0:13: "...EXCEPT ME." (blanket, cereal, socks, TV). Phone buzzes and gets flipped face down, a dressed-up neighbour pokes in ("COMING??"), you raise your cereal spoon, the pill hits 47. 3:00 AM, rain, thunder, everyone trudges back soaked (shoes in hand, broken umbrella), pill flips to REGRETTING IT: 47, you asleep and smiling. "AND I'D DO IT AGAIN." 0:32. Ends 0:38.
+
+FACEBOOK CAPTION
+In this town, everybody goes out partying except me.
+And honestly? I'd do it again.
+#EverybodyGoesOutPartyingExceptMe #Homebody #StayingIn #Relatable #SmallWinFilms
+
+FIRST COMMENT (post as the Page, then pin it)
+Night out or night in: which one are you this weekend?
+
+FACEBOOK STEPS
+Switch to the Small Win Films Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music (do not add the meme's sound) > paste caption > Share > pin the first comment > reply as the Page in the first 30 minutes.
+
+AI LABEL
+No voice. Tick "AI info" only if Meta asks about the generated music.
+
+COVER
+Cliffhanger: the whole building with every flat partying in neon, one amber flat outlined, pill "GOING OUT TONIGHT: 47/48", card "WHO STAYED / HOME?" at y 520 to 760. Why they stayed in and the rainy twist are hidden.
+
+SCORE
+Original synth house at 122 bpm heard through walls (low-passed), opening up on the street and fading into the distance, a record-stop into a soft kalimba with room tone and TV murmur, phone buzzes, three knocks, a spoon "ting", a fast clock and three chimes, rain, one thunderclap, squelchy footsteps, a descending womp on REGRETTING IT, music-box bells under the last card, end chime. -16.3 LUFS, peak -1.0 dBFS. No licensed, trending or meme audio.
+
+SEO CHECK (free YouTube autocomplete, 24 Nov 2026)
+"in this town everybody goes out partying except me" and "everybody goes out partying except me" are exact suggested phrases (plus "... meme", "... original", "... dance"), so the caption opens with that wording and the hashtag repeats it. Volume and competition not measured (yt-stats sign-in expired, vidIQ 0 credits).
+
+GATE
+Passes. Joke only: the meme's original sound, the game it came from and its clip are not used. Adults only, no names, no real brands (generic TAXI sign), no alcohol shown, no politics, no engagement bait (the pinned comment is a genuine question). Full-bleed 9:16, no frames or bars (corner pixels checked). Text in the safe band: pill y 318 to 414, cards y 1100 to 1320, "COMING??" bubble and z's are decoration inside the scene; end card text y 480 to 1090.
