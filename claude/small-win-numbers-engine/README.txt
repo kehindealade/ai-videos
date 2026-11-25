@@ -1,0 +1,4 @@
+"Numbers that say everything" engine (Small Win Films, built 21 Nov 2026). Needs pycairo, numpy, scipy, soundfile, Pillow, ffmpeg; font Rounded Mplus 1c ExtraBold (raw.githubusercontent.com/google/fonts/main/ofl/roundedmplus1c/RoundedMplus1c-ExtraBold.ttf into ~/.fonts).
+common.py: helpers. alarms3.py (do not name a file numbers.py, it shadows the stdlib): python3 alarms3.py render out.mp4 | cover out.png | sheet. piano_loop.py: solo piano loop, 12 bars at 72 bpm = 40.0 s, G major.
+Next episode: new story, new characters and palette, new motif and key; keep the format (a number or object on frame 1, text only, music only, 40 s loop, end card names the series and asks to follow for the next episode).
+Character update 21 Nov 2026: the wife is drawn with a yellow dress, a big natural-hair puff with long side locks, earrings, lashes and lipstick (the first version read as two men); husband keeps short hair, shirt, lanyard and trousers.

@@ -1,0 +1,7 @@
+"It's Not Just Me" ep 2 engine, "POV: you wave back at someone who wasn't waving at you" (Small Win Films, Facebook Reel, built 24 Nov 2026).
+Needs pycairo, numpy, scipy, soundfile, Pillow, ffmpeg; font Luckiest Guy (raw.githubusercontent.com/google/fonts/main/apache/luckiestguy/LuckiestGuy-Regular.ttf into ~/.fonts, fc-cache -f); Inter preinstalled.
+wv_common.py: helpers and sprout logo. wave_reel.py: python3 wave_reel.py still T out.png | cover out.png | part F0 F1 out.mp4 (1140 frames at 30 fps; two parts in parallel take about 20 s, then concat with ffmpeg -f concat).
+wv_audio.py: python3 wv_audio.py writes mix_raw.wav (pizzicato, glockenspiel, shaker, D major 107.37 bpm = 17 bars in 38 s, record-stop, womp, footsteps); loudnorm two-pass to -16 LUFS, TP -1.5, resample 48 kHz, mux AAC 192k.
+Reusable parts: person() faceless adult figure (front/back, walk, wave and high-five arms, optional eyes), viewer_arm() and hand() for first-person arms, dotted_arc(), sticker card() with tag pill, flat street scene with parallax scroll, pigeon, window face.
+Gotchas: dotted_arc head must be placed by arc length (fixed); keep passer-by glance on screen while the scene scrolls; long hair in front view is two side strands (a block behind the head reads as a beard).
+Next episode: new device and setting (planned ep 3: laptop email window and office, Reply All); keep full-bleed 9:16, 38 s, music only, text y 300 to 1340, end card IT'S NOT JUST ME / EPISODE n / FOLLOW FOR EPISODE n+1.

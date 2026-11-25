@@ -1,0 +1,6 @@
+MONEY MAP CITY ENGINE (24 Nov 2026, conversation 2: credit card rewards)
+Long "Swipe City" (isometric city, Pycairo piped to ffmpeg): python3 tts.py cc_content vo_long2 ; python3 cc_engine.py stills cc_content vo_long2 st_test ; python3 cc_mix.py cc_content vo_long2 mix.wav sub.srt ; two parallel parts: python3 cc_engine.py render cc_content vo_long2 p0.mp4 0 2 and ... p1.mp4 1 2 ; ffmpeg concat then mux mix.wav with loudnorm I=-14.
+Files: cc_common.py (palette, isometric projection P/set_cam, buildings, people, packets, plates, signs, ledger helpers; Inter fonts, body text floor 34 px), cc_engine.py (scenes hook,play,swipe,split,rew,pays,other,pts,year,recap,end; camera POSE table; build_timeline/draw/render/stills), cc_content.py (53 mood-tagged lines, voice af_river 0.94), cc_mix.py (adapted from ss_mix.py).
+Short 1 water tank (s3.py, s3_content.py, voice af_sky 0.98): python3 tts.py s3_content vo_s3 ; python3 s3.py stills|cover|render ; mux s3.wav. Short 2 cork pinboard (s4.py, s4_content.py, voice af_jessica 0.99), same commands with s4.
+Needs ss_common.py, vcommon.py (Archivo Black, DM Sans), kokoro model at /root/kokoro, pycairo (pip), numpy, soundfile.
+Safe zones for Shorts: key content y 300 to 1100, captions y 1150, covers question block y 384 to 900.

@@ -1,0 +1,7 @@
+christmas-film engine (Small Win Films, "She Never Knocked", built 21 Nov 2026, build conversation 5)
+Setup: pip install --break-system-packages pycairo soundfile scipy numpy; fonts M PLUS Rounded 1c ExtraBold, Bold, Medium from raw.githubusercontent.com/google/fonts/main/ofl/mplusrounded1c/ into ~/.fonts then fc-cache -f. DejaVu Sans Mono is used for the dashboard text.
+xm.py: helpers, faces, Maya and Daniel figures, gifts, scenes (cabin, street, apartment, wedding, phone_close, door_knock, front, stare, inside).
+film.py: timeline (SCENES), HUD, captions, end card; python3 film.py render <t0> <t1> out.mp4 (run two halves in parallel, join with the ffmpeg concat demuxer, relative paths in list.txt); python3 film.py stills <dir> t...
+audio.py: score (music box, celesta, cello, pad, 3/4 waltz 84 bpm, B minor to D major at the door opening at 125 s) and effects; writes xmas_audio.wav. Final: loudnorm I=-18 then muxed gives about -16.5 LUFS.
+shorts.py: three Shorts (render n out.mp4), 1080x1920 full bleed, stamp, knock rings and gift counter overlays. mkaudio.py cuts the Short audio from the film audio. thumbs.py makes the thumbnail and covers; thumbcheck.py checks safe zones.
+Gotchas: the 15-second opening strip showed that the wedding and phone scenes (7 to 17 s) are static for 5 s each; a slow camera push on each would meet the "new picture every 2 to 3 s" rule better. Could not listen to the score.

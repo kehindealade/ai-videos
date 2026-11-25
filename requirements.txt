@@ -1,0 +1,8 @@
+pycairo
+numpy
+scipy
+soundfile
+Pillow
+librosa
+kokoro-onnx
+chatterbox-tts

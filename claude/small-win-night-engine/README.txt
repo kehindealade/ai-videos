@@ -1,0 +1,5 @@
+"It's Not Just Me" ep 3 engine, "In this town, everybody goes out partying except me" (Small Win Films, built 24 Nov 2026, build plan 24 Nov conversation 12). Needs pycairo, numpy, scipy, soundfile, Pillow, ffmpeg; font Lilita One (raw.githubusercontent.com/google/fonts/main/ofl/lilitaone/LilitaOne-Regular.ttf into ~/.fonts, fc-cache -f) and Inter (preinstalled).
+night_reel.py: dollhouse-cutaway building (8 floors x 2 flats, world coords, camera keyframes KF with log-zoom), party rooms that empty as the camera passes, street with taxis, your flat (blanket, cereal, phone, neighbour at the door, clock), rain clipped outside the building, neon cards, pill, end card, cover. python3 night_reel.py stills T1 T2 ... | cover out.png | render silent.mp4 (about 30 s).
+ni_audio.py imports the timing constants from night_reel.py and writes mix_raw.wav (synth house 122 bpm low-passed through walls, kalimba, rain, thunder, sfx); loudnorm two-pass to -16 LUFS, then mux.
+Gotcha: the opening card must be visible on frame 0 (no fade-in), so frame 1 carries the hook text.
+Next episode: new device and look (not a cutaway building, chat UI or first-person street).

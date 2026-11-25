@@ -1,0 +1,3 @@
+Split-screen engine (Money Map "Same money, two choices", built 21 Nov 2026). Needs pycairo, numpy, scipy, soundfile, ffmpeg; fonts Poppins, Inter, DejaVu Sans Mono.
+common.py: helpers. coffee.py: python3 coffee.py render out.mp4 | cover out.png | stills.
+Episode 2 = edit the constants at the top (CAFE_PRICE/HOME_PRICE/MACHINE/DAYS, REVEAL, labels, scene props in scene()/menu_board()/window()/machine()) and the text strings in headline(), header(), reveal(), endcard(). Music: music() = 100 bpm, 15 bars = 36.0 s loop with marimba, e-piano, shaker, coin clinks synced to the stack. Change the look per episode (this look is logged as used).

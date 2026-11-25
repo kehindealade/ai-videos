@@ -1,0 +1,41 @@
+name: render
+on:
+  workflow_dispatch:
+    inputs:
+      engine:
+        description: Engine folder under claude/, e.g. money-map-ram-engine
+        required: true
+      commands:
+        description: Shell commands to run inside that folder, separated by ;
+        required: true
+        default: python3 ram.py render out.mp4
+      chatterbox:
+        description: Install Chatterbox Turbo (slow, only for narrated videos)
+        required: false
+        default: "0"
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Setup
+        env:
+          WITH_CHATTERBOX: ${{ inputs.chatterbox }}
+        run: ./setup.sh
+      - name: Render
+        working-directory: claude/${{ inputs.engine }}
+        env:
+          CMDS: ${{ inputs.commands }}
+        run: bash -c "$CMDS"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: render-${{ inputs.engine }}
+          path: |
+            claude/${{ inputs.engine }}/**/*.mp4
+            claude/${{ inputs.engine }}/**/*.png
+            claude/${{ inputs.engine }}/**/*.srt
+          if-no-files-found: warn

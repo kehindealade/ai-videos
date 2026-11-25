@@ -1,0 +1,6 @@
+MONEY MAP RAM ENGINE (24 Nov 2026, build plan conversation 4: "Why is RAM so expensive?" Short, series ep 2)
+Look "Circuit board": graphite background with faint traces and moving signal dots, one big DDR5 memory stick, mint and amber accents; Archivo Black, Anonymous Pro, Poppins.
+Run: python3 rm_tts.py (Kokoro blend reference clip, then Chatterbox Turbo per line into vo_ram/) ; python3 ram.py stills ; python3 ram.py cover cover.png ; python3 ram.py render out.mp4 ; python3 ram.py srt out.srt
+Files: rm_common.py (palette, text, shapes), rm_engine.py (timeline with per-line gaps, captions box in safe band, render with bed + sfx, stills, srt), ram.py (7 mood-tagged lines, scenes hook/hbm/wafer/share/price/when/close, end card, cover, synth bed and sfx), rm_tts.py.
+Needs pycairo, numpy, soundfile, librosa, kokoro-onnx (model files in /root/kokoro from the kokoro-onnx GitHub release), chatterbox-tts with two float32 patches (tts_turbo.prepare_conditionals casts the loudness-normed wav to float32; s3tokenizer.utils.log_mel_spectrogram does audio.float()).
+Reuse: change LINES, scenes and cover in a copy of ram.py. Safe band: headlines y 385 to 485, key content y 500 to 1110, captions y 1250. Chatterbox took about 20 s per line on 2 CPU cores here (faster than the 3.2x estimate).
