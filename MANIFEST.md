@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 53. Pending: 166. Excluded: 1.
+220 files in the project. Copied: 62. Pending: 157. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -178,15 +178,15 @@ Regenerate with: python3 tools/manifest.py
 | claude/story-films-engine/brand.py | pending |
 | claude/story-films-engine/film.py | pending |
 | claude/sunday-call-engine/README.txt | copied |
-| claude/sunday-call-engine/film.py | pending |
-| claude/sunday-call-engine/sd.py | pending |
-| claude/sunday-call-engine/sd_audio.py | pending |
-| claude/sunday-call-engine/sd_short_audio.py | pending |
-| claude/sunday-call-engine/sd_tts.py | pending |
-| claude/sunday-call-engine/short.py | pending |
-| claude/sunday-call-engine/smallwinfilms_youtube-long_short-film-about-grandparents_upload-pack.txt | pending |
-| claude/sunday-call-engine/smallwinfilms_youtube-short_she-called-every-sunday-he-let-it-ring_upload-pack.txt | pending |
-| claude/sunday-call-engine/thumbs.py | pending |
+| claude/sunday-call-engine/film.py | copied |
+| claude/sunday-call-engine/sd.py | copied |
+| claude/sunday-call-engine/sd_audio.py | copied |
+| claude/sunday-call-engine/sd_short_audio.py | copied |
+| claude/sunday-call-engine/sd_tts.py | copied |
+| claude/sunday-call-engine/short.py | copied |
+| claude/sunday-call-engine/smallwinfilms_youtube-long_short-film-about-grandparents_upload-pack.txt | copied |
+| claude/sunday-call-engine/smallwinfilms_youtube-short_she-called-every-sunday-he-let-it-ring_upload-pack.txt | copied |
+| claude/sunday-call-engine/thumbs.py | copied |
 | claude/tiktok-branding-small-win-films.txt | copied |
 | claude/two-cups-engine/audio.py | pending |
 | claude/two-cups-engine/cover_reel.py | pending |

@@ -1,0 +1,43 @@
+SMALL WIN FILMS | YouTube Short | upload pack
+File: smallwinfilms_youtube-short_she-called-every-sunday-he-let-it-ring.mp4 (0:39, 1080x1920, -14.4 LUFS)
+Upload as: short-film-grandma.mp4 (rename to the primary keyword before upload)
+Cover: smallwinfilms_youtube-short_she-called-every-sunday-he-let-it-ring_cover.png
+Post: Fri 18 Dec 2026, 10:00 pm Lagos (top Shorts slot of the week), 2 days after the film. Set the film as Related video.
+
+TITLE (45 characters)
+She called every Sunday at 6. He let it ring.
+
+DESCRIPTION
+A short film about grandma's Sunday calls. Every week at 6 PM she rang, and every week her grandson let it ring. Week 5, 6:00 PM: does he pick up?
+
+The full short film about grandparents, "Every Sunday at 6, She Called", is on the channel.
+
+#shorts #ShortFilm #SmallWinFilms
+
+TAGS
+short film grandma, short film about grandparents, short film about family love, grandma calling, call your grandma, animated short film, emotional short film, small win films, shorts
+
+SETTINGS
+Category: Film & Animation | Video language: English (United States) | Made for kids: No | Altered content: No
+Related video: Every Sunday at 6, She Called | Short Film About Grandparents
+Pinned comment: Week 5. Would you pick up?
+
+SEO CHECK (free autocomplete, 24 Nov 2026)
+Primary keyword: short film grandma (autocomplete for "short film about grandma"). It is in the first description line, the first tag and the file name. The title keeps the hook wording from the plan, because Shorts are found mostly in the feed.
+Secondary: short film about grandparents, short film about family love, grandma calling.
+Hook: frame 1 has the phone buzzing face down and the plaque "SHE CALLED EVERY SUNDAY AT 6." Then "HE LET IT RING." on the flip to GRANDMA. It works with the sound off.
+Ending: it stops at week 5, 6:00 PM, with the phone ringing, then cuts to the end card "Week 5. Does he pick up?". The pick-up is never shown, so the Short sends viewers to the film. It loops back to the buzzing phone.
+Cover: "EVERY SUNDAY AT 6. HE LET IT RING." with MISSED SUNDAYS: ? (a cliffhanger with no outcome). The question block sits in the y 384 to 900 band, and the "?" is clear of the right-edge buttons. Checked with thumbcheck.py.
+Design: a new vertical split (her kitchen on top, his side below, MISSED SUNDAYS band across the middle). It was not used before on either channel.
+vidIQ has 0 credits until 17 Dec.
+
+UPLOAD STEPS
+1. Rename the file to short-film-grandma.mp4.
+2. The first 8 seconds are clean.
+3. Audio is the film's own score and effects only. No YouTube audio-button track (that would cut this Short's share of the Creator Pool).
+4. Upload from desktop YouTube Studio.
+5. Visibility: Unlisted first.
+6. Show more: Video language English (United States); "No, it's not made for kids".
+7. Wait for green Copyright and Ad suitability checks.
+8. Switch to Scheduled: Fri 18 Dec 2026, 10:00 pm Lagos, after the film is live. Add the film as Related video.
+9. After it is public, confirm the monetization icon is green.

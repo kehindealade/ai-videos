@@ -1,0 +1,61 @@
+SMALL WIN FILMS | YouTube long film | upload pack
+File: smallwinfilms_youtube-long_short-film-about-grandparents.mp4 (3:00, 1920x1080, -15.4 LUFS)
+Upload as: short-film-about-grandparents.mp4 (rename to the primary keyword before upload)
+Thumbnail: smallwinfilms_youtube-long_short-film-about-grandparents_thumbnail.png
+Post: Wed 16 Dec 2026, 1:00 pm Lagos (Wednesday long-form slot). Post the film first; the Short goes live Fri 18 Dec and gets this film as Related video.
+
+TITLE (58 characters)
+Every Sunday at 6, She Called | Short Film About Grandparents
+
+DESCRIPTION
+A short film about grandparents: every Sunday at 6, a grandmother calls her grandson. He lets it ring, and the counter in the corner keeps climbing.
+
+He isn't cruel. He's busy: deadlines on Monday, a late train on Wednesday, dinner on the couch on Friday. Each time he sees the missed call, he means to call back later. In her kitchen, the second cup of tea goes out on the table and comes back to the shelf.
+
+This animated short film about family love has no narrator. The story is told with a split screen, a wall clock that always reads 6:00, a red pen circle around every Sunday, and one line at the very end.
+
+If someone came to mind while you watched, a grandma, a grandpa, a parent you keep meaning to ring back, this one is for you.
+
+Chapters
+0:00 She calls every Sunday at 6
+0:07 Week 1: no answer
+0:30 His week
+1:04 Week 2: the second cup
+1:30 Week 3
+1:50 Week 4: he turned it over
+2:22 Week 5
+2:42 "Hi, Grandma"
+
+Subscribe to Small Win Films for new short animated films about everyday people. Small stories. Small wins.
+
+#ShortFilm #AnimatedShortFilm #SmallWinFilms
+
+TAGS (under 500 characters, first tag = primary keyword)
+short film about grandparents, short film about grandma, short film grandma, short film about family love, animated short film about family love, animated short film about family, short film about family relationship, emotional short film, animated short film, call your grandma, grandma calling, every sunday at 6, small win films
+
+SETTINGS
+Category: Film & Animation | Video language: English (United States) | Made for kids: No | Altered content: No
+Captions: none needed (music, sound and one spoken line, which is on screen as text)
+Playlist: Relatable Animated Short Films
+Pinned comment: Who's the person you keep meaning to call back?
+End screen: the Short "She called every Sunday at 6. He let it ring." once it is live, plus Subscribe.
+Do not add the "animated with code" line (standing preference).
+
+SEO CHECK (free autocomplete, 24 Nov 2026)
+Primary keyword: short film about grandparents (autocomplete returns it as a full phrase; the 24 Nov scan marked it demand 5, competition Low, long films win). It sits in the title, the first description line, the first tag and the upload file name.
+Title note: the plan's title was "Every Sunday at 6, She Called (Short Film)". It did not contain the keyword, so the keyword replaced "(Short Film)". The hook words stay first.
+Secondary keywords from autocomplete: short film grandma, short film about family love, animated short film about family love, short film about family relationship, call your grandma. Each is used once in the description or tags. No stuffing.
+Thumbnail words "HE LET IT RING." differ from the title. Together they tell the setup (she calls, he lets it ring) and leave the outcome open. Left to right: his worried face, then the ringing phone with GRANDMA, then the text. Safe zones checked with thumbcheck.py: no text in the duration badge, the hover icons or the progress bar zone. Reads at 320 px.
+vidIQ has 0 credits until 17 Dec, so there are no title scores or search-volume numbers.
+Gate: passes. Adults only (the grandson is an adult with a job). No illness, death, names or politics. An honest, warm ending. A new story and a new design (see film log entry 9).
+
+UPLOAD STEPS
+1. Rename the file to short-film-about-grandparents.mp4.
+2. The first 8 seconds are clean (phone buzzing, a calendar, a kitchen; no profanity, weapons or injury).
+3. Audio is the film's own code-made score plus one Chatterbox line and a laugh. Do not add any track from YouTube's audio button.
+4. Upload from desktop YouTube Studio.
+5. Visibility: Unlisted first.
+6. Show more: Video language English (United States); "No, it's not made for kids"; category Film & Animation; altered content No.
+7. Wait for green Copyright and Ad suitability checks. Upload by Tue 15 Dec so the checks finish before the slot.
+8. Switch to Scheduled: Wed 16 Dec 2026, 1:00 pm Lagos.
+9. After it is public, confirm the monetization icon is green (request a review if yellow).
