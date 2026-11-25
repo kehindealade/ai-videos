@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 114. Pending: 105. Excluded: 1.
+220 files in the project. Copied: 124. Pending: 95. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -24,16 +24,16 @@ Regenerate with: python3 tools/manifest.py
 | claude/build-plan-2026-11-21.md | copied |
 | claude/build-plan-2026-11-24.md | copied |
 | claude/christmas-engine/README.txt | copied |
-| claude/christmas-engine/audio.py | pending |
-| claude/christmas-engine/film.py | pending |
-| claude/christmas-engine/mkaudio.py | pending |
-| claude/christmas-engine/shorts.py | pending |
-| claude/christmas-engine/smallwinfilms_youtube-long_upload-pack.txt | pending |
-| claude/christmas-engine/smallwinfilms_youtube-short_1_upload-pack.txt | pending |
-| claude/christmas-engine/smallwinfilms_youtube-short_2_upload-pack.txt | pending |
-| claude/christmas-engine/smallwinfilms_youtube-short_3_upload-pack.txt | pending |
-| claude/christmas-engine/thumbs.py | pending |
-| claude/christmas-engine/xm.py | pending |
+| claude/christmas-engine/audio.py | copied |
+| claude/christmas-engine/film.py | copied |
+| claude/christmas-engine/mkaudio.py | copied |
+| claude/christmas-engine/shorts.py | copied |
+| claude/christmas-engine/smallwinfilms_youtube-long_upload-pack.txt | copied |
+| claude/christmas-engine/smallwinfilms_youtube-short_1_upload-pack.txt | copied |
+| claude/christmas-engine/smallwinfilms_youtube-short_2_upload-pack.txt | copied |
+| claude/christmas-engine/smallwinfilms_youtube-short_3_upload-pack.txt | copied |
+| claude/christmas-engine/thumbs.py | copied |
+| claude/christmas-engine/xm.py | copied |
 | claude/content-plan-2026-11-24-set2.md | copied |
 | claude/film-log-5-she-never-knocked.md | copied |
 | claude/film-log-6-relatable-reel-1-group-chat.md | copied |
