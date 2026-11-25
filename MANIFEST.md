@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 78. Pending: 141. Excluded: 1.
+220 files in the project. Copied: 85. Pending: 134. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -84,13 +84,13 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-ram-engine/rm_engine.py | copied |
 | claude/money-map-ram-engine/rm_tts.py | copied |
 | claude/money-map-reels-engine/README.txt | copied |
-| claude/money-map-reels-engine/common.py | pending |
-| claude/money-map-reels-engine/moneymap_facebook-reel_buy-now-pay-later-january_pack.txt | pending |
-| claude/money-map-reels-engine/moneymap_facebook-reel_tax-brackets-2027_pack.txt | pending |
-| claude/money-map-reels-engine/moneymap_facebook-reel_why-is-rent-so-expensive_pack.txt | pending |
-| claude/money-map-reels-engine/pay.py | pending |
-| claude/money-map-reels-engine/rent.py | pending |
-| claude/money-map-reels-engine/tax.py | pending |
+| claude/money-map-reels-engine/common.py | copied |
+| claude/money-map-reels-engine/moneymap_facebook-reel_buy-now-pay-later-january_pack.txt | copied |
+| claude/money-map-reels-engine/moneymap_facebook-reel_tax-brackets-2027_pack.txt | copied |
+| claude/money-map-reels-engine/moneymap_facebook-reel_why-is-rent-so-expensive_pack.txt | copied |
+| claude/money-map-reels-engine/pay.py | copied |
+| claude/money-map-reels-engine/rent.py | copied |
+| claude/money-map-reels-engine/tax.py | copied |
 | claude/money-map-research.md | copied |
 | claude/money-map-sheet-engine/README.txt | copied |
 | claude/money-map-sheet-engine/moneymap_youtube-long_how-social-security-works_upload-pack.txt | pending |

@@ -41,6 +41,7 @@ fetch ofl/opensans/OpenSans%5Bwdth,wght%5D.ttf
 fetch ofl/firasans/FiraSans-Regular.ttf
 fetch ofl/firasans/FiraSans-Bold.ttf
 fetch ofl/firasans/FiraSans-Black.ttf
+fetch ofl/roboto/Roboto%5Bwdth,wght%5D.ttf
 fetch ofl/lora/Lora%5Bwght%5D.ttf
 fetch ofl/barlowcondensed/BarlowCondensed-Bold.ttf
 fetch ofl/barlow/Barlow-Regular.ttf

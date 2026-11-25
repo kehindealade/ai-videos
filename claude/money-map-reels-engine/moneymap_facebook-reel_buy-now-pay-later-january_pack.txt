@@ -1,0 +1,34 @@
+FACEBOOK PACK: MONEY MAP REEL, THE PAY LATER HANGOVER
+File: moneymap_facebook-reel_buy-now-pay-later-january.mp4 (0:39, 1080x1920 edge to edge, music only, text on screen, loops)
+Cover: moneymap_facebook-reel_buy-now-pay-later-january_cover.png
+Post: Money Map Facebook Page, Sun 27 Dec 2026, 4:00 pm Lagos (10 am New York). Facebook only.
+
+HOOK (frame 1)
+Conflict. The whole screen is a clean phone app (generic, no real brand). "JANUARY" in red and "PAYMENT DUE" notifications stacking from frame 1; caption "4 EASY PAYMENTS. THEN JANUARY HITS.". Then a labelled example cart: headphones $120, jacket $200, game $80, each split in 4 every two weeks; the payment-date strip fills and the January zone lights up. Payoff at 0:12: "$170 IS STILL DUE AFTER THE HOLIDAYS" as five January notifications land; one turns red "PAYMENT MISSED, LATE FEES CAN APPLY". Survey: 100 shoppers, 38 plan to use it, about 14 expect to pay late; 47% of users paid late in the past year. Loops.
+
+FACEBOOK CAPTION
+Split every gift into 4 easy payments... then January shows up. 📱
+Here's how $400 of gifts turns into $170 still due after the holidays.
+Did you split a gift this year? Tell me below.
+#MoneyMap #buynowpaylater #holidayshopping #personalfinance
+
+FIRST COMMENT (post as the Page, then pin it)
+Sources: NerdWallet survey by The Harris Poll, 8 to 10 Sep 2026 (38% of holiday shoppers expect to use buy now, pay later; 38% of them expect not to make every payment in full and on time). LendingTree 2026 Buy Now, Pay Later Report (47% of users paid late in the past year). The cart is an example; plans, dates and fees vary by provider.
+
+FACEBOOK STEPS
+Switch to the Money Map Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music > paste caption > Schedule for Sun 27 Dec 16:00 > pin the first comment > reply as the Page in the first 30 minutes.
+
+FACTS (checked 24 Nov 2026)
+- 38% and 38%: NerdWallet and Harris Poll, reported by 24/7 Wall St, 4 Nov 2026. 38% x 38% = 14.4 of 100, shown as "about 14".
+- 47% paid late in the past year: LendingTree 2026 BNPL report (up from 41% in 2025).
+- Example schedule (computed in code): $120 from Nov 27 (Nov 27, Dec 11, Dec 25, Jan 8), $200 from Dec 5 (Dec 5, Dec 19, Jan 2, Jan 16), $80 from Dec 15 (Dec 15, Dec 29, Jan 12, Jan 26). January total $50 + $30 + $20 + $50 + $20 = $170. "Late fees can apply" is a general statement, no fee amount.
+- The Adobe $10 billion figure is not used (year unconfirmed).
+
+COVER
+"JANUARY" with two due notifications and one red "PAYMENT MISSED $??", then "HOW MUCH IS STILL DUE?"; card "THE HOLIDAY BILL THAT ARRIVES LATE". Answer hidden. Text inside the safe band.
+
+SEO CHECK
+Feed-driven; caption leads with the hook, 4 hashtags, timed for the post-holiday week. vidIQ 0 credits until 17 Dec.
+
+GATE
+Passes: published surveys, labelled example, no brand or real app imitated, no advice as fact, new look (full-screen phone app UI), music only, full-bleed.

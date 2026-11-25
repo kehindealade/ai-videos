@@ -1,0 +1,33 @@
+FACEBOOK PACK: MONEY MAP REEL, 2027 TAX BRACKETS (MYTH vs MATH EP 1)
+File: moneymap_facebook-reel_tax-brackets-2027.mp4 (0:38, 1080x1920 edge to edge, music only, text on screen, loops)
+Cover: moneymap_facebook-reel_tax-brackets-2027_cover.png
+Post: Money Map Facebook Page, Thu 3 Dec 2026, 3:00 pm Lagos (9 am New York). Facebook only.
+
+HOOK (frame 1)
+Myth vs math. A stack of banknote bundles is already dropping into place; caption card "CAN A RAISE SHRINK YOUR PAY?" at y 1130 to 1320. The myth is staged at 0:12 (the whole stack turns red, tax board jumps to $12,408?!) and broken at 0:16 (only the top $4,375 pays 22%). Payoff "YOU KEEP +$3,962.50" at 0:22. Second loop opened before the first closes ("NOW A $5,000 RAISE CROSSES THE 22% LINE").
+
+FACEBOOK CAPTION
+Can a raise push you into a higher tax bracket and leave you with less? 🤔
+Watch what happens to a $5,000 raise when it crosses the 22% line.
+Have you ever turned down overtime because of this myth? Tell me below.
+#MoneyMap #taxes #taxbrackets #personalfinance
+
+FIRST COMMENT (post as the Page, then pin it)
+Source: IRS 2027 inflation adjustments (released 5 Nov 2026): single standard deduction $16,600; 10% up to $12,800, 12% up to $52,025, 22% up to $109,125. Example: single filer, $68,000 salary, federal income tax only (state, Social Security and Medicare taxes not shown). Not tax advice.
+
+FACEBOOK STEPS
+Switch to the Money Map Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music > paste caption > Schedule for Thu 3 Dec 15:00 (or post at 15:00) > pin the first comment > reply as the Page in the first 30 minutes.
+
+FACTS (checked 24 Nov 2026, NerdWallet and Fox Business reports of the IRS release)
+- 2027 single: 10% $0 to $12,800; 12% $12,801 to $52,025; 22% $52,026 to $109,125 (2026: $12,400 / $50,400 / $105,700, so about +3.2%).
+- Standard deduction 2027: single $16,600 (up $500), married filing jointly $33,200.
+- Example math (computed in code): $68,000 - $16,600 = $51,400 taxable; tax 10% x 12,800 = $1,280 + 12% x 38,600 = $4,632 = $5,912. After a $5,000 raise: $56,400 taxable; $1,280 + 12% x 39,225 = $4,707 + 22% x 4,375 = $962.50 = $6,949.50. Extra tax $1,037.50, kept $3,962.50. The myth figure $12,408 = 22% x $56,400.
+
+COVER
+"A RAISE THAT LOWERS YOUR PAY?" with the stack, the gold "+$5,000 RAISE" chip and a tax board reading "$?,???". No answer on the cover. All text in the safe band (y 300 to 1340, x 90 to 990).
+
+SEO CHECK
+Facebook is feed-driven: caption leads with the question, 4 hashtags. Timely window Dec to Jan (new brackets). vidIQ 0 credits until 17 Dec, so no keyword data pulled.
+
+GATE
+Passes: published IRS figures, labelled example, neutral, no advice as fact, no names, new look (banknote bundles with bank straps on a dark studio), music only, full-bleed.
