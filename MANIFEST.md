@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 111. Pending: 108. Excluded: 1.
+220 files in the project. Copied: 114. Pending: 105. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -126,9 +126,9 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-style-log-15-ram-short.md | copied |
 | claude/money-map-style-log.md | copied |
 | claude/money-map-thanks-engine/README.txt | copied |
-| claude/money-map-thanks-engine/common.py | pending |
-| claude/money-map-thanks-engine/facebook-pack-thanksgiving-reel.txt | pending |
-| claude/money-map-thanks-engine/thanks.py | pending |
+| claude/money-map-thanks-engine/common.py | copied |
+| claude/money-map-thanks-engine/facebook-pack-thanksgiving-reel.txt | copied |
+| claude/money-map-thanks-engine/thanks.py | copied |
 | claude/money-map-transit-engine/content.py | pending |
 | claude/money-map-transit-engine/covers.py | pending |
 | claude/money-map-transit-engine/engine.py | pending |

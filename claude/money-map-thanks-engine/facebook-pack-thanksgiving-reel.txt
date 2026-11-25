@@ -1,0 +1,34 @@
+FACEBOOK PACK: MONEY MAP REEL, THANKSGIVING DINNER COST
+File: money-map_facebook-reel_thanksgiving-dinner-cost.mp4 (0:35, 1080x1920 edge to edge, music only, text on screen, loops)
+Cover: reel-cover-thanksgiving-1080x1920.png
+Post: Money Map Facebook Page, Sun 22 Nov 2026, 5:00 pm Lagos. Facebook only.
+
+HOOK (frame 1)
+Challenge / biggest question. Turkey lands on a top-down table set for 10; card "THANKSGIVING FOR 10: WHAT'S THE BILL?" in the lower-middle caption position (y 1170 to 1340) with the bill board at y 320 to 450 rolling random numbers. Later cards open a second loop ("TURKEY = 40% OF IT. NOW WATCH THE REST"). Music and a thump from frame 1.
+Analytics lessons met: tension text of 8 words or fewer on frame 1, motion every 1.1 s, payoff ($58.63 total, $5.86 each) at 0:15 to 0:19, ends 0:35, full-bleed 9:16, follow line on end card, loops.
+
+FACEBOOK CAPTION
+Thanksgiving dinner for 10 people: guess the bill before you watch. 🦃
+The turkey alone is about 40% of it. Where do you think your table lands? Tell me in the comments.
+#MoneyMap #Thanksgiving #ThanksgivingDinner #groceryprices
+
+FIRST COMMENT (post as the Page, then pin it)
+Source: American Farm Bureau Federation 41st annual Thanksgiving dinner survey, released 18 Nov 2026. What would you add to the list?
+
+FACEBOOK STEPS
+Switch to the Money Map Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music > paste caption > Share > pin the first comment > reply as the Page in the first 30 minutes.
+
+FACTS (all from AFBF, 18 Nov 2026, classic menu for 10, shoppers checked first week of Nov)
+- Total $58.63, $5.86 per person, up about 6% from $55.18 in 2025; first rise since the 2022 record of $64.05; 2026 is about 8.5% below that record.
+- Turkey (16 lb frozen, $1.48/lb) $23.68, up about 10% from $21.50; about 40% of the total.
+- Items: stuffing 3.91, sweet potatoes 4.20, rolls 3.81, peas 1.99, cranberries 2.48, veggie tray 1.31, milk 4.05, misc ingredients 3.84; "PIE $9.36" combines pie mix 4.24, crusts 3.28 and whipping cream 1.84. Sum checked in code = 58.63.
+- US survey prices, in dollars; no country hashtags needed beyond the topic tags.
+
+COVER
+Cliffhanger: "10 PEOPLE. ONE DINNER. HOW MUCH?" with the bill board at $??.?? and no prices on the dishes. All text sits inside the safe band (y 300 to 1340, x 90 to 990), clear of the top 14%, bottom 20% and sides; headline 60 and 84 px, dark on cream (about 14:1) and deep red-brown on cream (about 5:1). Checked with a safe-zone overlay and at 390 px width.
+
+SEO CHECK
+Facebook Reels are found through the feed, so the caption leads with the hook plus 4 hashtags. vidIQ has 0 credits until 17 Dec and the yt-stats quota is used up, so no keyword data was pulled; the topic is timely (survey released 18 Nov).
+
+GATE
+Passes: published survey numbers, neutral, no product or brand, new look (top-down table), music only, new hook type for the channel (guess-the-bill challenge).
