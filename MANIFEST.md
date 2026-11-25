@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 73. Pending: 146. Excluded: 1.
+220 files in the project. Copied: 78. Pending: 141. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -77,12 +77,12 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-iou-engine/upload-pack-who-owns-national-debt-long.txt | pending |
 | claude/money-map-paper-engine/content.py | pending |
 | claude/money-map-paper-engine/engine.py | pending |
-| claude/money-map-ram-engine/MoneyMap_youtube-short_why-is-ram-so-expensive_upload-pack.txt | pending |
+| claude/money-map-ram-engine/MoneyMap_youtube-short_why-is-ram-so-expensive_upload-pack.txt | copied |
 | claude/money-map-ram-engine/README.txt | copied |
-| claude/money-map-ram-engine/ram.py | pending |
-| claude/money-map-ram-engine/rm_common.py | pending |
-| claude/money-map-ram-engine/rm_engine.py | pending |
-| claude/money-map-ram-engine/rm_tts.py | pending |
+| claude/money-map-ram-engine/ram.py | copied |
+| claude/money-map-ram-engine/rm_common.py | copied |
+| claude/money-map-ram-engine/rm_engine.py | copied |
+| claude/money-map-ram-engine/rm_tts.py | copied |
 | claude/money-map-reels-engine/README.txt | copied |
 | claude/money-map-reels-engine/common.py | pending |
 | claude/money-map-reels-engine/moneymap_facebook-reel_buy-now-pay-later-january_pack.txt | pending |

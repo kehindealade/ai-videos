@@ -1,0 +1,54 @@
+UPLOAD PACK: MONEY MAP SHORT, "WHY IS RAM SO EXPENSIVE?" (series "Why is it so expensive?" episode 2)
+File: why-is-ram-so-expensive.mp4 (0:34, 1080x1920, captions burned in; rename the delivered file to this before upload)
+Cover: MoneyMap_youtube-short_why-is-ram-so-expensive_cover.png
+Captions file: why-is-ram-so-expensive.srt (optional, captions already burned in)
+Post: Tue 8 Dec 2026, 3:00 pm Lagos (9 am New York), the Tuesday Short slot in the timetable. Ep 1 (printer ink) posts Mon 30 Nov, so the series runs one week apart.
+
+TITLE (49 characters)
+Why Is RAM So Expensive? (Even When More Is Made)
+
+DESCRIPTION
+Why is RAM so expensive? Makers are forecast to build about 26% more DRAM this year, yet prices keep climbing. The short version: AI data centers want high bandwidth memory (HBM), which uses roughly three times the chip-making space per gigabyte, so less capacity is left for phones and laptops.
+
+Counterpoint Research said one common laptop module (8 GB DDR4) rose about 180% in a single quarter in early 2026, and Samsung said it expects the shortage to last through 2027, maybe 2028. Forecasts differ and none is a guarantee.
+
+Episode 2 of "Why is it so expensive?" on Money Map. Next: why are cars so expensive? Follow the money.
+
+#shorts #ram #moneymap
+
+TAGS (under 500 characters)
+why is ram so expensive, why is ram getting so expensive, ram prices, ram shortage, memory shortage 2026, why are ram prices so high, DRAM prices, HBM memory, AI data centers memory, DDR5 price, laptop ram price, business explained, shorts, Money Map
+
+SETTINGS
+Not made for kids; altered content No (synthetic voice, no realistic person); Category Education; Language English (United States)
+Related video: none (stand-alone Short)
+Playlist: Why Is It So Expensive? (ep 1 printer ink is in it; add this one)
+Pinned comment: Did you delay buying RAM or a laptop because of prices? Reply and tell me what you saw. Next episode: why are cars so expensive?
+
+SOURCES (put in the first comment, not on the video)
+Counterpoint Research via PC Gamer, 12 Mar 2026 (DRAM output up 26% forecast; 8 GB DDR4 laptop module +180% quarter over quarter); Tom's Hardware, 19 Dec 2025 (HBM uses about three times the wafer capacity of DDR5 per gigabyte; the ratio is not sourced in the article); PCWorld, 31 Jul 2026 and TechCrunch (Samsung: shortage through 2027, maybe 2028).
+Facts re-checked 24 Nov 2026. Dropped on purpose: the Engadget 32GB price example (undated) and a $394 vs $91 price claim (no source named). Other forecasts differ (an Acer CEO said in Sep 2026 the shortage was over), so the Short says "Samsung expects".
+
+SEO CHECK
+YouTube autocomplete 24 Nov 2026: "why is ram so expensive", "why is ram so expensive now", "why is ram getting so expensive" all suggest, so searchers type the exact phrase. Primary keyword at the start of the title and the first sentence of the description. vidIQ has 0 credits until 17 Dec, so no score; autocomplete only. Note: results also show "meme" variants, so a plain, explanatory title fits.
+
+HOOK
+Paradox. Frame 1 already shows "MORE RAM. HIGHER PRICE. WHY?" on a memory stick, then the +26% output and PRICE $??? tags. The cover shows the question and a hidden price, no answer. Payoff (AI wants HBM, 3x the space) at 0:04 to 0:12. Works with sound off (captions burned in).
+
+COVER
+"MORE RAM. HIGHER PRICE. WHY?" with the memory stick and a PRICE $??? tag. Question block at y 540 to 880; no answer shown.
+
+VOICE
+Chatterbox Turbo, reference from a Kokoro blend (bm_fable + am_michael 0.66), no extra generations. Nothing to add to the pack's credits.
+
+UPLOAD STEPS
+1. Rename the file to why-is-ram-so-expensive.mp4 (already named).
+2. First 8 seconds are clean (no profanity, weapons or graphic detail).
+3. Audio is the original voiceover plus code-made sound; no trending or licensed track.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Language English (United States); not made for kids; caption language English; altered content No.
+7. Wait for green Copyright and Ad suitability checks (upload by Mon 7 Dec at the latest).
+8. Schedule for Tue 8 Dec 2026, 3:00 pm Lagos.
+9. After it goes public, confirm the monetization icon is green; after 48 hours log viewer countries.
+Open question: none.
