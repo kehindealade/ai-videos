@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 99. Pending: 120. Excluded: 1.
+220 files in the project. Copied: 111. Pending: 108. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -52,18 +52,18 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-chalk-engine/facebook-pack-restaurant-reel.txt | pending |
 | claude/money-map-chalk-engine/reel.py | pending |
 | claude/money-map-city-engine/README.txt | copied |
-| claude/money-map-city-engine/cb_tts.py | pending |
-| claude/money-map-city-engine/cc_common.py | pending |
-| claude/money-map-city-engine/cc_content.py | pending |
-| claude/money-map-city-engine/cc_engine.py | pending |
-| claude/money-map-city-engine/cc_mix.py | pending |
-| claude/money-map-city-engine/moneymap_youtube-long_how-credit-card-rewards-work_upload-pack.txt | pending |
-| claude/money-map-city-engine/moneymap_youtube-short_credit-card-minimum-payment_upload-pack.txt | pending |
-| claude/money-map-city-engine/moneymap_youtube-short_who-pays-for-credit-card-points_upload-pack.txt | pending |
-| claude/money-map-city-engine/s3.py | pending |
-| claude/money-map-city-engine/s3_content.py | pending |
-| claude/money-map-city-engine/s4.py | pending |
-| claude/money-map-city-engine/s4_content.py | pending |
+| claude/money-map-city-engine/cb_tts.py | copied |
+| claude/money-map-city-engine/cc_common.py | copied |
+| claude/money-map-city-engine/cc_content.py | copied |
+| claude/money-map-city-engine/cc_engine.py | copied |
+| claude/money-map-city-engine/cc_mix.py | copied |
+| claude/money-map-city-engine/moneymap_youtube-long_how-credit-card-rewards-work_upload-pack.txt | copied |
+| claude/money-map-city-engine/moneymap_youtube-short_credit-card-minimum-payment_upload-pack.txt | copied |
+| claude/money-map-city-engine/moneymap_youtube-short_who-pays-for-credit-card-points_upload-pack.txt | copied |
+| claude/money-map-city-engine/s3.py | copied |
+| claude/money-map-city-engine/s3_content.py | copied |
+| claude/money-map-city-engine/s4.py | copied |
+| claude/money-map-city-engine/s4_content.py | copied |
 | claude/money-map-iou-engine/README.txt | copied |
 | claude/money-map-iou-engine/covers.py | pending |
 | claude/money-map-iou-engine/iou_common.py | pending |

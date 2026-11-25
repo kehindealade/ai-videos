@@ -1,0 +1,70 @@
+UPLOAD PACK: MONEY MAP LONG, "HOW CREDIT CARD REWARDS WORK"
+File: moneymap_youtube-long_how-credit-card-rewards-work.mp4 (5:34, 1920x1080). Rename to how-credit-card-rewards-work.mp4 before upload.
+Thumbnail: moneymap_youtube-long_how-credit-card-rewards-work_thumbnail.png (1280x720)
+Captions: moneymap_youtube-long_how-credit-card-rewards-work.srt (English)
+Post: Tue 15 Dec 2026, 3:00 pm Lagos (9:00 am New York), scheduled. Upload Mon 14 Dec.
+
+TITLE (61 characters)
+How Credit Card Rewards Work: Who Really Pays for Your Points
+
+DESCRIPTION
+How credit card rewards work: one $100 purchase followed through five players, from the swipe fee to your 1.5% cash back, and who actually pays for it.
+
+We follow $100 through an isometric city: you, the store, the store's bank (the acquirer), the card network and your own bank (the issuer). In about two seconds the card is approved, but nothing is paid yet. The real money moves in a batch a day or two later, with about $2.52 sliced off the sale: about $1.90 interchange to your bank, about $0.14 to the network and about $0.48 to the store's bank, so the store receives about $97.48.
+
+Then the rewards: 1.5% back is $1.50, which is most of your bank's $1.90 slice, and the rest helps pay for fraud losses, running the card and profit. We explain why premium cards pay richer rewards (and charge $395 to $895 annual fees), how stores can pass card fees into every price (a July 2026 NBER working paper estimates about $30 billion a year moves from cash and debit shoppers to card users, with caveats), the three ways a card makes money (swipe fees, interest and annual fees), what one point can be worth, and a full year of $20,000 spending on a 1.5% card.
+
+All figures are labelled typical examples, not a receipt. Real rates vary by card, store and country. This video explains how the system works; it is not financial advice and takes no side in the swipe-fee debate.
+
+CHAPTERS
+0:00 Same $100, who pays the $1.50?
+0:17 The players: five parties in one swipe
+0:41 The swipe: approval is just a promise
+1:00 The split: where the $2.52 goes
+1:46 The rewards: your 1.5% back
+2:21 Who pays: the store, the price tag and the paper
+3:13 The other money: interest and annual fees
+4:27 The points: what one point is worth
+4:40 A year of it: $20,000 on a 1.5% card
+
+SOURCES
+Interchange ranges by card type: card network rate tables via SuperMoney (May 2026)
+Egan, Matvos, Seru, Wang and Yao, NBER working paper (July 2026): about $30 billion a year transfer, premium card share of credit card spending 15% (2006) to 60% (2022)
+Federal Reserve G.19: average interest rate on accounts charged interest, 22.36% (August 2026)
+CFPB: credit card interest charges, about $160 billion (2024); St. Louis Fed: swipe fees, about $66 billion (credit and debit, different year)
+Premium card annual fees, $395 to $895 (Kiplinger, CNBC, 2026)
+Federal law on unauthorized card charges: consumer liability capped at $50
+
+#creditcards #moneymap #personalfinance
+
+TAGS (14, 414 characters)
+how credit card rewards work, how credit card points work, how do credit card rewards work, who pays for credit card rewards, who actually pays for credit card rewards, credit card rewards explained, credit card swipe fees, interchange fees explained, how credit cards make money, credit card cash back explained, credit card annual fee worth it, issuer and acquirer, how a credit card transaction works, Money Map
+
+SETTINGS
+Category Education; video language English (United States); caption language English; not made for kids; altered content No (animated explainer, no realistic people or events)
+Playlist: How Money Systems Work
+End screen: subscribe element plus the Social Security long ("How Social Security Works") once it is live
+Pinned comment: Same $100 jacket, one shopper gets $1.50 back and the other gets $0. Do you think the price tag should be the same for everyone? Which step of the city surprised you most?
+
+SEO CHECK (free autocomplete check, 24 Nov 2026; vidIQ has 0 credits until 17 Dec)
+Primary keyword: "how credit card rewards work" (first YouTube autocomplete result). In the title (first 28 characters), the first line of the description, the first tag, the file name and chapter list.
+Secondary (autocomplete): "how credit card points work", "how do credit card rewards work" (tags, description), "who pays for credit card rewards" and "who actually pays for credit card rewards" (title, tags, chapter 5, pinned comment).
+Thumbnail text "WHO PAYS FOR YOUR POINTS?" with "$1.50 BACK vs $0" adds to the title instead of repeating it; it asks the question and the answer is in the video.
+
+HOOK
+Conflict plus question (last Money Map long used shocking number). Frame 1: "SAME $100 JACKET. ONE GETS $1.50 BACK." then "SAME $100. WHO PAYS FOR THE $1.50?"; spoken "Same jacket. Same price tag. One shopper taps a card and gets $1.50 back." Paid off in chapters 3 to 5.
+
+GATE
+Passes. Explains how the system works; neutral on the swipe-fee dispute (a court ruling on debit caps in October 2026 is left out because the rule is in flux); no party, no verdict, no advice, no named people. Labelled example numbers. Voice Chatterbox Turbo with a reference made from Kokoro am_echo (expressive delivery, pauses, one chuckle; mood-tagged lines).
+
+UPLOAD STEPS
+1. Rename the file to how-credit-card-rewards-work.mp4.
+2. First 8 seconds checked: shoppers, jacket price and the question only, nothing sensitive.
+3. Audio: original narration and a code-made quiet pluck bed; no YouTube audio library or licensed track added.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Show more: video language English (United States); "No, it's not made for kids"; category Education; caption language English; altered content No. Add the .srt under Subtitles.
+7. Wait for green Copyright and Ad suitability checks (upload Mon 14 Dec). Yellow icon: Request review and tell Claude.
+8. Switch to Scheduled: Tue 15 Dec 2026, 3:00 pm Lagos.
+9. After it is public, check the monetization icon in the content list.
+Open "ask first" questions: none.

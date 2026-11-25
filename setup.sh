@@ -3,7 +3,7 @@ set -e
 
 if command -v apt-get >/dev/null 2>&1; then
   sudo apt-get update -y || apt-get update -y
-  (sudo apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fonts-liberation fontconfig || apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fonts-liberation fontconfig)
+  (sudo apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fonts-liberation fonts-inter fontconfig || apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fonts-liberation fonts-inter fontconfig)
 fi
 
 PIP="pip install"

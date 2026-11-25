@@ -1,0 +1,49 @@
+UPLOAD PACK: MONEY MAP SHORT 2, "WHO PAYS FOR CREDIT CARD POINTS"
+File: moneymap_youtube-short_who-pays-for-credit-card-points.mp4 (0:34, 1080x1920, captions burned in). Rename to who-pays-for-credit-card-rewards.mp4 before upload.
+Cover: moneymap_youtube-short_who-pays-for-credit-card-points_cover.png
+Captions file: moneymap_youtube-short_who-pays-for-credit-card-points.srt
+Post: Sun 20 Dec 2026, 4:00 pm Lagos (10:00 am New York), scheduled. Upload Sat 19 Dec.
+
+TITLE (52 characters)
+Who Pays for Credit Card Rewards? Not the Bank Alone
+
+DESCRIPTION
+Who pays for credit card rewards? On a $100 sale the store pays about $2.52 in fees, your bank keeps about $1.90 and sends you $1.50.
+
+The store has to cover that fee somewhere, often in the price tag. A July 2026 NBER working paper (Egan, Matvos, Seru, Wang and Yao) estimates about $30 billion a year moves from cash and debit shoppers to card users, if stores pass fees into every price. It is one estimate with caveats, and the example numbers are typical, not a receipt.
+
+Full video: How Credit Card Rewards Work (link it here once it is live)
+
+Sources: NBER working paper (July 2026); card network interchange tables via SuperMoney (May 2026). Not financial advice.
+
+#shorts #creditcards #moneymap
+
+TAGS (10)
+who pays for credit card rewards, who actually pays for credit card rewards, how credit card rewards work, credit card points explained, credit card swipe fees, interchange fees, credit card cash back, do cash shoppers pay for rewards, shorts, Money Map
+
+SETTINGS
+Category Education; video language English (United States); not made for kids; altered content No
+Related video: How Credit Card Rewards Work (the long video)
+Pinned comment: Should a store charge card users more, or keep one price for everyone? Tell us which you would pick.
+
+SEO CHECK (free autocomplete check, 24 Nov 2026)
+Primary keyword: "who pays for credit card rewards" (both autocomplete phrases, "who pays for" and "who actually pays for"). In the title (first 32 characters), the first line of the description, the first tag and the file name.
+Cover text "1.5% BACK. BUT WHO PAYS FOR YOUR POINTS?" with a card reading "PAYS ~$?.??" and "? ? ?" keeps the answer out of the cover.
+
+HOOK
+Question (first frame cork board "1.5% BACK" and "WHO PAYS?"; spoken "Your card gives you one and a half percent back. So who is actually paying for that?"). Ends on "Real money. Not free money." and the end card.
+
+GATE
+Passes. Cites one estimate and says so, with its assumption; no verdict on swipe fees, no politics, no advice. Voice Chatterbox Turbo with a reference made from a Kokoro blend af_bella+bf_emma 0.42 (expressive). Look: cork pinboard with red strings (new).
+
+UPLOAD STEPS
+1. Rename the file to who-pays-for-credit-card-rewards.mp4.
+2. First 8 seconds checked: pinned cards and a question only.
+3. Audio: original narration and a code-made pluck bed; do not add a track from YouTube's audio button.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Video language English (United States); "No, it's not made for kids"; category Education.
+7. Wait for green Copyright and Ad suitability checks (upload Sat 19 Dec).
+8. Switch to Scheduled: Sun 20 Dec 2026, 4:00 pm Lagos.
+9. After it is public, set the Related video to the long video and check the monetization icon.
+Open "ask first" questions: none.

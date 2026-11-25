@@ -1,0 +1,50 @@
+UPLOAD PACK: MONEY MAP SHORT 1, "CREDIT CARD MINIMUM PAYMENT"
+File: moneymap_youtube-short_credit-card-minimum-payment.mp4 (0:45, 1080x1920, captions burned in). Rename to credit-card-minimum-payment.mp4 before upload.
+Cover: moneymap_youtube-short_credit-card-minimum-payment_cover.png
+Captions file: moneymap_youtube-short_credit-card-minimum-payment.srt
+Post: Thu 17 Dec 2026, 1:00 am Lagos (Wed 16 Dec, 7:00 pm New York), scheduled. Goes out after the long video (Tue 15 Dec). Upload Wed 16 Dec daytime.
+
+TITLE (53 characters)
+Credit Card Minimum Payment: What It Really Costs You
+
+DESCRIPTION
+A credit card minimum payment on $3,000 at 22% interest takes about 12 years to clear and costs roughly $4,000 in interest.
+
+Rough example: $3,000 balance, 22% interest, minimum payment of interest plus 1% of the balance (at least $35), no new purchases. Month one is about $86, but about $56 is interest and only about $30 reduces what you owe. Total paid is about $7,000. Your card's rules and rate will differ; check your statement, which shows how long minimum payments take.
+
+Full video: How Credit Card Rewards Work (link it here once it is live)
+
+Source: Federal Reserve G.19 (average interest rate on accounts charged interest, 22.36%, August 2026); the figures are a labelled calculation, not a quote. Not financial advice.
+
+#shorts #creditcards #moneymap
+
+TAGS (10)
+credit card minimum payment, credit card minimum payment trap, credit card minimum payments explained, credit card minimum pay, minimum payment vs full payment, credit card interest explained, how long to pay off credit card, credit card debt, shorts, Money Map
+
+SETTINGS
+Category Education; video language English (United States); not made for kids; altered content No
+Related video: How Credit Card Rewards Work (the long video)
+Pinned comment: Do you know what the minimum is on your own card right now? Check the statement line that says how long it would take.
+
+SEO CHECK (free autocomplete check, 24 Nov 2026)
+Primary keyword: "credit card minimum payment" (first autocomplete result). In the title (first 27 characters), the first line of the description, the first tag and the file name.
+Secondary: "credit card minimum payment trap", "credit card minimum payments explained", "credit card minimum pay", "minimum payment or full payment" in description and tags.
+Cover text "MINIMUM PAYMENT ONLY. HOW LONG UNTIL $3,000 IS GONE?" asks the question; the tank is shown full and the answer stays out of the cover.
+
+HOOK
+Question (first frame "$3,000 ON A CARD. MINIMUM ONLY. HOW LONG?"; spoken "Three thousand dollars on a credit card. Pay only the minimum. How long until it's gone?"). Answer arrives at 0:20 ("about twelve years"), then loops to the full tank.
+
+GATE
+Passes. Labelled example, assumptions on screen, no advice, no politics, no named people. Voice Chatterbox Turbo with a reference made from Kokoro bf_lily (expressive, one sigh). Look: water tank (new).
+
+UPLOAD STEPS
+1. Rename the file to credit-card-minimum-payment.mp4.
+2. First 8 seconds checked: question card and a full tank only.
+3. Audio: original narration and a code-made pluck bed; do not add a track from YouTube's audio button.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Video language English (United States); "No, it's not made for kids"; category Education.
+7. Wait for green Copyright and Ad suitability checks (upload Wed 16 Dec daytime).
+8. Switch to Scheduled: Thu 17 Dec 2026, 1:00 am Lagos.
+9. After it is public, set the Related video to the long video and check the monetization icon.
+Open "ask first" questions: none.
