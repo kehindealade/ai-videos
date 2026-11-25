@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 85. Pending: 134. Excluded: 1.
+220 files in the project. Copied: 99. Pending: 120. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -93,20 +93,20 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-reels-engine/tax.py | copied |
 | claude/money-map-research.md | copied |
 | claude/money-map-sheet-engine/README.txt | copied |
-| claude/money-map-sheet-engine/moneymap_youtube-long_how-social-security-works_upload-pack.txt | pending |
-| claude/money-map-sheet-engine/moneymap_youtube-short_social-security-increase-2027_upload-pack.txt | pending |
-| claude/money-map-sheet-engine/moneymap_youtube-short_social-security-tax-explained_upload-pack.txt | pending |
-| claude/money-map-sheet-engine/s1.py | pending |
-| claude/money-map-sheet-engine/s1_content.py | pending |
-| claude/money-map-sheet-engine/s2.py | pending |
-| claude/money-map-sheet-engine/s2_content.py | pending |
-| claude/money-map-sheet-engine/ss_common.py | pending |
-| claude/money-map-sheet-engine/ss_content.py | pending |
-| claude/money-map-sheet-engine/ss_engine.py | pending |
-| claude/money-map-sheet-engine/ss_mix.py | pending |
-| claude/money-map-sheet-engine/thumb.py | pending |
-| claude/money-map-sheet-engine/tts.py | pending |
-| claude/money-map-sheet-engine/vcommon.py | pending |
+| claude/money-map-sheet-engine/moneymap_youtube-long_how-social-security-works_upload-pack.txt | copied |
+| claude/money-map-sheet-engine/moneymap_youtube-short_social-security-increase-2027_upload-pack.txt | copied |
+| claude/money-map-sheet-engine/moneymap_youtube-short_social-security-tax-explained_upload-pack.txt | copied |
+| claude/money-map-sheet-engine/s1.py | copied |
+| claude/money-map-sheet-engine/s1_content.py | copied |
+| claude/money-map-sheet-engine/s2.py | copied |
+| claude/money-map-sheet-engine/s2_content.py | copied |
+| claude/money-map-sheet-engine/ss_common.py | copied |
+| claude/money-map-sheet-engine/ss_content.py | copied |
+| claude/money-map-sheet-engine/ss_engine.py | copied |
+| claude/money-map-sheet-engine/ss_mix.py | copied |
+| claude/money-map-sheet-engine/thumb.py | copied |
+| claude/money-map-sheet-engine/tts.py | copied |
+| claude/money-map-sheet-engine/vcommon.py | copied |
 | claude/money-map-split-engine/README.txt | copied |
 | claude/money-map-split-engine/coffee.py | pending |
 | claude/money-map-split-engine/common.py | pending |

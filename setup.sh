@@ -3,7 +3,7 @@ set -e
 
 if command -v apt-get >/dev/null 2>&1; then
   sudo apt-get update -y || apt-get update -y
-  (sudo apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fontconfig || apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fontconfig)
+  (sudo apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fonts-liberation fontconfig || apt-get install -y ffmpeg libcairo2-dev pkg-config fonts-dejavu fonts-liberation fontconfig)
 fi
 
 PIP="pip install"
@@ -35,6 +35,8 @@ for w in Regular Medium SemiBold Bold ExtraBold Black; do fetch ofl/poppins/Popp
 fetch ofl/inter/Inter%5Bopsz,wght%5D.ttf
 fetch ofl/dmsans/DMSans%5Bopsz,wght%5D.ttf
 fetch ofl/gelasio/Gelasio%5Bwght%5D.ttf
+fetch ofl/cardo/Cardo-Regular.ttf
+fetch ofl/cardo/Cardo-Bold.ttf
 fetch ofl/montserrat/Montserrat%5Bwght%5D.ttf
 fetch ofl/bitter/Bitter%5Bwght%5D.ttf
 fetch ofl/opensans/OpenSans%5Bwdth,wght%5D.ttf

@@ -1,0 +1,50 @@
+UPLOAD PACK: MONEY MAP SHORT 2, "SOCIAL SECURITY TAX EXPLAINED"
+File: moneymap_youtube-short_social-security-tax-explained.mp4 (0:45, 1080x1920, captions burned in). Rename to social-security-tax-explained.mp4 before upload.
+Cover: moneymap_youtube-short_social-security-tax-explained_cover.png
+Captions file: moneymap_youtube-short_social-security-tax-explained.srt
+Post: Fri 18 Dec 2026, 10:00 pm Lagos (4:00 pm New York), scheduled. After the long video and Short 1.
+
+TITLE (51 characters)
+Social Security Tax Explained: Where Your 6.2% Goes
+
+DESCRIPTION
+Social Security tax explained: the 6.2% on your paycheck isn't saved in an account with your name. It pays this month's checks and earns you credits.
+
+On a $60,000 salary you pay $3,720 a year and your employer matches it, $7,440 in total. About 85 cents of each dollar funds retirement and survivor benefits and the rest funds disability. In return you earn work credits: one for every $1,970 earned in 2027, up to four a year, and 40 credits (about ten years) to qualify.
+
+Full video: How Social Security Works (link it here once it is live)
+
+Sources: SSA 2027 COLA fact sheet; AARP and SSA on trust fund shares. Example salary is illustrative. Not financial advice.
+
+#shorts #socialsecurity #taxes
+
+TAGS (11)
+social security tax explained, where does social security tax go, what is social security tax, social security tax, social security work credits, how social security works, payroll tax explained, social security credits, fica tax explained, shorts, Money Map
+
+SETTINGS
+Category Education; video language English (United States); not made for kids; altered content No
+Related video: How Social Security Works (the long video)
+Pinned comment: Before this, where did you think your 6.2% went?
+
+SEO CHECK (free autocomplete check)
+Primary keyword: "social security tax explained" (autocomplete phrase, also suggested for "where does social security tax go" on 24 Nov 2026). In the title (first 29 characters), the first line of the description, the first tag and the file name.
+Secondary: "where does social security tax go", "what is social security tax", "social security work credits", "how social security works" in the description and tags.
+Cover text "6.2% OF YOUR PAY. WHERE DOES IT GO?" with the pay stub row circled; the answer is not on the cover.
+
+HOOK
+Biggest question (Short 1 uses conflict). Frame 1: newspaper headline "WHERE DOES YOUR 6.2% GO?" with the 6.2% row being circled; spoken "Where does the six point two percent on your paycheck actually go?" The last beat fades back to the same headline so it loops.
+
+GATE
+Passes. Neutral explainer, no solvency verdict, no politics, labelled example salary. Newspaper masthead "The Paycheck Post" is invented, not a real paper. Voice af_nova (Kokoro, base 0.98). Look: newspaper front page (new).
+
+UPLOAD STEPS
+1. Rename the file to social-security-tax-explained.mp4.
+2. First 8 seconds checked: headline and pay stub only.
+3. Audio: original narration and a code-made pluck bed; do not add a track from YouTube's audio button.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Video language English (United States); "No, it's not made for kids"; category Education.
+7. Wait for green Copyright and Ad suitability checks (upload Thu 17 Dec).
+8. Switch to Scheduled: Fri 18 Dec 2026, 10:00 pm Lagos.
+9. After it is public, set the Related video to the long video and check the monetization icon.
+Open "ask first" questions: none.

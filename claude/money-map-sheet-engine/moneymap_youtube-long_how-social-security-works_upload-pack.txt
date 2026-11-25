@@ -1,0 +1,67 @@
+UPLOAD PACK: MONEY MAP LONG, "HOW SOCIAL SECURITY WORKS"
+File: moneymap_youtube-long_how-social-security-works.mp4 (6:13, 1920x1080). Rename to how-social-security-works.mp4 before upload.
+Thumbnail: moneymap_youtube-long_how-social-security-works_thumbnail.png (1280x720)
+Captions: moneymap_youtube-long_how-social-security-works.srt (English)
+Post: Sun 13 Dec 2026, 4:00 pm Lagos (10:00 am New York), scheduled. Upload Sat 12 Dec.
+
+TITLE (56 characters)
+How Social Security Works: The Formula Behind Your Check
+
+DESCRIPTION
+How Social Security works, from the 6.2% payroll tax to the three-slice formula that sets your check, plus claiming age, the 2027 COLA and Medicare Part B.
+
+We build one Social Security check cell by cell, like a spreadsheet. First the money coming in: 6.2% from you and 6.2% from your employer, capped at $192,300 of pay in 2027, paid out to today's beneficiaries through two trust funds. Then your record: how Social Security work credits add up (one credit per $1,970 earned in 2027, 40 to qualify), and how your 35 highest years become your average indexed monthly earnings.
+
+Then the part that surprises people: how Social Security benefits are calculated with three slices (90%, 32% and 15%), which is why some dollars you earn count six times more than others. After that, how full retirement age, claiming at 62 or waiting to 70 change the check, how the cost of living adjustment works (3.6% for 2027), and why the deposit is smaller than the check once the Medicare Part B premium ($209.40 in 2027) comes out.
+
+The worker in this video is a labelled example (average indexed earnings of $5,000 a month). Your own record and estimates are in a free my Social Security account at ssa.gov. This video explains how the system works; it is not financial advice.
+
+CHAPTERS
+0:00 Why some dollars count 6x more
+0:21 Money in: the Social Security payroll tax
+1:23 Your record: work credits and your best 35 years
+2:25 The formula: how benefits are calculated
+3:41 Your age: 62, 67 or 70
+4:35 Raises: the 2027 COLA
+5:08 The deposit: Medicare Part B
+
+SOURCES
+Social Security Administration, 2027 COLA fact sheet (14 Oct 2026): 3.6% COLA, $192,300 taxable maximum, $1,970 per credit, $25,560 earnings test, $2,095 to $2,170 average, $4,188 maximum at full retirement age
+SSA Office of the Chief Actuary and Federal Register (26 Oct 2026): 2027 PIA bend points $1,340 and $8,077
+CMS, 2027 Medicare Parts A and B premiums (17 Nov 2026): $209.40, up $6.50
+2026 Social Security Trustees Report: 2025 income sources (payroll tax about 91%)
+AARP and SSA: OASI and DI shares of the tax rate (about 85 cents and 15 cents per dollar)
+
+#socialsecurity #retirement #moneymap
+
+TAGS (13, 354 characters)
+how social security works, how social security benefits are calculated, how does social security work, how social security actually works, social security explained, social security formula, social security work credits, social security cola 2027, medicare part b 2027, social security tax cap, full retirement age, social security bend points, Money Map
+
+SETTINGS
+Category Education; video language English (United States); caption language English; not made for kids; altered content No (animated explainer, no realistic people or events)
+Playlist: How Money Systems Work (create it if missing)
+End screen: subscribe element plus the credit card rewards long video once it is live
+Pinned comment: Did you know your first $1,340 of average earnings counts at 90% and anything above $8,077 at just 15%? Which row of the sheet surprised you most?
+
+SEO CHECK (free autocomplete check; vidIQ has 0 credits until 17 Dec)
+Primary keyword: "how social security works" (top YouTube autocomplete phrase, 24 Nov 2026 content-plan scan: demand 7/7 High, competition Low). Appears in the title (first 25 characters), the first line of the description, the first tag, the file name and the chapter list.
+Secondary keywords (from autocomplete): "how social security benefits are calculated" (description paragraph 3, tag 2), "how does social security work" (tag), "social security work credits" (description paragraph 2, tag, chapter 3), "social security cola 2027" (description, tag), "medicare part b 2027" (description, tag), "social security tax cap" (tag), "full retirement age" (description, tag).
+Thumbnail text "SAME DOLLAR?" and "6x" adds to the title instead of repeating it; the video opens on the same 90 cents vs 15 cents picture.
+
+HOOK
+Shocking number (last Money Map long used unexpected outcome). Frame 1: "WHY DO SOME DOLLARS COUNT 6x MORE?" with $1 to 90 cents and $1 to 15 cents cells and a 6x badge; spoken line "Some of the dollars you earn count six times more than others." Paid off in chapter 3 (90% vs 15%).
+
+GATE
+Passes. Explains how the program works; no solvency verdict, no party, no advice, no named people. Labelled example numbers. Voice bf_alice (Kokoro, base 0.90, mood-tagged per line).
+
+UPLOAD STEPS
+1. Rename the file to how-social-security-works.mp4.
+2. First 8 seconds checked: question card and two number cells only, nothing sensitive.
+3. Audio: original narration and a code-made quiet pluck bed; no YouTube audio library or licensed track added.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Show more: video language English (United States); "No, it's not made for kids"; category Education; caption language English; altered content No. Add the .srt under Subtitles.
+7. Wait for green Copyright and Ad suitability checks (upload Sat 12 Dec so they finish in time). Yellow icon: Request review and tell Claude.
+8. Switch to Scheduled: Sun 13 Dec 2026, 4:00 pm Lagos.
+9. After it is public, check the monetization icon in the content list.
+Open "ask first" questions: none.

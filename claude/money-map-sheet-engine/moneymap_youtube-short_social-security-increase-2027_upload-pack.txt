@@ -1,0 +1,50 @@
+UPLOAD PACK: MONEY MAP SHORT 1, "SOCIAL SECURITY INCREASE 2027"
+File: moneymap_youtube-short_social-security-increase-2027.mp4 (0:43, 1080x1920, captions burned in). Rename to social-security-increase-2027.mp4 before upload.
+Cover: moneymap_youtube-short_social-security-increase-2027_cover.png
+Captions file: moneymap_youtube-short_social-security-increase-2027.srt
+Post: Wed 16 Dec 2026, 1:00 am Lagos (Tue 15 Dec, 7:00 pm New York), scheduled. Goes out after the long video (Sun 13 Dec).
+
+TITLE (55 characters)
+Social Security Increase 2027: How Much Actually Lands?
+
+DESCRIPTION
+The Social Security increase for 2027 is 3.6%, about $75 a month for the average retiree, but Medicare Part B takes $6.50 of it back.
+
+Average retired worker: $2,095 becomes $2,170 in January 2027 (SSA estimate). The standard Medicare Part B premium rises to $209.40 a month (CMS), and for most people on Medicare it comes straight out of the Social Security check, so the deposit is about $1,960. Your own numbers depend on your record and your premium.
+
+Full video: How Social Security Works (link it here once it is live)
+
+Sources: SSA 2027 COLA fact sheet (14 Oct 2026); CMS 2027 Medicare premiums (17 Nov 2026). Not financial advice.
+
+#shorts #socialsecurity #medicare
+
+TAGS (10)
+social security increase 2027, social security cola 2027, social security raise 2027, medicare part b 2027, social security cola increase 2027, medicare part b premium 2027, social security benefit increase 2027, social security explained, shorts, Money Map
+
+SETTINGS
+Category Education; video language English (United States); not made for kids; altered content No
+Related video: How Social Security Works (the long video)
+Pinned comment: Will the raise cover your costs next year? Tell us what went up most for you.
+
+SEO CHECK (free autocomplete check)
+Primary keyword: "social security increase 2027" (first autocomplete result for the phrase on 24 Nov 2026). In the title (first 29 characters), the first line of the description, the first tag and the file name.
+Secondary: "social security cola 2027", "social security raise 2027", "medicare part b 2027" (all autocomplete phrases) in the description and tags.
+Cover text "YOUR $75 RAISE. HOW MUCH LANDS?" adds to the title; the tape shows PART B and LANDS as ??? so the answer stays hidden.
+
+HOOK
+Conflict (the long video uses shocking number). Frame 1: "SOCIAL SECURITY RAISE: +$75. HOW MUCH ACTUALLY ARRIVES?"; spoken "Social Security just gave everyone a raise. Medicare took some of it back." Ends on the same question card so it loops.
+
+GATE
+Passes. SSA and CMS figures, average labelled as average, no advice, no politics. Voice af_alloy (Kokoro, base 0.99). Look: adding-machine tape on a desk (new).
+
+UPLOAD STEPS
+1. Rename the file to social-security-increase-2027.mp4.
+2. First 8 seconds checked: question card and an adding machine only.
+3. Audio: original narration and a code-made pluck bed; do not add a track from YouTube's audio button.
+4. Upload from desktop YouTube Studio.
+5. Visibility Unlisted first.
+6. Video language English (United States); "No, it's not made for kids"; category Education.
+7. Wait for green Copyright and Ad suitability checks (upload Tue 15 Dec daytime).
+8. Switch to Scheduled: Wed 16 Dec 2026, 1:00 am Lagos.
+9. After it is public, set the Related video to the long video and check the monetization icon.
+Open "ask first" questions: none.
