@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 192. Pending: 27. Excluded: 1.
+220 files in the project. Copied: 195. Pending: 24. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -174,9 +174,9 @@ Regenerate with: python3 tools/manifest.py
 | claude/small-win-wave-engine/wv_audio.py | copied |
 | claude/small-win-wave-engine/wv_common.py | copied |
 | claude/story-films-blueprint.md | copied |
-| claude/story-films-engine/brand-fb.py | pending |
-| claude/story-films-engine/brand.py | pending |
-| claude/story-films-engine/film.py | pending |
+| claude/story-films-engine/brand-fb.py | copied |
+| claude/story-films-engine/brand.py | copied |
+| claude/story-films-engine/film.py | copied |
 | claude/sunday-call-engine/README.txt | copied |
 | claude/sunday-call-engine/film.py | copied |
 | claude/sunday-call-engine/sd.py | copied |

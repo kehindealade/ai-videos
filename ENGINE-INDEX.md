@@ -17,7 +17,7 @@ General pattern: pycairo draws each frame, frames are piped to ffmpeg, audio is 
 | unsent-engine | Film "31 Texts She Never Sent" + Short + Reel | film.py helpers, scenes.py, compose.py (16:9 and 9:16), audio.py, vert.py (Short and Reel cut lists), thumb.py, cover.py |
 | two-cups-engine | Film "He Still Makes Two Cups" + Short + Reel | film.py, timeline.py, audio.py, short.py, render.sh, reel.py, vo.py, cover_reel.py, thumb.py, thumbs2.py |
 | bad-day-engine | Film "Nothing Could Fix His Bad Day" + Short + Reel | film.py, timeline.py, audio.py, short.py, reel.py, vo.py, cover.py, thumbs.py, fp.py, short_cover.py |
-| story-films-engine | Original story-film helpers and channel branding | brand.py (sprout logo), brand-fb.py (Facebook and YouTube branding), film.py |
+| story-films-engine | Original story-film helpers and channel branding | brand.py (sprout logo), brand-fb.py (Facebook and YouTube branding), film.py. Note: film.py imports timeline.py (DURS, WH, PH_LEN), which was never saved to the Project. To render, create timeline.py with DURS = [("s1",13),("s2",13),("s3",13),("s4",14),("s5",13),("s6a",8),("s6b",13),("s7",12),("s8",14),("s9",12),("s10",15),("s11",13),("s12",9)], WH = {}, PH_LEN = {} (no whistle notes). Commands: python3 brand.py OUTDIR, python3 brand-fb.py OUTDIR, python3 film.py stills DIR s1@5 ... |
 
 ## Money Map
 
