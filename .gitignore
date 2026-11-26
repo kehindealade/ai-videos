@@ -21,5 +21,6 @@ __pycache__/
 *token*
 *secret*
 client_secret*.json
+client.json
 credentials*.json
 .env
