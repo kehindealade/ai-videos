@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 147. Pending: 72. Excluded: 1.
+220 files in the project. Copied: 152. Pending: 67. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -44,11 +44,11 @@ Regenerate with: python3 tools/manifest.py
 | claude/handoff-facebook.md | copied |
 | claude/handoff-money-map-paper-style.md | copied |
 | claude/money-map-bf-engine/README.txt | copied |
-| claude/money-map-bf-engine/bf_common.py | pending |
-| claude/money-map-bf-engine/bf_reel.py | pending |
-| claude/money-map-bf-engine/bf_short.py | pending |
-| claude/money-map-bf-engine/facebook-pack-black-friday-reel.txt | pending |
-| claude/money-map-bf-engine/upload-pack-black-friday-short.txt | pending |
+| claude/money-map-bf-engine/bf_common.py | copied |
+| claude/money-map-bf-engine/bf_reel.py | copied |
+| claude/money-map-bf-engine/bf_short.py | copied |
+| claude/money-map-bf-engine/facebook-pack-black-friday-reel.txt | copied |
+| claude/money-map-bf-engine/upload-pack-black-friday-short.txt | copied |
 | claude/money-map-chalk-engine/facebook-pack-restaurant-reel.txt | copied |
 | claude/money-map-chalk-engine/reel.py | copied |
 | claude/money-map-city-engine/README.txt | copied |

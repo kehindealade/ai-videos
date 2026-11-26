@@ -1,0 +1,44 @@
+UPLOAD PACK: MONEY MAP SHORT, "ARE BLACK FRIDAY DEALS REAL?"
+File: are-black-friday-deals-real.mp4 (0:29, 1080x1920, captions burned in; rename the file to this before upload)
+Cover: short-cover-black-friday-1080x1920.png
+Captions file: black-friday-deals-real.srt (optional, burned-in captions already there)
+Post: Wed 25 Nov 2026, 6:00 pm Lagos (12 pm New York), by hand. Black Friday is Fri 27 Nov.
+
+TITLE (51 characters)
+Are Black Friday Deals Real? (Not the Lowest Price)
+
+DESCRIPTION
+Are Black Friday deals real? A UK consumer group, Which?, tracked prices for a year and found 83% of the products were the same price or cheaper on other days.
+
+How stores still win on Black Friday: a few doorbuster deals pull you in, you add full-price extras, and a countdown clock makes you skip checking the price history. The basket in the video is an example, not a real receipt.
+
+Before you buy anything this Black Friday, look at the price history of the product. Money Map explains where the money really goes. Follow the money.
+
+#shorts #blackfriday #moneymap
+
+TAGS (under 500 characters)
+are black friday deals real, black friday deals, is black friday worth it, black friday prices, black friday price history, black friday tricks, black friday explained, how stores make money, shopping tips, shorts, Money Map
+
+SETTINGS
+Not made for kids; altered content No (synthetic voice is not realistic-person content); Education; English
+Related video: none (stand-alone Short)
+Playlist: Money Map Shorts (create it if missing)
+Pinned comment: Do you check the price history before you buy on Black Friday?
+
+SEO CHECK
+Primary keyword "are black friday deals real" is at the start of the title (first 28 characters) and the first sentence of the description. Secondary: "black friday deals", "is black friday worth it", "black friday price history" (autocomplete 21 Nov 2026: "is black friday worth it" and "black friday deals 2026" suggest; the exact primary phrase has little autocomplete, so the broad "black friday deals" tag carries the demand). vidIQ has 0 credits until 17 Dec, so no score; the yt-stats quota was used up on 21 Nov, so no seo run.
+
+HOOK
+Unexpected outcome. Frame 1: the swinging price tag (WAS $139, NOW $119) with "CHEAPER ON OTHER DAYS?" and the line "This Black Friday deal isn't the cheapest price of the year." Works with sound off (captions burned in). The last frame is the end card; the first frame loops back to the tag.
+Analytics lessons met: dramatic first frame with question text, new picture every 2 to 3 s, payoff (83%) at 0:11, phone-size text, follow reason on the end card.
+
+COVER
+Cliffhanger: "IS THIS THE LOWEST PRICE OF THE YEAR?" with the tag and an unlit year strip. It never shows the answer. Text sits in the upper-middle, clear of the bottom 25% and the right edge.
+
+FACTS AND SOURCES
+- Which? (UK consumer group), Black Friday 2024 analysis published Nov 2025: 175 home, tech and health products from eight retailers, prices tracked May 2024 to May 2025; 83% were cheaper or equal in price at least once outside the four-week sale period; no deal was at its lowest price only on Black Friday itself. which.co.uk press release "Don't believe the hype: most Black Friday deals the same price or cheaper at other times of the year".
+- The tag ($139 to $119), the year strip colours and the "example basket" receipt are illustrations, labelled "EXAMPLE BASKET" on screen. No store or product named.
+- Verified 21 Nov 2026 against the Which? press release and its 2024 and 2025 articles.
+
+GATE
+Passes. Consumer research, sourced; no advice to buy or skip a product; example items are labelled; no brands. New look ("shop window", night street, red banner), new voice (af_kore 0.98), hook type unexpected outcome. Length 0:29 (script said 35 to 40 s; the shorter cut keeps every line and holds retention better).
