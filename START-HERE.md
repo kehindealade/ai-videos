@@ -24,6 +24,10 @@ Kenny (Kehinde Alade), based in Lagos, Nigeria. Senior backend engineer. All tim
 - Every delivery: the video, thumbnail or cover, and one txt upload pack per video, then update the logs.
 - Writing style for replies: plain and practical, no bold, no em dashes, no section headers in prose.
 
+## Script intake from Gemini
+
+Scripts can be written in the Gemini app and dropped in Drive "AI videos/Scripts/<Channel>/Inbox". The agent builds only those marked Status: APPROVED. See claude/script-intake/README.md and SCRIPT-TEMPLATE.md.
+
 ## Reading order
 
 1. memory/preferences.md (how Kenny wants work delivered) and memory/video-kits.md (history of both channels)

@@ -21,3 +21,4 @@ Standing rules (full versions in memory/preferences.md and claude/yt-stats/workf
 15. Model tiering (limit management): use lower/faster models (Flash, Flash-Lite, Haiku, Sonnet) for mechanical and routine tasks (rendering existing engines, running tools/qa.py, Drive uploads/folders, API scheduling, upload packs, log updates), and reserve higher models (Pro, Opus) only for intensive creative/code tasks (new story scripts, new visual designs and pycairo engines from scratch).
 
 Engines and render commands: ENGINE-INDEX.md. Current state: STATUS.md. Setup: setup.sh or render.ipynb.
+16. Script intake: scripts written by Gemini arrive in Drive "AI videos/Scripts/<Channel>/Inbox" using claude/script-intake/SCRIPT-TEMPLATE.md. Build only files marked Status: APPROVED, run the gate first, then move to Built or Needs-changes. Details in claude/script-intake/README.md.
