@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 152. Pending: 67. Excluded: 1.
+220 files in the project. Copied: 154. Pending: 65. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -75,8 +75,8 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-iou-engine/upload-pack-short-a-not-china.txt | copied |
 | claude/money-map-iou-engine/upload-pack-short-b-social-security-ious.txt | copied |
 | claude/money-map-iou-engine/upload-pack-who-owns-national-debt-long.txt | copied |
-| claude/money-map-paper-engine/content.py | pending |
-| claude/money-map-paper-engine/engine.py | pending |
+| claude/money-map-paper-engine/content.py | copied |
+| claude/money-map-paper-engine/engine.py | copied |
 | claude/money-map-ram-engine/MoneyMap_youtube-short_why-is-ram-so-expensive_upload-pack.txt | copied |
 | claude/money-map-ram-engine/README.txt | copied |
 | claude/money-map-ram-engine/ram.py | copied |
