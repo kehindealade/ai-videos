@@ -23,13 +23,13 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Wed 9 Dec 23:00: wrong wave Reel (Small Win FB)
 - Thu 10 Dec 15:00: rent Reel (Money Map FB)
 - Sun 13 Dec 16:00: Social Security long; Wed 16 Dec 01:00 its Short 1 (Short 2 held)
-- Tue 15 Dec 15:00: credit card rewards long; Sun 20 Dec 16:00 its Short 2 (Short 1 held)
+- Tue 15 Dec: credit card rewards long 15:00 (YouTube); "First paycheck" Reel 23:00 (Small Win FB, Numbers ep 2, rendered to Drive); Sun 20 Dec 16:00 credit card Short 2 (Short 1 held)
 - Wed 16 Dec 13:00: "Every Sunday at 6, She Called" film; Fri 18 Dec 22:00 its Short
 - Sun 27 Dec 16:00: pay later hangover Reel (Money Map FB)
 - Held, unposted: betting set (long and two Shorts, Paper look), duplicate meal Reel (Kenny was told to delete it), $39 coffee Short (to reschedule)
 
 ## Open build work (claude/build-plan-2026-11-24.md)
-- Conversation 8: Small Win Films "Numbers that say everything" eps 2 to 4 (first paycheck, gym card, last day). Scripts sent 26 Nov 2026 (claude/script-numbers-eps-2-4.md), waiting for Kenny's go. Planned: ep 2 Tue 15 Dec 23:00, ep 3 Thu 31 Dec 15:00, ep 4 Tue 5 Jan 23:00 (Small Win FB).
+- Conversation 8: Small Win Films "Numbers that say everything" eps 2 to 4. Ep 2 ("First paycheck") DONE 26 Nov 2026 (engine claude/small-win-paycheck-engine/, video + cover + pack in Drive AI videos/Renders, planned Tue 15 Dec 23:00 Small Win FB). Eps 3 (gym card, Thu 31 Dec 15:00) and 4 (last day, Tue 5 Jan 23:00) scripted, waiting for Kenny's go.
 - Conversation 9: three standalone Small Win Films Shorts (email rewritten six times, bus stop bench, moving out). Scripts need resending for Kenny's go. Not started.
 - Conversation 5 (optional): "How Mortgage Rates Work" long plus one Short. Not started.
 - "Why is it so expensive?" ep 3 cars (promised on the RAM end card), Lego last.

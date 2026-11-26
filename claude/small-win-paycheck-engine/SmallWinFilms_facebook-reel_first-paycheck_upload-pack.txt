@@ -1,0 +1,54 @@
+FACEBOOK UPLOAD PACK: SMALL WIN FILMS REEL
+"Numbers that say everything" Episode 2: First paycheck
+
+FILES (in Google Drive: AI videos/Renders)
+- Video: SmallWinFilms_facebook-reel_first-paycheck.mp4 (0:42, 1080x1920 full bleed, music only, loops)
+- Cover: SmallWinFilms_facebook-reel-cover_first-paycheck.png (1080x1920)
+
+POSTING SLOT
+- Platform: Small Win Films Facebook Page (Facebook Reel only)
+- Slot: Tue 15 Dec 2026, 23:00 Lagos (WAT) / 17:00 US Eastern (approved US evening Facebook lane)
+- Schedule in Meta Business Suite (slots between 23:00 and 07:00 Lagos are always scheduled, never posted by hand)
+- Calendar event to add once Google Calendar is connected: "SmallWinFilms | Facebook Reel | Post: First paycheck (Numbers ep 2)" at Tue 15 Dec 2026 23:00 Africa/Lagos, popup alert.
+
+HOOK (frame 1)
+Number drop. Time clock slams a manila punch card reading HOURS 80 with a chunk and bell sound on frame 1. On-screen text: "80 hours. Her first paycheck."
+Analytics lessons met: motion, sound and 8-word-or-fewer hook on frame 1; new shot every 2 to 3 s in the first 15 s; payoff (sliding her card onto the dinner check, $46.80 PAID) at 0:26 to 0:30; total 41.5 s; readable with sound off; full-bleed 9:16; all essential text inside y 300 to 1340; series name and follow CTA on end card; loops back to frame 1.
+
+STORY (one sentence)
+A young woman works 80 hours for her first paycheck, taxes take $190, and she spends $46.80 of it buying her mom dinner for the first time.
+
+FACEBOOK CAPTION (paste ready)
+80 hours for her first paycheck. Taxes took $190 before she even touched it.
+When you get your first paycheck, you never forget the first thing you buy.
+Episode 2 of Numbers That Say Everything.
+#SmallWinFilms #FirstPaycheck #RelatableAnimation #ShortStory
+
+FIRST COMMENT (post as the Small Win Films Page right after publishing, then pin it)
+What was the very first thing you bought with your first paycheck?
+
+COVER
+Cliffhanger: half-torn payroll envelope with the pay stub peeking out showing GROSS PAY $1,200 while her thumb hides the take-home amount. Text: "FIRST PAYCHECK. WHAT DID SHE BUY?" No mom, no restaurant, no ending.
+
+AI LABEL
+Not needed for a voice (there is no voice). Tick "AI info" only if Meta explicitly asks for generated music.
+
+SEO CHECK (free YouTube autocomplete, 26 Nov 2026; vidIQ 0 credits until 17 Dec)
+- Primary keyword: "when you get your first paycheck" (appears in caption line 2)
+- Secondary keywords: "first paycheck" (caption line 1, line 2, hashtag #FirstPaycheck), "first paycheck taxes" (caption line 1), "relatable animation" (#RelatableAnimation)
+- No engagement bait ("tag a friend", "comment below") in the video or caption. Genuine question is in the pinned first comment only.
+
+GATE
+Passes. Adults only, no names, no Nigerian names, no kids, no politics, pay stub clearly labelled EXAMPLE, no financial advice, warm honest ending.
+
+UPLOAD STEPS
+1. Download SmallWinFilms_facebook-reel_first-paycheck.mp4 and SmallWinFilms_facebook-reel-cover_first-paycheck.png from Drive (AI videos/Renders).
+2. Listen once to the audio before uploading (AI cannot hear the mix).
+3. Open Meta Business Suite on desktop > switch to Small Win Films Page > Create Reel.
+4. Upload SmallWinFilms_facebook-reel_first-paycheck.mp4.
+5. Click Edit cover / Thumbnail > Upload image > select SmallWinFilms_facebook-reel-cover_first-paycheck.png.
+6. Do NOT add Facebook music (uses its own original score).
+7. Paste the Facebook Caption above.
+8. Schedule for Tue 15 Dec 2026, 23:00 Lagos (WAT).
+9. Once live, post the First Comment as the Page, pin it, and reply to early comments in the first 30 minutes.
+10. After 48 hours, screenshot Post details (3-second views, 1-minute views, follows, any quality flags) and log against the baseline in claude/analytics-lessons.md.

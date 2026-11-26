@@ -10,6 +10,7 @@ General pattern: pycairo draws each frame, frames are piped to ffmpeg, audio is 
 
 | Engine | What it made | Entry and command |
 |---|---|---|
+| small-win-paycheck-engine | Reel "First paycheck" (Numbers that say everything ep 2) | paycheck_reel.py stills / cover / render out.mp4; pc_audio.py |
 | sunday-call-engine | Film "Every Sunday at 6, She Called" 3:00 + Short | film.py render 0 90 p1.mp4 and 90 180 p2.mp4; sd_tts.py; sd_audio.py; short.py render out.mp4; thumbs.py |
 | small-win-night-engine | Reel "Everybody goes out except me" (It's Not Just Me ep 3) | night_reel.py render silent.mp4 / cover / stills; ni_audio.py |
 | small-win-wave-engine | Reel "Wave back at someone who wasn't waving" (ep 2) | wave_reel.py part F0 F1 out.mp4 / still / cover; wv_audio.py |

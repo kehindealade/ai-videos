@@ -23,6 +23,8 @@ Every new video, Short, Reel, cover and thumbnail gets a design not used before:
 - "Everybody goes out except me" Facebook Reel (24 Nov, It's Not Just Me ep 3): dollhouse cutaway of one tall building at night (front wall removed, 8 floors x 2 flats), camera scrolls down floor by floor, pulls out to the whole building, then zooms into one flat. Party flats in magenta, cyan, lime and violet neon with dancing silhouettes, disco balls on the top floor, string lights below; clothes fly, doors glow, lights click off as each flat leaves. Street with generic yellow taxis. Your flat: warm amber floor lamp, teal sofa, lavender blanket burrito, cereal, striped socks, small TV, wall clock, phone on the armrest. Neighbour in a gold sparkly top at the door with "COMING??" bubble. 3 am: rain clipped outside the building, lightning flash, soaked crowd with shoes in hand and a broken umbrella, flats relight warm. Device: neon-outlined pill GOING OUT TONIGHT: n at y 318 to 414 that pops on each departure and flips to REGRETTING IT: 47 (magenta). Cards: dark slabs with neon tube glow, Lilita One. End card: indigo night skyline with one amber window, sprout, IT'S NOT JUST ME, EPISODE 3 · THE NIGHT IN, lime FOLLOW FOR EPISODE 4 pill. Cover: whole neon building with your amber flat outlined, pill 47/48, card WHO STAYED / HOME?
 - Every Sunday at 6 YouTube Short "She called every Sunday at 6. He let it ring." (0:39): new vertical split, her kitchen on top (0 to 880), a paper MISSED SUNDAYS band with red top and bottom rules and the red-circled count on the right (880 to 1030), his side below. Hook plaque (paper, ink plus red line) at y 600: "SHE CALLED EVERY / SUNDAY AT 6." then "HE LET IT RING.". Captions in a dark rounded pill at y 1192 to 1302. Twelve beats, weeks 1 to 5, ending at 6:00 PM in week 5 with the phone ringing (no pick-up), end card "Week 5. / Does he pick up?" circled in red with a plum "WATCH THE FULL FILM" pill. Cover: same split with gran on the phone, "EVERY SUNDAY AT 6. HE LET IT RING." and MISSED SUNDAYS ?. (24 Nov)
 
+- "First paycheck" Facebook Reel (26 Nov, Numbers that say everything ep 2): "Diner shift" look, teal and cherry diner palette with cream subway tiles, checkered diner floor and night bus interior. Manila time-card counter (TIME CARD · HOURS n with 5 purple stamp checkboxes) centred at y 318 to 414; starts big at y 455 over the vintage diner time clock on frame 1 then shrinks up. Full-bleed pay stub marked EXAMPLE with four tax rows that snip off as falling cherry strips with animated scissors. Fredoka Bold caption cards (dark espresso with cherry left stripe) at y 1215, Courier Prime for stub figures. End card: full-bleed perforated cream pay stub with teal top/bottom stripes, sprout logo, NUMBERS THAT SAY EVERYTHING / EPISODE 2 · FIRST PAYCHECK, cherry FOLLOW FOR EPISODE 3 pill. Cover: half-torn payroll envelope with GROSS PAY $1,200 visible and take-home hidden behind her thumb, question card "FIRST PAYCHECK. / WHAT DID SHE BUY?" at y 405 to 650.
+
 ## Channel and setup
 
 - Small Win Films, @smallwinfilms001, channel ID UCCBe1BbgfXj4pJqaY_jvg-A. Tagline "Small stories. Small wins." Logo: green sprout in front of an ochre rising sun with short rays, on a cream ground line, on dark green-ink (drawn by `sprout()` in `claude/story-films-engine/brand.py`).
@@ -66,6 +68,21 @@ Every new video, Short, Reel, cover and thumbnail gets a design not used before:
 17. Thumbnails and covers are cliffhangers, never summaries (Kenny, said several times, last on 19 Nov 2026). The image and its words must open a question the video answers, and must not show or state the outcome, the cause of the problem, or the twist. Ways that work: a contradiction the viewer cannot resolve (two cups, he lives alone), an action frozen before it finishes, a number or count with no explanation, a reaction face without what caused it. Test before sending: if someone could tell the whole story from the thumbnail alone, redo it. The question must be answered early in the video (inside the hook) so retention holds.
 
 ## Films
+
+### Reel series "Numbers that say everything", episode 2: "First paycheck" (Facebook Reel only, 26 Nov 2026)
+
+Built on Antigravity (conversation 8 of claude/build-plan-2026-11-24.md, ep 2 of 3). Engine and upload pack in claude/small-win-paycheck-engine/. Rendered video, cover and pack uploaded to Drive (AI videos/Renders).
+
+Story in one sentence: a young woman works 80 hours for her first paycheck, taxes take $190, and she spends $46.80 of it buying her mom dinner for the first time.
+
+Format: 0:41.5 (1,246 frames at 30 fps), 1080x1920 full bleed, music only (no voice), loops. Planned post: Tue 15 Dec 2026 23:00 Lagos (approved US Facebook evening lane; schedule in Meta Business Suite; calendar event pending Google Calendar connection).
+
+Design: see "Designs used" above.
+Characters: young woman (22, light tan skin, dark wavy ponytail with cherry tie, teal diner uniform with cherry apron); her mom (mid 50s, grey-streaked dark bob, mustard cardigan). No names.
+Score: whistled lead with vibrato, ukulele-style plucks, upright bass and soft claps, C major, 104.01 bpm (18 bars = 41.53 s for seamless loop). Drops to bass-only during the four tax snips (0:11 to 0:18), full whistle melody returns at dinner. Effects: time-clock chunk and bell on frame 1, shift stamp thuds, envelope tear, four falling-pitch scissor snips, register ding, PAID stamp thump, end chime. Normalised to about -16 LUFS, true peak below -1 dBTP. AI could not listen to the mix; Kenny should listen once.
+SEO: free autocomplete (26 Nov 2026) confirmed "when you get your first paycheck", "first paycheck taxes", "relatable animation", used in caption and hashtags.
+Checks: 15-second opening strip, 9-frame safe-zone sheet, cover thumbcheck (320 px and safe zones) all checked by eye; full-bleed verified; all essential text inside y 300 to 1340.
+Gate: passes (adults only, no names, no politics, pay stub marked EXAMPLE, warm ending).
 
 ### Film 6: Every Sunday at 6, She Called (24 Nov 2026)
 
