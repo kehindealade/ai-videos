@@ -17,7 +17,8 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Tue 1 Dec: national debt long 20:00 (Money Map YT, moved from 15:00); group chat Reel 23:00 (Small Win FB, scheduled via API)
 - Thu 3 Dec 01:00: debt Short A (Money Map YT, moved from Wed 2 Dec 18:00); Sat 5 Dec 17:00: debt Short B (Money Map YT, moved from 15:00)
 - Thu 3 Dec 15:00: tax brackets Reel (Money Map FB); "Wave back at someone who wasn't waving" Reel 15:00 (Small Win FB, scheduled via API, moved from Wed 9 Dec)
-- Sun 6 Dec 16:00: Christmas film "She Never Knocked"; its one Short Mon 7 Dec 18:00 (Short 1 "She Drove to His House Every Christmas Eve"). Shorts 2 and 3 held, not deleted (Kenny, 26 Nov 2026)
+- Sat 28 Nov 17:00: Two Cups Short (Small Win YT, EEBA9t7TRa4, uploaded and scheduled via API)
+- Sun 6 Dec 16:00: Christmas film "She Never Knocked" (Small Win YT, ArNDjYgSFME, uploaded and scheduled via API with thumbnail); Tue 8 Dec 01:00 its Short 1 "She Drove to His House Every Christmas Eve" (03QiAzUZifc, uploaded and scheduled via API). Shorts 2 and 3 held, not deleted (Kenny, 26 Nov 2026)
 - Tue 8 Dec 15:00: RAM Short
 - Thu 10 Dec 15:00: rent Reel (Money Map FB)
 - Sun 13 Dec 16:00: Social Security long; Wed 16 Dec 01:00 its Short 1 (Short 2 held)
