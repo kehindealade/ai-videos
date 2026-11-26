@@ -1,0 +1,71 @@
+UPLOAD PACK: TWO CUPS (long film)
+File: short-film-about-loss-two-cups.mp4 (3:00, 1920x1080)
+Thumbnail: thumbnail-two-cups-1280x720.png
+
+TITLE (51 characters, updated 18 Nov for click rate)
+She's Gone, But He Still Makes Her Tea | Short Film
+
+Other titles to test later in Test & compare:
+He Still Makes Two Cups of Tea Every Morning
+Why Does He Still Make Two Cups of Tea?
+
+THUMBNAILS (updated 18 Nov; upload all three in Studio, Test & compare, thumbnail test)
+thumb-A-her-cup.png (main pick: him on the left, her empty chair and steaming cup on the right, "HER CUP")
+thumb-C-shes-gone.png (close-up with two cups, "SHE'S GONE. TWO CUPS.")
+thumb-B-every-morning.png (him at the table, her cup across from him, "EVERY MORNING")
+The old thumbnail-two-cups-1280x720.png is replaced.
+
+Why: Bad Day got 1.4k impressions on day one but only a 1.0% click rate, with 83% of views from Suggested videos. Story films are found beside other videos, not by search, so the title and thumbnail must make a stranger curious. The search phrase "short film about loss" moves to the description and tags.
+
+DESCRIPTION
+A short film about loss: 40 days after his wife is gone, an old man still makes two cups of tea every morning.
+
+Every morning the kettle boils, and every morning he takes down two cups. One for him, one for her. Her cup goes cold on the table, so he starts pouring it into the plant she loved by the window. Day by day the house stays quiet, until a neighbour knocks with soup and sits with him for a while.
+
+This is an animated short film about grief and missing someone, told without a narrator, one morning at a time. It is not about getting over losing someone. It is about the small day when something changes anyway.
+
+Small Win Films makes short animated films about everyday people. This film was animated entirely with code, with original music written for it.
+
+Chapters
+0:00 Still two cups: day 1
+0:30 Days 2 to 7: her cup goes cold
+0:45 Day 8: her plant
+1:00 Day 14: someone knocks
+1:20 Day 30: the hardest morning
+1:40 Day 40: two new leaves
+1:55 Day 60: a small smile
+2:15 Day 90: one cup
+2:45 You learn to sit with it
+
+#shortfilm #grief #animation
+
+TAGS (paste as one line, 13 tags, 281 characters)
+short film about loss, short film about grief, animated short film about grief, short film about losing someone, animated short film, emotional animated short film, animated short film emotional, short film about missing someone, grief, loss, short film, animation, Small Win Films
+
+SETTINGS
+Audience: No, it's not made for kids
+Altered or synthetic content: No (stylized animation, no real people)
+Category: Film & Animation
+Video language and caption language: English
+Playlist: create "Animated Short Films About Life" and add this film
+End screen: subscribe button, plus the Short once it is up
+Pinned comment: What small habit reminds you of someone you miss?
+
+SEO CHECK
+Primary keyword: "short film about loss" (top YouTube autocomplete phrase for this topic)
+- Title: "Short Film" at the end; the full phrase is in the description's first line and the first tag (title now written for the click, since most views come from Suggested)
+- Description first line: yes, first five words
+- Tags: first tag
+- File name: short-film-about-loss-two-cups.mp4
+Secondary keywords (from autocomplete and the seo tool):
+- "short film about grief": tags; description paragraph 3 ("animated short film about grief")
+- "animated short film": tags; description paragraph 3
+- "losing someone": tags; description paragraph 3 ("getting over losing someone")
+- "missing someone": tags; description paragraph 3
+Hashtags: 3, all relevant (#shortfilm #grief #animation)
+Chapters: 9, first at 0:00, each at least 15 seconds (YouTube needs at least 3 chapters of 10 seconds or more)
+Competition: only 1 of the top 25 videos for these searches uses chapters
+No keyword stuffing; no claims the film does not deliver; nothing reused from earlier videos
+
+POLICY AND REPETITION GATE
+Passes. No death, body, hospital or funeral shown; story set after the loss; adults only; non-graphic. New person, places, palette, music and story; the old films are deleted or unposted.

@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 179. Pending: 40. Excluded: 1.
+220 files in the project. Copied: 192. Pending: 27. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -188,19 +188,19 @@ Regenerate with: python3 tools/manifest.py
 | claude/sunday-call-engine/smallwinfilms_youtube-short_she-called-every-sunday-he-let-it-ring_upload-pack.txt | copied |
 | claude/sunday-call-engine/thumbs.py | copied |
 | claude/tiktok-branding-small-win-films.txt | copied |
-| claude/two-cups-engine/audio.py | pending |
-| claude/two-cups-engine/cover_reel.py | pending |
-| claude/two-cups-engine/facebook-pack-two-cups-reel.txt | pending |
-| claude/two-cups-engine/film.py | pending |
-| claude/two-cups-engine/reel.py | pending |
-| claude/two-cups-engine/render.sh | pending |
-| claude/two-cups-engine/short.py | pending |
-| claude/two-cups-engine/thumb.py | pending |
-| claude/two-cups-engine/thumbs2.py | pending |
-| claude/two-cups-engine/timeline.py | pending |
-| claude/two-cups-engine/upload-pack-two-cups-film.txt | pending |
-| claude/two-cups-engine/upload-pack-two-cups-short.txt | pending |
-| claude/two-cups-engine/vo.py | pending |
+| claude/two-cups-engine/audio.py | copied |
+| claude/two-cups-engine/cover_reel.py | copied |
+| claude/two-cups-engine/facebook-pack-two-cups-reel.txt | copied |
+| claude/two-cups-engine/film.py | copied |
+| claude/two-cups-engine/reel.py | copied |
+| claude/two-cups-engine/render.sh | copied |
+| claude/two-cups-engine/short.py | copied |
+| claude/two-cups-engine/thumb.py | copied |
+| claude/two-cups-engine/thumbs2.py | copied |
+| claude/two-cups-engine/timeline.py | copied |
+| claude/two-cups-engine/upload-pack-two-cups-film.txt | copied |
+| claude/two-cups-engine/upload-pack-two-cups-short.txt | copied |
+| claude/two-cups-engine/vo.py | copied |
 | claude/unsent-engine/audio.py | pending |
 | claude/unsent-engine/compose.py | pending |
 | claude/unsent-engine/cover.py | pending |
