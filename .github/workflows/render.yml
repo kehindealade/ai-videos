@@ -3,12 +3,13 @@ on:
   workflow_dispatch:
     inputs:
       engine:
-        description: Engine folder under claude/, e.g. money-map-ram-engine
+        description: Engine folder under claude/, e.g. bad-day-engine
         required: true
+        default: bad-day-engine
       commands:
         description: Shell commands to run inside that folder, separated by ;
         required: true
-        default: python3 ram.py render out.mp4
+        default: python3 audio.py audio.wav && python3 short.py render && ffmpeg -y -loglevel error -i short_video.mp4 -i short_audio.wav -c:v copy -c:a aac -shortest bad-day-short.mp4
       chatterbox:
         description: Install Chatterbox Turbo (slow, only for narrated videos)
         required: false

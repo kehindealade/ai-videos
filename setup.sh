@@ -60,6 +60,13 @@ mkdir -p "$K"
 R=https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0
 [ -f "$K/kokoro-v1.0.onnx" ] || curl -fsSL "$R/kokoro-v1.0.onnx" -o "$K/kokoro-v1.0.onnx"
 [ -f "$K/voices-v1.0.bin" ] || curl -fsSL "$R/voices-v1.0.bin" -o "$K/voices-v1.0.bin"
-[ "$K" = /root/kokoro ] || echo "Kokoro files are in $K. Engines expect /root/kokoro: symlink it or edit the path in tts.py."
+if [ "$K" != /root/kokoro ]; then
+  if command -v sudo >/dev/null 2>&1 && sudo -n true 2>/dev/null; then
+    sudo mkdir -p /root/kokoro && sudo cp -n "$K"/* /root/kokoro/ && sudo chmod 755 /root /root/kokoro && sudo chmod 644 /root/kokoro/*
+    echo "Kokoro files copied to /root/kokoro."
+  else
+    echo "Kokoro files are in $K. Engines expect /root/kokoro: symlink it or edit the path in tts.py."
+  fi
+fi
 
 echo "Setup done. Some engines name extra fonts in their README; fetch those from $G the same way."

@@ -37,6 +37,8 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Proposed new US posting slots (claude/series-plan-2026-11-24.md) await Kenny's approval.
 
 ## Known gaps
+- story-films-engine/film.py imports timeline.py, which was never saved to the Project. ENGINE-INDEX.md gives a stand-in that renders the scenes without whistle notes.
+- Engines that need Chatterbox (for example money-map-ram-engine) only render after setup with WITH_CHATTERBOX=1 and the two float32 patches in that engine's README.
 - yt-stats sign-in: token excluded from the export; sign in again, and set the OAuth consent screen to In production so tokens stop expiring weekly.
 - vidIQ credits 0 until 17 Dec 2026.
 - Claude could not listen to any score or voice; Kenny should listen once to each.

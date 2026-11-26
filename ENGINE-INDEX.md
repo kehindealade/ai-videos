@@ -2,6 +2,8 @@
 
 Every engine lives in claude/<name>/ with its upload packs. Newest first. Each README.txt in a folder has the full commands and gotchas. Never reuse an engine's look as is; copy the folder, then change look, palette, music, voice and layout (see the channel log).
 
+Tested from a fresh clone on 26 Nov 2026 with setup.sh only: bad-day-engine, python3 audio.py audio.wav && python3 short.py render, then mux short_video.mp4 and short_audio.wav (52 s, the default in render.ipynb and the Actions workflow).
+
 General pattern: pycairo draws each frame, frames are piped to ffmpeg, audio is synthesised in numpy, then muxed with loudnorm. Long videos render in two parallel parts and are joined with the ffmpeg concat demuxer.
 
 ## Small Win Films
