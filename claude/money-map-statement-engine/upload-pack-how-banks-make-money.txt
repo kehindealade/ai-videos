@@ -1,0 +1,80 @@
+HOW BANKS MAKE MONEY · UPLOAD PACK (updated 17 Nov 2026 to the SEO and hook rules)
+Money Map · long video · 8:18 · 1920x1080
+Files: how-banks-make-money.mp4 · thumb-banks.png · how-banks-make-money.srt
+
+TITLE (59 characters; vidIQ scored the near-identical longer version 99)
+How Banks Make Money From Your Savings (Not What You Think)
+
+DESCRIPTION
+How banks make money from your savings: you earn about $3.80 a year on $1,000, while the bank charges around $210 to lend that same money out.
+
+In this video we follow one $1,000 deposit for a full year and count every way a bank gets paid along the way. First the spread, the gap between the interest a bank pays savers and what it charges on loans and credit cards. Then bank fees, including the $35 overdraft fee. Then interchange fees, the slice your bank takes every time you tap your card, and the investment banking and trading side most people never see. Finally we look at what happens when it breaks, using the Silicon Valley Bank collapse, and why deposit insurance exists.
+
+If you have ever wondered how banks work, what banks do with your money, or why savings account interest is so low, this is the plain English answer.
+
+Figures are US averages for 2026, since the US is where most people search this. The ideas work the same way almost everywhere.
+
+Chapters
+0:00 Your $1,000 for one year
+0:34 Where your money actually goes
+1:26 Way 1: the gap (the spread)
+3:14 Way 2: fees and overdrafts
+4:17 Way 3: your card
+5:07 Way 4: the big money side
+5:55 When it breaks: Silicon Valley Bank
+7:14 The year, added up
+
+Sources
+Savings rate 0.38%: FDIC national average savings rate, November 2026
+Credit card 20.94% and car loan 7.14%: Federal Reserve G.19 consumer credit report, Q2 2026
+30-year mortgage 7.11%: Freddie Mac Primary Mortgage Market Survey, 12 November 2026
+Net interest margin 3.32% and $90.1B profit: FDIC Quarterly Banking Profile, Q2 2026 (reported by American Banker)
+Fee and trading income up, lending income down: FDIC Quarterly Banking Profile, Q1 2026 (reported by American Banker)
+Savings at the largest banks around 0.01%: Axos Bank savings rate guide
+Accounts paying about 10x the average: NerdWallet average deposit rates
+Overdraft fees about $35, $2.96B in the first half of 2026: US bank regulatory filings (reported by KEYT)
+Who pays overdraft fees: National Consumer Law Center
+Card fees go mostly to the issuing bank: US Government Accountability Office report on interchange fees, 2009
+Largest bank deposits, about $2.7 trillion: JPMorgan Chase quarterly results, 2026
+Silicon Valley Bank, $42B withdrawal attempt and closure: California Department of Financial Protection and Innovation order, March 2023 (reported by Bloomberg)
+Deposit insurance $250,000: FDIC, "Your Insured Deposits"
+
+This video explains how the banking business works. It is educational, not financial advice. Narration is a synthetic voice; visuals are made in code.
+
+Follow the money.
+
+#howbanksmakemoney #personalfinance #moneyexplained
+
+TAGS (15 tags, about 330 characters; first tag is the exact primary keyword)
+how banks make money, how do banks make money, how banks make money from savings, how banks work, what banks do with your money, banking explained, banking system, net interest margin, savings account interest, credit card interest, overdraft fees, bank run, silicon valley bank collapse, personal finance, Money Map
+
+UPLOAD SETTINGS
+Audience: No, it's not made for kids
+Category: Education
+Altered or synthetic content (AI use): No
+Video language: English · Caption language: English
+Captions: upload how-banks-make-money.srt (Subtitles > Add language > English > Upload file > With timing)
+Playlist: create "How Companies Make Money" and add this video
+End screen: subscribe element plus "Best for viewer"
+Pinned comment (post it as soon as the video is live, then pin it):
+Did you know what your bank pays on savings before watching? Check your rate and drop it below, I'm curious how low it goes.
+
+SEO CHECK
+Primary keyword: how banks make money (vidIQ: about 64,500 searches a month, competition 38). In the title (first 20 characters), the first line of the description, the first tag, the first hashtag and the file name.
+Secondary keywords: how banks work (about 42,600 a month), what banks do with your money, savings account interest, interchange fees, overdraft fees, silicon valley bank collapse. Each appears once or twice in the description body or chapters and in the tags.
+Thumbnail text ("$3.80 / $210 · SAME MONEY. · WHO GETS PAID?") uses different words from the title, as the rules ask.
+
+HOOK CHECK
+Thumbnail moment: $3.80 against $210. The video opens on that same contrast: first frame moving, first line "Put a thousand dollars in a normal savings account", the $3.80 slip by second 5 and $210 by second 12. The question it raises (where does the rest go?) is answered in the closing tally.
+Hook type: shocking number contrast (logged in money-map-style-log.md; the next video must use a different hook type).
+
+SHORTS CUT FROM THIS VIDEO
+Short 1: "Your Bank Pays You $3.80 but Charges $210 (Same Money)" (short_gap.mp4)
+Short 2: "Why Overdraft Fees Hit Broke People Hardest" (short_coffee.mp4)
+Schedule both once the long video is live, with its link in their descriptions and the Related video set to it.
+
+LINKS
+Sources are listed by name until the channel is verified for clickable links. The full web addresses are in upload-pack-how-banks-make-money-WITH-LINKS.txt in the Project; paste that Sources section in once verified.
+
+AFTER UPLOAD
+Send Claude the link once it is live: transcript check against the script, then a report 48 hours later (retention past 15 and 30 seconds, traffic, search terms).

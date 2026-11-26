@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 154. Pending: 65. Excluded: 1.
+220 files in the project. Copied: 163. Pending: 56. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -111,15 +111,15 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-split-engine/coffee.py | copied |
 | claude/money-map-split-engine/common.py | copied |
 | claude/money-map-split-engine/facebook-pack-coffee-reel.txt | copied |
-| claude/money-map-statement-engine/banks.py | pending |
-| claude/money-map-statement-engine/cover_gap.py | pending |
-| claude/money-map-statement-engine/short_coffee.py | pending |
-| claude/money-map-statement-engine/short_gap.py | pending |
-| claude/money-map-statement-engine/stmt.py | pending |
-| claude/money-map-statement-engine/thumb.py | pending |
-| claude/money-map-statement-engine/upload-pack-how-banks-make-money.txt | pending |
-| claude/money-map-statement-engine/upload-pack-short-1-the-gap.txt | pending |
-| claude/money-map-statement-engine/upload-pack-short-2-the-39-coffee.txt | pending |
+| claude/money-map-statement-engine/banks.py | copied |
+| claude/money-map-statement-engine/cover_gap.py | copied |
+| claude/money-map-statement-engine/short_coffee.py | copied |
+| claude/money-map-statement-engine/short_gap.py | copied |
+| claude/money-map-statement-engine/stmt.py | copied |
+| claude/money-map-statement-engine/thumb.py | copied |
+| claude/money-map-statement-engine/upload-pack-how-banks-make-money.txt | copied |
+| claude/money-map-statement-engine/upload-pack-short-1-the-gap.txt | copied |
+| claude/money-map-statement-engine/upload-pack-short-2-the-39-coffee.txt | copied |
 | claude/money-map-style-log-12-social-security.md | copied |
 | claude/money-map-style-log-13-credit-card-rewards.md | copied |
 | claude/money-map-style-log-14-facebook-reels.md | copied |

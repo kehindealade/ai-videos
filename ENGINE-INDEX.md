@@ -34,7 +34,7 @@ General pattern: pycairo draws each frame, frames are piped to ffmpeg, audio is 
 | money-map-bf-engine | Black Friday Short and Reel | bf_short.py tts / stills / render / cover / srt; bf_reel.py stills / render / cover |
 | money-map-transit-engine | Long "Why Is Bitcoin Crashing?" + 2 Shorts + Reel | content.py data, engine.py renderer, tts.py, mix.py, shorts.py, mkshorts.py, tts_short.py, covers.py, thumb.py, fbreel.py |
 | money-map-chalk-engine | Reel "Your $16 meal" (chalkboard) | reel.py |
-| money-map-statement-engine | Long "How Banks Make Money" + 2 Shorts | stmt.py engine, banks.py script data, short_gap.py, short_coffee.py, thumb.py, cover_gap.py |
+| money-map-statement-engine | Long "How Banks Make Money" + 2 Shorts | stmt.py engine (python3 stmt.py info|stills|render banks|short_gap|short_coffee), banks.py script data, short_gap.py, short_coffee.py, thumb.py, cover_gap.py (writes to /home/claude/yts/, change the path). Kokoro is read from models/ next to stmt.py: ln -s /root/kokoro claude/money-map-statement-engine/models |
 | money-map-paper-engine | Betting long + 2 Shorts (held, unposted) | engine.py info / stills / render long|short1|short2 out.mp4; content.py. Reads Kokoro from models/ next to engine.py, so symlink: ln -s /root/kokoro claude/money-map-paper-engine/models |
 
 ## Tools
