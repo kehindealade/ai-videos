@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 195. Pending: 24. Excluded: 1.
+220 files in the project. Copied: 205. Pending: 14. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -201,16 +201,16 @@ Regenerate with: python3 tools/manifest.py
 | claude/two-cups-engine/upload-pack-two-cups-film.txt | copied |
 | claude/two-cups-engine/upload-pack-two-cups-short.txt | copied |
 | claude/two-cups-engine/vo.py | copied |
-| claude/unsent-engine/audio.py | pending |
-| claude/unsent-engine/compose.py | pending |
-| claude/unsent-engine/cover.py | pending |
-| claude/unsent-engine/facebook-pack-heartbreak-reel.txt | pending |
-| claude/unsent-engine/film.py | pending |
-| claude/unsent-engine/scenes.py | pending |
-| claude/unsent-engine/thumb.py | pending |
-| claude/unsent-engine/upload-pack-heartbreak-film.txt | pending |
-| claude/unsent-engine/upload-pack-heartbreak-short.txt | pending |
-| claude/unsent-engine/vert.py | pending |
+| claude/unsent-engine/audio.py | copied |
+| claude/unsent-engine/compose.py | copied |
+| claude/unsent-engine/cover.py | copied |
+| claude/unsent-engine/facebook-pack-heartbreak-reel.txt | copied |
+| claude/unsent-engine/film.py | copied |
+| claude/unsent-engine/scenes.py | copied |
+| claude/unsent-engine/thumb.py | copied |
+| claude/unsent-engine/upload-pack-heartbreak-film.txt | copied |
+| claude/unsent-engine/upload-pack-heartbreak-short.txt | copied |
+| claude/unsent-engine/vert.py | copied |
 | claude/upload-checklist.md | copied |
 | claude/vertical-video-rules.md | copied |
 | claude/voice-rules.md | copied |
