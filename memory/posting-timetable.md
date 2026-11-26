@@ -33,3 +33,4 @@ aliases: [posting schedule, best time to post, timetable, posting calendar]
     - US-UK overlap: 15:00-17:00 WAT (09:00-11:00 ET, 14:00-16:00 UK).
     - SE Asia / Philippines (UTC+8, Lagos +7 h): YT Shorts / FB Reels 19:00-21:00 local (12:00-14:00 WAT).
     - Australia East (UTC+10/+11): YT/FB evening 19:00-21:00 local (09:00-11:00 WAT).
+- [stated] 26 Nov 2026: channel freshness / drought priority when scheduling: always check each channel and Page's last live post date and upcoming queue first; if a channel or Page has gone several days without a new post, priority is to get a new post out ASAP in the next best slot and target timezone instead of leaving a multi-day gap; also audit already-scheduled posts when optimising slots (asking Kenny before moving posts unless he explicitly asks to optimise the queue)
