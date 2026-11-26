@@ -32,6 +32,9 @@ Only after passing claude/qa-gate.md (tools/qa.py + all 9 manual checks): upload
 10. Post-upload check and analytics review
 On YouTube, after tools/yt_upload.py uploads the video, open studio.youtube.com (Desktop site on Chrome Android or desktop) for a quick check: confirm green Copyright and Ad suitability icons, link the long video as Related video on Shorts, and confirm the scheduled time (until the OAuth app passes Google's free audit, API uploads land as Private and are flipped to Scheduled there). On Facebook, once tools/fb_reels.py schedules the Reel (or after it goes live), post and pin the first comment question (no engagement bait). About 48 hours after posting, run yt.py report plus check Studio and Facebook screenshots, verify whether viewer countries matched the target region, log retention, 3-second hold and search terms against the baseline in analytics-lessons.md, and apply lessons to future videos without re-editing old ones.
 
+11. Model tiering and delegation (limit management)
+Use lower/faster models (Flash, Flash-Lite, Haiku, Sonnet) for mechanical, routine and suitable tasks: rendering existing engines, audio muxing, running tools/qa.py, uploading and organizing Drive folders, API scheduling via yt_upload.py and fb_reels.py, writing upload packs, updating logs and simple code fixes. Reserve higher models (Pro, Opus) strictly for intensive creative or architectural work: writing new story film scripts, designing brand-new visual looks and pycairo scene engines from scratch, or complex multi-file debugging. When delegating to subagents, match the model tier to the task complexity.
+
 Final rule: always ask Kenny before changing a finished video or moving a post off its slot.
 
 QA gate (added 26 Nov 2026): before any upload or "done", follow claude/qa-gate.md: safe loudness mux, python3 tools/qa.py, all 9 manual checks answered from the phone-size sheets, fix and re-run until everything passes.
