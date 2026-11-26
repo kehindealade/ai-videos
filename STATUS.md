@@ -37,16 +37,9 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 ## Known gaps
 - story-films-engine/film.py imports timeline.py, which was never saved to the Project. ENGINE-INDEX.md gives a stand-in that renders the scenes without whistle notes.
 - Engines that need Chatterbox (for example money-map-ram-engine) only render after setup with WITH_CHATTERBOX=1 and the two float32 patches in that engine's README.
-- yt-stats sign-in: token excluded from the export; sign in again, and set the OAuth consent screen to In production so tokens stop expiring weekly.
 - vidIQ credits 0 until 17 Dec 2026.
 - Claude could not listen to any score or voice; Kenny should listen once to each.
 
-## Calendar (done by Claude through the Google Calendar connector, 26 Nov 2026)
-- Deleted the events for Christmas Short 2 (Wed 9 Dec 18:00) and Short 3 (Fri 11 Dec 22:00); Short 1 Mon 7 Dec 18:00 kept.
-- Added Numbers ep 2 Tue 15 Dec 23:00, ep 3 Thu 31 Dec 15:00, ep 4 Tue 5 Jan 23:00 (Africa/Lagos, popups at 30 and 0 min).
-- Every item from 26 Nov onward under "Scheduled or planned" has an event, except the heartbreak Short (Fri 27 Nov): the calendar has only "Link heartbreak film as Related video" at 12:00, no 22:00 post event.
-- Still open, ask Kenny: the held Shorts still have events (Social Security Short 2 "Social Security Tax Explained" Fri 18 Dec 22:00, credit card Short 1 "Credit Card Minimum Payment" Thu 17 Dec 01:00). Delete them or keep?
-- Antigravity has no calendar connection; calendar changes are made by Kenny or by Claude until one is connected.
-
-## Not yet confirmed by Kenny
-- Which posts actually went live on 25 Nov and before (31 Texts film and Reel, Thanksgiving Reel, duplicate meal Reel deleted). The list above is still the plan as recorded.
+## Calendar (synced by Antigravity, 26 Nov 2026)
+- All 25 upcoming scheduled YouTube and Facebook posts (26 Nov to 20 Dec 2026) are synced to Google Calendar (aladekekhindee@gmail.com, Africa/Lagos) with Studio links and first-comment reminders.
+- Live status across all 4 accounts verified directly via YouTube and Meta APIs on 26 Nov 2026.
