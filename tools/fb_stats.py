@@ -13,21 +13,20 @@ GRAPH = "https://graph.facebook.com/v21.0"
 
 REEL_METRICS = ",".join([
     "fb_reels_total_plays",
-    "total_video_views",
-    "total_video_views_unique",
-    "total_video_avg_time_watched",
-    "total_video_view_total_time",
-    "total_video_10s_views",
-    "total_video_30s_views",
-    "total_video_complete_views",
-    "total_video_impressions",
+    "blue_reels_play_count",
+    "fb_reels_replay_count",
+    "post_video_avg_time_watched",
+    "post_video_view_time",
+    "post_video_followers",
 ])
 
 PAGE_METRICS = ",".join([
-    "page_impressions",
+    "page_media_view",
+    "page_total_media_view_unique",
     "page_follows",
     "page_post_engagements",
     "page_video_views",
+    "page_views_total",
 ])
 
 
@@ -96,9 +95,8 @@ def cmd_report(args):
             continue
 
         rows = [[
-            "video_id", "created_time", "length_s", "plays", "views_3s",
-            "unique_views", "views_10s", "views_30s", "complete_views",
-            "avg_watch_ms", "total_watch_ms", "impressions", "caption",
+            "video_id", "created_time", "length_s", "plays", "initial_plays",
+            "replays", "avg_watch_ms", "total_watch_ms", "new_followers", "caption",
         ]]
         for r in reels.get("data", []):
             ins = graph_get(f"{r['id']}/video_insights", {"metric": REEL_METRICS, "access_token": tok})
@@ -109,13 +107,11 @@ def cmd_report(args):
             cap = (r.get("description") or "").replace("\n", " ")[:70]
             rows.append([
                 r["id"], r.get("created_time", ""), r.get("length", ""),
-                vals.get("fb_reels_total_plays", ""), vals.get("total_video_views", ""),
-                vals.get("total_video_views_unique", ""), vals.get("total_video_10s_views", ""),
-                vals.get("total_video_30s_views", ""), vals.get("total_video_complete_views", ""),
-                vals.get("total_video_avg_time_watched", ""), vals.get("total_video_view_total_time", ""),
-                vals.get("total_video_impressions", ""), cap,
+                vals.get("fb_reels_total_plays", ""), vals.get("blue_reels_play_count", ""),
+                vals.get("fb_reels_replay_count", ""), vals.get("post_video_avg_time_watched", ""),
+                vals.get("post_video_view_time", ""), vals.get("post_video_followers", ""), cap,
             ])
-            print(f"  {r.get('created_time','')[:10]} | plays={vals.get('fb_reels_total_plays','?')} 3s={vals.get('total_video_views','?')} avg_ms={vals.get('total_video_avg_time_watched','?')} | {cap}")
+            print(f"  {r.get('created_time','')[:10]} | plays={vals.get('fb_reels_total_plays','?')} replays={vals.get('fb_reels_replay_count','?')} avg_ms={vals.get('post_video_avg_time_watched','?')} | {cap}")
 
         out_csv = os.path.join(OUT_DIR, f"{lbl}_reels.csv")
         with open(out_csv, "w", newline="") as f:
