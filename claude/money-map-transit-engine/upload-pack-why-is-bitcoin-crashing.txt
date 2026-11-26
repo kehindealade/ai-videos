@@ -1,0 +1,68 @@
+UPLOAD PACK: WHY IS BITCOIN CRASHING? (long video, Money Map)
+File: why-is-bitcoin-crashing.mp4 (8:12, 1920x1080)
+Captions: why-is-bitcoin-crashing.srt (upload in Subtitles, English)
+Thumbnail: thumb-why-is-bitcoin-crashing.png
+Post: Sat 21 Nov 2026, 5:30 pm Lagos (news window: about a week from the mid-November crash; same day as the scheduled $39 coffee Short, which stays as is)
+
+TITLE (50 characters)
+Why Is Bitcoin Crashing? Where Did $1 Trillion Go?
+
+DESCRIPTION
+Why is bitcoin crashing, and where did more than $1 trillion actually go? Bitcoin fell from about $126,000 to $62,000. We follow the money.
+
+Bitcoin's total market value dropped from about $2.5 trillion at its October 2025 peak to about $1.23 trillion in mid-November 2026. Most of that money never existed as cash. Market value is just the last price times every coin, so when the price falls, the number falls, even when very little money moves.
+
+But real dollars did move. Early sellers and fund exits took cash off the table: investors pulled about $1.91 billion out of US spot bitcoin ETFs in seven trading days. Over one weekend, more than $2 billion of leveraged crypto bets were liquidated, and that money went to traders on the other side and to the exchanges that closed the bets. Exchanges earned fees on every panic trade, and about $14.2 billion of stablecoin supply left crypto in 30 days.
+
+This is a bitcoin crash explained in plain English: crypto liquidations, ETF outflows, market cap and who gets paid when crypto crashes. It is not financial advice and does not tell you to buy or sell.
+
+Chapters
+0:00 Bitcoin lost $1 trillion
+0:36 Why bitcoin is crashing
+1:24 Stop 1: the trillion that never existed
+2:51 Stop 2: the people who sold first
+4:21 Stop 3: crypto liquidations explained
+6:18 Stop 4: who gets paid either way
+7:15 Where the money went
+
+Sources
+Crypto Briefing, "Bitcoin slides as much as 23% in November 2026" (price near $62,000; peak near $126,000, Oct 2025; six losing weeks)
+investingLive, "Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion" (16 Nov 2026)
+Crypto Briefing, "Bitcoin selloff tests resolve of committed investors" (ETF outflows ~$1.91B, 5 to 13 Nov)
+Bitcoin.com News, flash crash toward $61,000 and rebound near $64,600; market value ~$1.23T
+Cointelegraph, Hodler's Digest (Fear and Greed Index 10)
+Forklog / Glassnode (stablecoin supply 30-day change -$14.2B)
+The Motley Fool, "Why bitcoin is falling today" (13 Nov 2026: stronger dollar, rate-hike expectations)
+U.Today via Coinalyze (net selling ~$1.08B on Coinbase)
+Vietnamnet (2021 to 2022 fall of 75%)
+
+#bitcoin #crypto #bitcoincrash
+
+TAGS (paste as one line, 15 tags)
+why is bitcoin crashing, why is bitcoin crashing right now, bitcoin crash, bitcoin crash explained, why is crypto crashing, crypto liquidations, bitcoin liquidations, bitcoin etf outflows, where does the money go when bitcoin crashes, bitcoin price, crypto crash, bitcoin news, how crypto liquidation works, market cap explained, Money Map
+
+SETTINGS
+Audience: No, it's not made for kids
+Altered or synthetic content: No (animated explainer, synthetic narration not modelled on a real person)
+Category: Education
+Language and caption language: English
+Playlist: create "Money Explained" (or "Follow the Money") and add this video
+End screen: subscribe + How Banks Make Money
+Pinned comment: Before this video, where did you think the "lost" trillion went?
+
+SEO CHECK
+Primary keyword: "why is bitcoin crashing" (7/7 High demand, competition Medium: 16 of 50 title matches, 45% big channels)
+- Title: characters 1 to 23
+- Description first line: yes, first four words
+- Tags: first tag; "right now" variant second (autocomplete)
+- File name: why-is-bitcoin-crashing.mp4
+- Chapters: 7, first at 0:00, all over 10 s (12 of 25 top videos use chapters)
+Secondary (autocomplete and seo tool): bitcoin crash, why is crypto crashing, crypto liquidations, bitcoin etf outflows; each used once or twice in the description
+Hashtags: 3
+Thumbnail text ("-$1.2 TRILLION / WHO GOT IT?") uses different words from the title
+
+HOOK
+Biggest question (last Money Map video used a shocking number). Frame 1: the departure board already showing $2.5 TRILLION, flipping to $1.23 TRILLION with "WHO GOT IT?" stamped, same as the thumbnail. First line: "Bitcoin just lost more than a trillion dollars." (8 words)
+
+POLICY AND REPETITION GATE
+Passes. Explains, never advises; says "not advice" on screen and in the narration; every figure sourced; no predictions; no political content. New look (transit map), new structure (route with stops), new voice (am_fenrir), new sound (ambient pad, station chimes).

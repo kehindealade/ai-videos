@@ -1,0 +1,25 @@
+FACEBOOK PACK: MONEY MAP BITCOIN REEL (complete story, Money Map Page)
+Replaces the plan to post the two YouTube Shorts on Facebook (they end on "full video", which Facebook viewers cannot follow). The YouTube Shorts stay YouTube-only.
+
+File: money-map-bitcoin-reel-facebook.mp4 (1:26, 1080x1920, narration am_fenrir, captions burned in)
+Cover: reel-cover-bitcoin-1080x1920.png
+Post: Thu 19 Nov 2026, 3:00 pm Lagos (9 am New York, Facebook's top Thursday slot; same-day news gets more Reels reach). If you miss it: Fri 20 Nov, 2:00 pm.
+
+WHAT IT COVERS (start to finish, no "watch the full video" ending)
+Hook: $2.5T to $1.23T, "WHO GOT IT?". Then the drop from $126,000 to $62,000, then four answers: 1 most of it was never cash (ten-coin example), 2 early sellers ($1.91B out of US bitcoin funds in 7 trading days), 3 forced sellers (leverage example, $2B+ liquidated in one weekend, to traders on the other side and exchange fees), 4 paid either way (fees on panic trades, $14.2B of stablecoins left crypto in 30 days). Close: "Mostly a number. The real money went to a few places. Not advice. Follow the money."
+
+CAPTION
+Bitcoin lost more than $1 trillion in value. So who actually got the money?
+Most of it was never cash. The rest went to four very specific places.
+Not financial advice.
+Sources: Crypto Briefing, investingLive, Bitcoin.com News, Forklog/Glassnode (Nov 2026).
+#bitcoin #crypto #money #moneymap
+
+FIRST COMMENT (post as the Page, then pin it)
+Before this, where did you think the lost trillion went?
+
+STEPS
+Switch to the Money Map Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip music > paste caption > turn on the AI info label (synthetic voice) > Share, or Schedule in Meta Business Suite for 3:00 pm > pin the first comment > reply as the Page in the first 30 minutes.
+
+RULES CHECK
+Original file, no watermark, new caption wording, no YouTube link in the caption (it lives in the Page's About section), no engagement bait, AI label on, "not advice" on screen and in the caption.

@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 163. Pending: 56. Excluded: 1.
+220 files in the project. Copied: 177. Pending: 42. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -129,20 +129,20 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-thanks-engine/common.py | copied |
 | claude/money-map-thanks-engine/facebook-pack-thanksgiving-reel.txt | copied |
 | claude/money-map-thanks-engine/thanks.py | copied |
-| claude/money-map-transit-engine/content.py | pending |
-| claude/money-map-transit-engine/covers.py | pending |
-| claude/money-map-transit-engine/engine.py | pending |
-| claude/money-map-transit-engine/facebook-pack-bitcoin-reels.txt | pending |
-| claude/money-map-transit-engine/fbreel.py | pending |
-| claude/money-map-transit-engine/mix.py | pending |
-| claude/money-map-transit-engine/mkshorts.py | pending |
-| claude/money-map-transit-engine/shorts.py | pending |
-| claude/money-map-transit-engine/thumb.py | pending |
-| claude/money-map-transit-engine/tts.py | pending |
-| claude/money-map-transit-engine/tts_short.py | pending |
-| claude/money-map-transit-engine/upload-pack-short-1-500-never-existed.txt | pending |
-| claude/money-map-transit-engine/upload-pack-short-2-liquidated.txt | pending |
-| claude/money-map-transit-engine/upload-pack-why-is-bitcoin-crashing.txt | pending |
+| claude/money-map-transit-engine/content.py | copied |
+| claude/money-map-transit-engine/covers.py | copied |
+| claude/money-map-transit-engine/engine.py | copied |
+| claude/money-map-transit-engine/facebook-pack-bitcoin-reels.txt | copied |
+| claude/money-map-transit-engine/fbreel.py | copied |
+| claude/money-map-transit-engine/mix.py | copied |
+| claude/money-map-transit-engine/mkshorts.py | copied |
+| claude/money-map-transit-engine/shorts.py | copied |
+| claude/money-map-transit-engine/thumb.py | copied |
+| claude/money-map-transit-engine/tts.py | copied |
+| claude/money-map-transit-engine/tts_short.py | copied |
+| claude/money-map-transit-engine/upload-pack-short-1-500-never-existed.txt | copied |
+| claude/money-map-transit-engine/upload-pack-short-2-liquidated.txt | copied |
+| claude/money-map-transit-engine/upload-pack-why-is-bitcoin-crashing.txt | copied |
 | claude/posting-timetable.md | copied |
 | claude/readability-and-retention-rules.md | copied |
 | claude/script-relatable-reel-10-group-chat.md | copied |
