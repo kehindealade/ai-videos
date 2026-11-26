@@ -19,10 +19,10 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Thu 3 Dec 15:00: "Why is rent so expensive?" Reel (Money Map FB, scheduled via API, moved from Thu 10 Dec); "Wave back at someone who wasn't waving" Reel (Small Win FB, scheduled via API, moved from Wed 9 Dec)
 - Sat 28 Nov 17:00: Two Cups Short (Small Win YT, EEBA9t7TRa4, uploaded and scheduled via API)
 - Sun 6 Dec 16:00: Christmas film "She Never Knocked" (Small Win YT, ArNDjYgSFME, uploaded and scheduled via API with thumbnail); Tue 8 Dec 01:00 its Short 1 "She Drove to His House Every Christmas Eve" (03QiAzUZifc, uploaded and scheduled via API). Shorts 2 and 3 held, not deleted (Kenny, 26 Nov 2026)
-- Tue 8 Dec 15:00: RAM Short
+- Tue 8 Dec 01:00: RAM Short (Money Map YT, z-taMuhMGgc, uploaded and scheduled via API with .srt, moved to US evening Shorts wave)
 - Sun 6 Dec 16:00: Social Security long (Money Map YT, 4oTBvpeAqP8, uploaded and scheduled via API with thumbnail and .srt, moved from Sun 13 Dec to fill Q4 Sunday slot); Thu 10 Dec 01:00 its Short 1 (WgSmdcw9kcU, uploaded and scheduled via API with .srt; Short 2 held)
 - Tue 15 Dec: credit card rewards long 15:00 (YouTube); "First paycheck" Reel 23:00 (Small Win FB, Numbers ep 2, rendered to Drive); Sun 20 Dec 16:00 credit card Short 2 (Short 1 held)
-- Wed 16 Dec 13:00: "Every Sunday at 6, She Called" film; Fri 18 Dec 22:00 its Short
+- Sun 13 Dec 16:00: "Every Sunday at 6, She Called" film (Small Win YT, 0AeHk21YU70, uploaded and scheduled via API with thumbnail, moved to top Sunday slot); Tue 15 Dec 01:00 its Short (pX2_fmfqrac, uploaded and scheduled via API)
 - Sun 20 Dec 16:00: "The pay later hangover" Reel (Money Map FB, scheduled via API, moved from Sun 27 Dec to fit Meta 29-day window and hit pre-Christmas peak)
 - Held, unposted: betting set (long and two Shorts, Paper look), duplicate meal Reel (Kenny was told to delete it), $39 coffee Short (to reschedule)
 
