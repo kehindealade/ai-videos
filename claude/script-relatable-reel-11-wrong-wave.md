@@ -1,6 +1,6 @@
 # Script: relatable Reel 2, "POV: you wave back at someone who wasn't waving at you" (build plan 24 Nov, conversation 11)
 
-Status: APPROVED ("go") and BUILT 24 Nov 2026. Build notes and the final design are in claude/film-log-7-relatable-reel-2-wrong-wave.md; engine in claude/small-win-wave-engine/.
+Status: APPROVED ("go") and BUILT 24 Nov 2026. Build notes and the final design are in claude/film-log.md (merged 26 Nov 2026); engine in claude/small-win-wave-engine/.
 
 Series: "It's Not Just Me", episode 2 (end card: IT'S NOT JUST ME / EPISODE 2 · THE WRONG WAVE / FOLLOW FOR EPISODE 3, sprout logo above).
 

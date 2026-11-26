@@ -32,3 +32,9 @@ Current calendar (reminder + calendar event for each, updated 19 Nov 2026, 23:20
 - Open slots: Money Map Facebook Mon 23 (restaurant Reel already posted); Small Win Films Facebook between Thu 19 and Wed 25
 - Removed 19 Nov: Studio "edit 4 schedules" checklist, Bitcoin Facebook Reel 15:00 reminder, old Bad Day-only TikTok reminder, Mon 23 restaurant Reel reminder and calendar event (posted early)
 - Unscheduled: Money Map $39 coffee Short (to be rescheduled); TikTok for both Reels once the account is set up (undated reminder only)
+
+## New US slots, approved 26 Nov 2026 (apply from Mon 7 Dec 2026; already scheduled posts keep their slots)
+  - YouTube long: Mon 20:00, Tue 20:00, Wed 21:00, Thu 21:00 (2 to 3 pm ET), Sat 14:00 (8 am ET), Sun 16:00 (10 am ET, kept). Wed and Thu 13:00 are retired for new posts.
+  - YouTube Shorts: main evening lane Tue to Thu 01:00 to 02:00 next day (scheduler); Fri 22:00 (top); Sat 17:00 and Sat 01:00 Sun (new); West Coast lane 03:00 to 04:00 Lagos for evergreen Shorts only; avoid 09:00 to 13:00 Lagos.
+  - Facebook Reels: Tue and Wed 23:00 to 00:00 (new evening lane), Thu 15:00 and Sun 16:00 (kept). Still no Saturday. The older weekday Facebook slots above are fallbacks only.
+  - Kept: Facebook first, YouTube an hour later for the same video; Shorts after their long video. After 3 weeks compare first-hour views and US share per lane and switch to what wins.

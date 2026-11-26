@@ -31,7 +31,7 @@ Kenny (Kehinde Alade), based in Lagos, Nigeria. Senior backend engineer. All tim
 3. claude/analytics-lessons.md, claude/readability-and-retention-rules.md, claude/vertical-video-rules.md, claude/voice-rules.md, claude/upload-checklist.md
 4. Channel log before any new video:
    - Money Map: claude/money-map-style-log.md, then entries 12 to 15 (claude/money-map-style-log-12-*.md to -15-*.md), claude/money-map-research.md
-   - Small Win Films: claude/film-log.md, then entries 5 to 9 (claude/film-log-5-*.md to -9-*.md), claude/story-films-blueprint.md, claude/small-win-films-research.md
+   - Small Win Films: claude/film-log.md (entries 5 to 9 merged in on 26 Nov 2026), claude/story-films-blueprint.md, claude/small-win-films-research.md
 5. STATUS.md (what is posted, scheduled, built and still open) and claude/build-plan-2026-11-24.md (the current build plan)
 6. ENGINE-INDEX.md (every engine and how to render it)
 

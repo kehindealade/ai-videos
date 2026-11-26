@@ -1,4 +1,4 @@
-# Status (as of 25 Nov 2026)
+# Status (as of 26 Nov 2026)
 
 Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memory/video-kits.md, memory/youtube-title-plan.md. Times are Lagos (WAT). Check YouTube Studio and Facebook for what actually went live; this is the plan as last recorded.
 
@@ -18,7 +18,7 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Tue 1 Dec: national debt long 15:00 (YouTube); group chat Reel 23:00 (Small Win FB)
 - Wed 2 Dec 18:00: debt Short A; Sat 5 Dec 15:00: debt Short B
 - Thu 3 Dec 15:00: tax brackets Reel (Money Map FB)
-- Sun 6 Dec 16:00: Christmas film "She Never Knocked"; its Shorts Mon 7, Wed 9, Fri 11 Dec (ask Kenny whether to cut to one, per the one-Short rule)
+- Sun 6 Dec 16:00: Christmas film "She Never Knocked"; its one Short Mon 7 Dec 18:00 (Short 1 "She Drove to His House Every Christmas Eve"). Shorts 2 and 3 held, not deleted (Kenny, 26 Nov 2026)
 - Tue 8 Dec 15:00: RAM Short
 - Wed 9 Dec 23:00: wrong wave Reel (Small Win FB)
 - Thu 10 Dec 15:00: rent Reel (Money Map FB)
@@ -29,12 +29,12 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Held, unposted: betting set (long and two Shorts, Paper look), duplicate meal Reel (Kenny was told to delete it), $39 coffee Short (to reschedule)
 
 ## Open build work (claude/build-plan-2026-11-24.md)
-- Conversation 8: Small Win Films "Numbers that say everything" eps 2 to 4 (first paycheck, gym card by 31 Dec, last day). Not started.
+- Conversation 8: Small Win Films "Numbers that say everything" eps 2 to 4 (first paycheck, gym card, last day). Scripts sent 26 Nov 2026 (claude/script-numbers-eps-2-4.md), waiting for Kenny's go. Planned: ep 2 Tue 15 Dec 23:00, ep 3 Thu 31 Dec 15:00, ep 4 Tue 5 Jan 23:00 (Small Win FB).
 - Conversation 9: three standalone Small Win Films Shorts (email rewritten six times, bus stop bench, moving out). Scripts need resending for Kenny's go. Not started.
 - Conversation 5 (optional): "How Mortgage Rates Work" long plus one Short. Not started.
 - "Why is it so expensive?" ep 3 cars (promised on the RAM end card), Lego last.
-- Facebook Christmas Reel (optional). Merge film-log entries 5 to 9 into claude/film-log.md.
-- Proposed new US posting slots (claude/series-plan-2026-11-24.md) await Kenny's approval.
+- Facebook Christmas Reel (optional).
+- Done 26 Nov 2026: film-log entries 5 to 9 merged into claude/film-log.md; new US posting slots approved (memory/posting-timetable.md), used for every new post from Mon 7 Dec; workflow.md rules 8 and 10 and analytics-lessons rule 5 updated to the one-Short and Chatterbox rules.
 
 ## Known gaps
 - story-films-engine/film.py imports timeline.py, which was never saved to the Project. ENGINE-INDEX.md gives a stand-in that renders the scenes without whistle notes.
@@ -42,3 +42,12 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - yt-stats sign-in: token excluded from the export; sign in again, and set the OAuth consent screen to In production so tokens stop expiring weekly.
 - vidIQ credits 0 until 17 Dec 2026.
 - Claude could not listen to any score or voice; Kenny should listen once to each.
+
+## Calendar to-do (Google Calendar not connected yet on 26 Nov 2026; do these as soon as it is)
+- Delete the events for Christmas Short 2 (Wed 9 Dec 18:00) and Short 3 (Fri 11 Dec 22:00); keep Short 1 Mon 7 Dec 18:00.
+- Check the events for the held Shorts (Social Security Short 2 Fri 18 Dec 22:00, credit card Short 1 Thu 17 Dec 01:00) and ask Kenny before deleting them.
+- Add events for conversation 8 once built: ep 2 Tue 15 Dec 23:00, ep 3 Thu 31 Dec 15:00, ep 4 Tue 5 Jan 23:00 (Africa/Lagos, popup alerts, title "SmallWinFilms | Facebook Reel | Post: <title>").
+- Check that every event listed under "Scheduled or planned" exists.
+
+## Not yet confirmed by Kenny
+- Which posts actually went live on 25 Nov and before (31 Texts film and Reel, Thanksgiving Reel, duplicate meal Reel deleted). The list above is still the plan as recorded.

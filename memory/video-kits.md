@@ -71,3 +71,9 @@ aliases: [blueprint, blueprints, video kit, Stickman-Wall-Shorts, geography zip,
 ## Export and tools (25 Nov 2026)
 - [stated] weighing a move to Google AI Pro (Gemini 4 Neon, Antigravity with Opus 5.5) for this project; wants every project file exported so another AI can continue, and chose GitHub plus Google Drive for the export; said "go" on 25 Nov 2026 and the export is under way (docs and memory notes done, engine code still to copy in batches)
 - [stated] created the export targets: GitHub repo github.com/kehindealade/ai-videos and a Google Drive folder (drive.google.com/drive/folders/1QSBdcQ4Rqq63XXO-bq6apsgq3-HkjzZC)
+
+## Antigravity takeover (26 Nov 2026)
+- [stated] 26 Nov 2026: moved the project to Antigravity (remote agent on GitHub repo kehindealade/ai-videos plus the Drive folder AI videos); renders go to Drive AI videos/Renders; Python stays the engine language (his TypeScript preference is for his other code); Chatterbox is installed only when a narrated build needs it
+- [stated] 26 Nov 2026: approved the new US posting slots from claude/series-plan-2026-11-24.md; one Short only for the Christmas film (Short 1); ep 2 of "Numbers that say everything" posts the week of 14 Dec (first free Small Win Facebook lane, Tue 15 Dec 23:00), ep 3 stays 31 Dec to 2 Jan; asked to update workflow.md rules 8 and 10 and analytics-lessons rule 5 and to merge film-log entries 5 to 9 (done)
+- [stated] 26 Nov 2026: connecting Google Calendar; every reminder gets a matching calendar event
+- [stated] 26 Nov 2026: started build plan conversation 8; three scripts sent (claude/script-numbers-eps-2-4.md), waiting for his go

@@ -1,6 +1,6 @@
 # Series plan: US-first, high-paying lanes (proposed 24 Nov 2026, waiting for Kenny's pick)
 
-Status: PROPOSED. Nothing built. Kenny picks series and slots, then each build runs in its own conversation (see build order).
+Status: posting slots APPROVED 26 Nov 2026; series picks still open. Small Win Films ep 2 to 4 are being built as conversation 8 of claude/build-plan-2026-11-24.md. Kenny picks series and slots, then each build runs in its own conversation (see build order).
 
 ## Data limits (read first)
 - The yt-stats YouTube sign-in (label smallwin) returned invalid_grant on 24 Nov 2026 (token expired or revoked; most likely the 7-day expiry for a Google Cloud app left in Testing status, signed in 17 Nov). The scan, outlier and seo commands could not run, so competition level (title match, big channel share) and small-channel wins are NOT measured for these topics. Demand below comes from YouTube autocomplete depth (free), earlier vidIQ volumes (money-map-research.md) and news checks. Re-run `scan` after a new sign-in and update the picks.
@@ -44,7 +44,7 @@ Series "Numbers that say everything" continues. Three options for episode 2 (pic
 - C. Commute: 4,380 hours, the years he spends in the car, and the one day he takes the long way home.
 All adult, non-graphic, no names, US everyday settings (US dollars, US workplaces). Check against film-log.md before building.
 
-## New US posting slots (proposed, add to topics/posting-timetable.md after approval)
+## New US posting slots (APPROVED by Kenny 26 Nov 2026, added to memory/posting-timetable.md and claude/posting-timetable.md)
 Lagos time (WAT), US Eastern = Lagos minus 6 h until 7 Mar 2027, then minus 5 h until 1 Nov 2027. Pacific = Lagos minus 9 h.
 Evidence: Buffer 2026 (1.8M YouTube videos): Shorts peak 6 to 11 pm local, Friday 4 pm top, Tue to Thu 7 to 9 pm; long-form best Sunday 10 am, weekday mornings. SocialPilot 2026: long 2 to 4 pm local weekdays, Sat and Sun 8 to 10 am, Shorts 12 to 2 pm or 6 to 7 pm, upload 1 to 2 hours before the peak, avoid 3 to 7 am for Shorts and weekday long before 9 am. vidIQ (40M videos): the exact hour barely moves 30-day views, so treat slots as defaults and test.
 - YouTube long, NEW afternoon lane: Mon 20:00, Tue 20:00, Wed 21:00, Thu 21:00 (2 to 3 pm ET, before the 5 to 7 pm peak). Keep Sun 16:00 (10 am ET). NEW Sat 14:00 (8 am ET). Wed and Thu 13:00 (7 am ET) moves to 21:00.

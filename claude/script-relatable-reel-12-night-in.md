@@ -1,6 +1,6 @@
 # Script: relatable Reel 3, "In this town, everybody goes out partying except me" (build plan 24 Nov, conversation 12)
 
-Status: APPROVED ("go") and BUILT 24 Nov 2026. See claude/film-log-8-relatable-reel-3-night-in.md for what was built (timings shifted slightly: "...EXCEPT ME." at 0:13.4, whole-building shot 0:12 to 0:14, neighbour 0:20.6 to 0:24, pill reaches 47 at 0:24, 3:00 AM card 0:25, rain and street 0:26 to 0:30, REGRETTING IT at 0:28).
+Status: APPROVED ("go") and BUILT 24 Nov 2026. See claude/film-log.md (merged 26 Nov 2026) for what was built (timings shifted slightly: "...EXCEPT ME." at 0:13.4, whole-building shot 0:12 to 0:14, neighbour 0:20.6 to 0:24, pill reaches 47 at 0:24, 3:00 AM card 0:25, rain and street 0:26 to 0:30, REGRETTING IT at 0:28).
 
 Meme: "In This Town, Everybody Goes Out Partying Except Me" (#1 on MemeStand 20 Nov 2026). Joke only: no original sound, no game look, no clip.
 

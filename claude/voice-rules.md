@@ -3,7 +3,7 @@
 Added 22 Nov 2026 at Kenny's request: add random, normal human expression and emotion to the voices, and stop reusing the same voices. Applies to all new videos from now on. Do not re-voice videos already made.
 
 Two voice engines are allowed (Kenny, 22 Nov 2026: toggle between them on demand and use whichever is best, no need to ask):
-- Kokoro (kokoro-onnx, offline, voice name plus speed per line; the engines' tts.py files already accept a per-line voice and speed). Default, fast on CPU, best for long narration. No emotion controls, so expression comes from the script text, per-line speed and gaps.
+- Kokoro (kokoro-onnx, offline, voice name plus speed per line; the engines' tts.py files already accept a per-line voice and speed). Since 24 Nov 2026 used only for Chatterbox reference clips or as the fallback (see the speed test note below); fast on CPU. No emotion controls, so expression comes from the script text, per-line speed and gaps.
 - Chatterbox Turbo (free, MIT, 350M parameters; pip install chatterbox-tts; from chatterbox.tts_turbo import ChatterboxTurboTTS). More expressive: it performs text tags such as [laugh], [chuckle], [sigh], [cough] and natural reactions. It needs a 5 to 10 second reference clip to set the voice and it watermarks its output. The project is archived (retired Aug 2026) but the code and weights stay free on GitHub and HuggingFace.
 
 Expression is done inside the single voice generation we already run, so it adds no extra generation, no extra renders and almost no extra usage.

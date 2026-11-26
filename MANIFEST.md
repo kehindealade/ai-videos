@@ -35,11 +35,11 @@ Regenerate with: python3 tools/manifest.py
 | claude/christmas-engine/thumbs.py | copied |
 | claude/christmas-engine/xm.py | copied |
 | claude/content-plan-2026-11-24-set2.md | copied |
-| claude/film-log-5-she-never-knocked.md | copied |
-| claude/film-log-6-relatable-reel-1-group-chat.md | copied |
-| claude/film-log-7-relatable-reel-2-wrong-wave.md | copied |
-| claude/film-log-8-relatable-reel-3-night-in.md | copied |
-| claude/film-log-9-every-sunday-at-6.md | copied |
+| claude/film-log-5-she-never-knocked.md | merged into claude/film-log.md on 26 Nov 2026 |
+| claude/film-log-6-relatable-reel-1-group-chat.md | merged into claude/film-log.md on 26 Nov 2026 |
+| claude/film-log-7-relatable-reel-2-wrong-wave.md | merged into claude/film-log.md on 26 Nov 2026 |
+| claude/film-log-8-relatable-reel-3-night-in.md | merged into claude/film-log.md on 26 Nov 2026 |
+| claude/film-log-9-every-sunday-at-6.md | merged into claude/film-log.md on 26 Nov 2026 |
 | claude/film-log.md | copied |
 | claude/handoff-facebook.md | copied |
 | claude/handoff-money-map-paper-style.md | copied |

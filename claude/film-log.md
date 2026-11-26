@@ -1,6 +1,6 @@
 # Film Log
 
-Read this before planning a new film. Never delete or shorten older film entries (the 17 Nov 2026 reset below was Kenny's own decision). Project-wide rules (research, policy and repetition gate, hooks, SEO) are in `claude/yt-stats/workflow.md`; topic research is in `claude/small-win-films-research.md`.
+Read this before planning a new film. Entries 5 to 9 (formerly separate docs claude/film-log-5 to -9) were merged here on 26 Nov 2026. Never delete or shorten older film entries (the 17 Nov 2026 reset below was Kenny's own decision). Project-wide rules (research, policy and repetition gate, hooks, SEO) are in `claude/yt-stats/workflow.md`; topic research is in `claude/small-win-films-research.md`.
 
 Reset on 17 Nov 2026: Kenny restarted Small Win Films from scratch. Film 1 ("For 40 Days, Nobody Stopped", market stall) was deleted from YouTube and film 2 ("I Tried 4 Things to Fix a Bad Day", mechanic) was never posted, so their entries were cleared at his request. Neither film should be posted later as is. The Lessons below were kept because they come from Kenny's feedback and film 1's real numbers.
 
@@ -15,6 +15,13 @@ Every new video, Short, Reel, cover and thumbnail gets a design not used before:
 - 31 Texts She Never Sent Short and Reel (19 Nov): re-laid-out 9:16 scenes (compose.frame9) with phone-style status pills, af_nicole hook, ink end card with large sprout at the top and three lines. Covers: crying close-up scaled up with outlined two-line text (Short), same with a dark band (Reel).
 - Two Cups Facebook Reel (19 Nov): tear-off calendar page top left (cream page, terracotta binding, two rings, big day number, the old page tears away on each new day, pages riffle 40 to 1 on "40 days earlier."); cup tally top right (two yellow cups over "CUPS EVERY MORNING", the second fades to a dashed outline on day 90); scene inside a rounded window with a cream border in the middle; captions on slate below; bm_george hook in two lines ("Every morning, I still make her tea. She's been gone forty days."), cups pulse on "tea"; end card lines inside the same window with the calendar on 90 and one cup, logo and name in a small row at the bottom. Cover: same calendar, tally and window with the cold-open close-up, "2 CUPS." (yellow) and "HE LIVES ALONE." outlined below (first version "SHE'S GONE. HE STILL MAKES HER TEA." was rejected by Kenny for giving the story away).
 - "3 alarms" Facebook Reel (21 Nov, "Numbers that say everything" ep 1): no voice, solo piano. Full-bleed flat scenes drawn straight in 9:16 with no counters, pills, windows or calendar. A big phone close-up is the hook device (frame 1: three work alarms ON, a ping per alarm, text "He set 3 alarms for work." then the calendar "No events" and "0 for her birthday."), big rounded outlined text lines in the top third that fade in per beat ("8 pm.", "9 pm.", "10 pm.", "4 alarms.", "Late. But he showed up."), a wall clock for time passing, scenes cut between phone close-ups and room shots. End card: cream-to-apricot ground, sprout logo, "NUMBERS THAT SAY EVERYTHING / EPISODE 1 · 3 ALARMS", "FOLLOW FOR EPISODE 2" pill; loops to the phone. Cover: phone alarm list with "3 ALARMS." and "NOT ONE FOR HER." (no cake, no apology). Engine claude/small-win-numbers-engine/.
+- She Never Knocked YouTube Short 1 "She Drove to His House Every Christmas Eve" (0:34): full-bleed 9:16 re-framing of the film scenes, white rounded plaque hook "3 CHRISTMASES. 0 KNOCKS." on frame 1, round cream YEAR stamp top left, three empty knock rings top right, big outlined captions at mid height, green-ink end card with sprout, "Did she knock?" and a gold "FOLLOW FOR THE NEXT FILM" pill. Cover "3 YEARS. ONE DOOR." on the cabin close-up. (21 Nov)
+- She Never Knocked YouTube Short 2 "I Bought Him a Gift Every Year. Never Gave One." (0:28): hook plaque "A GIFT EVERY YEAR. NEVER GIVEN.", dark "GIFTS NEVER GIVEN" tray with four gift slots filling per year, YEAR stamp on the right, cupboard framing; gifts slide into the cupboard. Cover "3 GIFTS. NEVER GIVEN." on the cupboard. (21 Nov)
+- She Never Knocked YouTube Short 3 "Year Four. I Finally Knocked." (0:33): hook plaque "YEAR 4. I FINALLY KNOCKED.", knock rings fill gold after the third knock, pan from Maya to Daniel on the stare shot. Cover "YEAR 4. SHE KNOCKED." on the door and fist. (21 Nov)
+- "Every group chat ever" Facebook Reel (24 Nov, It's Not Just Me ep 1): own generic chat app UI filling the whole screen (no phone frame), navy ground with coral first bubble and pastel reply bubbles, 8 drawn avatars with no names, header "The Crew". Counter pill "PLANS MADE: 0" centred at y 318 to 414 (inside the safe band, never top right), shakes on each failed plan. Message stack flows down from y 760 then scrolls, camera punch-in of 3% on every ping. Beats: card "EVERY GROUP CHAT EVER" (0 to 3.4 s), seven replies with rising pings, "what day works?" then three typing-dots that vanish, full-screen cream calendar flipping January to December (16.0 to 21.0 s), "Seen by 8", divider "12 MONTHS LATER" and the same chat faster, stamped text "EVERY. SINGLE. YEAR.", end card (sprout logo, IT'S NOT JUST ME, EPISODE 1 · THE GROUP CHAT, FOLLOW FOR EPISODE 2 pill). Cover: card, bubble, "YES omg", typing dots, pill "PLANS MADE: ?".
+- "Wave back at someone who wasn't waving" Facebook Reel (24 Nov, It's Not Just Me ep 2): first-person (POV) flat sunny street, no phone UI and no counter pill. Peach sky with sun and clouds, row of pastel shopfronts with striped awnings (no signs), trees, teal street with cream lane dashes, sand pavement with perspective tile joints. Viewer's own mustard sleeve and brown hand enter from the bottom right (left arm too for the stretch). Device: a dotted wave arc (cream dots with ink rims growing toward camera, coral head) that leaves the stranger's hand, then bends to the person behind you. Comic starburst "HEY!!". Sticker cards (cream, thick ink outline, offset shadow, slight tilt, Luckiest Guy) at y 1070 to 1330, coral "RECOVERY n" tag pills above. Recoveries: hair fringe drops in at the top while the hand pats; camera tilts up to the sky with birds; both arms stretch. Walk-off: parallax scroll, step bob, two nods, a passer-by glances. "EVERYBODY SAW THAT.": stranger, friend, passer-by, a neighbour behind a window curtain and a peeking pigeon all turn and stare (eyes appear). End card: deep teal, dotted arc across the top, sprout, IT'S NOT JUST ME, EPISODE 2 · THE WRONG WAVE, yellow FOLLOW FOR EPISODE 3 pill. Cover: stranger waving, arc ending in a coral "?" circle, card WAS THAT WAVE / FOR YOU? at y 400 to 720, your hand rising.
+- "Everybody goes out except me" Facebook Reel (24 Nov, It's Not Just Me ep 3): dollhouse cutaway of one tall building at night (front wall removed, 8 floors x 2 flats), camera scrolls down floor by floor, pulls out to the whole building, then zooms into one flat. Party flats in magenta, cyan, lime and violet neon with dancing silhouettes, disco balls on the top floor, string lights below; clothes fly, doors glow, lights click off as each flat leaves. Street with generic yellow taxis. Your flat: warm amber floor lamp, teal sofa, lavender blanket burrito, cereal, striped socks, small TV, wall clock, phone on the armrest. Neighbour in a gold sparkly top at the door with "COMING??" bubble. 3 am: rain clipped outside the building, lightning flash, soaked crowd with shoes in hand and a broken umbrella, flats relight warm. Device: neon-outlined pill GOING OUT TONIGHT: n at y 318 to 414 that pops on each departure and flips to REGRETTING IT: 47 (magenta). Cards: dark slabs with neon tube glow, Lilita One. End card: indigo night skyline with one amber window, sprout, IT'S NOT JUST ME, EPISODE 3 · THE NIGHT IN, lime FOLLOW FOR EPISODE 4 pill. Cover: whole neon building with your amber flat outlined, pill 47/48, card WHO STAYED / HOME?
+- Every Sunday at 6 YouTube Short "She called every Sunday at 6. He let it ring." (0:39): new vertical split, her kitchen on top (0 to 880), a paper MISSED SUNDAYS band with red top and bottom rules and the red-circled count on the right (880 to 1030), his side below. Hook plaque (paper, ink plus red line) at y 600: "SHE CALLED EVERY / SUNDAY AT 6." then "HE LET IT RING.". Captions in a dark rounded pill at y 1192 to 1302. Twelve beats, weeks 1 to 5, ending at 6:00 PM in week 5 with the phone ringing (no pick-up), end card "Week 5. / Does he pick up?" circled in red with a plum "WATCH THE FULL FILM" pill. Cover: same split with gran on the phone, "EVERY SUNDAY AT 6. HE LET IT RING." and MISSED SUNDAYS ?. (24 Nov)
 
 ## Channel and setup
 
@@ -59,6 +66,107 @@ Every new video, Short, Reel, cover and thumbnail gets a design not used before:
 17. Thumbnails and covers are cliffhangers, never summaries (Kenny, said several times, last on 19 Nov 2026). The image and its words must open a question the video answers, and must not show or state the outcome, the cause of the problem, or the twist. Ways that work: a contradiction the viewer cannot resolve (two cups, he lives alone), an action frozen before it finishes, a number or count with no explanation, a reaction face without what caused it. Test before sending: if someone could tell the whole story from the thumbnail alone, redo it. The question must be answered early in the video (inside the hook) so retention holds.
 
 ## Films
+
+### Film 6: Every Sunday at 6, She Called (24 Nov 2026)
+
+Built in conversation 7 of claude/build-plan-2026-11-24.md on Opus. Script: claude/script-small-win-film-a-sunday-call.md.
+
+Title: "Every Sunday at 6, She Called | Short Film About Grandparents" (the plan's "(Short Film)" was replaced by the keyword). Length 3:00, 1920x1080, 30 fps, -15.4 LUFS. Short "She called every Sunday at 6. He let it ring." 0:39, 1080x1920, -14.4 LUFS. Engine, packs, thumbnail and cover in claude/sunday-call-engine/. Posting: film Wed 16 Dec 13:00 Lagos, Short Fri 18 Dec 22:00 Lagos (Google Calendar events set; the phone reminder call got no reply, so it may not exist).
+
+Story in one sentence: a grandmother calls her adult grandson every Sunday at 6, he lets it ring for four weeks while a counter climbs, and in week five he picks up on the first ring.
+
+Picks:
+- Grandmother: 70s, skin #6B4A33, silver hair in a bun, thin gold oval glasses, gold stud earrings, plum cardigan #6F4A7A with cream collar and pearl buttons, dark plum skirt. Grandson: mid-20s adult with a desk job, skin #4A2E1F, black hair with a fade, rust overshirt #B85A2E over a cream tee, black trousers, charcoal headphones in week 1. No names; the screen says GRANDMA only.
+- Sets: her kitchen (dusty rose wallpaper with cream dots, cream wainscot, terracotta tiles, sunset window with mustard curtains, wall clock, his framed graduation photo, mint wall phone with coiled cord, red SUNDAYS calendar, round table with a mint teapot and cups); his teal night apartment (city window, mustard lamp, desk, grey couch, coffee table, takeaway box); an open-plan office; a night train; a wooden table close-up for the phone.
+- Device (new): split screen at 6:00 every Sunday, her left and him right, with a cream divider and a round wall clock reading 6:00 straddling it.
+- Meter (new style): cream paper card top left, "MISSED SUNDAYS" in plum with the number circled in red marker (the circle is drawn on each new count, with a marker squeak); label line SUNDAY · 6:00 PM, or the weekday during his week (MONDAY, WEDNESDAY, FRIDAY, SATURDAY), and "PICKED UP · RING 1" at the end. Big at centre-right for the first 3 s (showing 3), then shrinks to its corner. Counts 0, 1, 2, 3, 4.
+- Small story variables: the second cup (set out in week 2, put back; set out again in week 4 and left out; filled in week 5), the framed photo straightened in week 3, the lock screen's missed-call notification during his week, the phone turned face down in week 4 (matches the cold open), and face up waiting in week 5.
+- Palette: rose #CF8F86, cream #F8EFDE, plum #6F4A7A, mint #8CC7A8, red marker #CC292E, terracotta #8F4F3B, teal #1F3D46, phone glow #8CD9F2, rust #B85A2E, mustard #E0A845.
+- Music (new): Rhodes electric piano, solo flute, upright bass, string-like pad and light brushes, 66 bpm 4/4. C minor (Cm Ab Eb Bb / Cm Ab Fm G), flute motif G4 C5 Eb5 D5 C5 Bb4 G4. Sparse Rhodes under the buzz in the cold open, flute from week 1, walking bass and brushes in his week, fuller flute and pad in weeks 2 and 3, swell in week 4 (2:00 to 2:12 loudest), near silence from 2:14 (clock ticks and three single Rhodes notes), silence and the ring at 2:29, Eb major after the pick-up with the flute melody, ducked under the line, resolving Rhodes arpeggio on the end card. Effects: phone buzz on frame 1, ringback tone, keypad DTMF, hang-up clunk, clock ticks, cup clinks, office murmur, train rumble, pour.
+- Voice: one line, Chatterbox Turbo with a Kokoro reference blend bm_george + am_fenrir 0.40: "Hi, Grandma... Sorry I'm late." Her answer is a laugh only, Chatterbox Turbo "[laugh] [chuckle]" with reference blend bf_alice + bf_emma 0.36. Claude could not listen to either; Kenny should listen once.
+- Lines: She calls every Sunday at 6. / I let it ring. / 3 Sundays earlier. / Week 1. / No answer. / Monday. / He meant to call back. / Wednesday. / Friday. / Saturday. / Week 2. / She set out his cup. / She put it back. / Later. / Week 3. / Week 4. / He watched the clock. / He turned it over. / This time, she left it out. / Week 5. / This time, he was waiting. / First ring. / She poured his cup. / Hi, Grandma. Sorry I'm late.
+- Cold open (5 s): phone face down buzzing on a wooden table with the big MISSED SUNDAYS 3; a hand flips it to GRANDMA calling (thumbnail moment); his worried face lit by the phone; the ring stops. Shots change at 0, 1.7, 3.1, 5.0, then every 2.5 to 3 s through 0:30 (fixes the Christmas film's static-scene weakness).
+- End card (new): paper calendar page with a red top strip, sprout logo, "Small Win Films", "Who's still waiting for your call?" circled in red marker, "Small stories. Small wins."
+- Thumbnail: his worried face on the left lit by phone glow, the ringing phone with GRANDMA and ring arcs on the right, "HE LET / IT RING." (cream and mustard) top right. No pick-up shown.
+- Gate: passes (adults, no names, no illness or death, no politics, honest warm ending).
+
+Vertical design: see "Designs used" above.
+
+Known weak spots: characters front-on; the couch-sleep pose is a rotated seated figure; the hand on the phone is a simple mitten; the son's laptop and phone sit beside him rather than in front; the voice and laugh were not heard by Claude.
+
+### Reel series "It's Not Just Me", episode 3: "In this town, everybody goes out partying except me" (Facebook Reel only, 24 Nov 2026)
+
+Series "It's Not Just Me", episode 3. Conversation 12 of build plan 24 Nov. Built on Opus. Engine claude/small-win-night-engine/, pack in the same folder. Script claude/script-relatable-reel-12-night-in.md (approved "go" 24 Nov; the reply-all script before it was dropped).
+
+Story in one line: everyone in the building gets ready and goes out, you stay in with cereal and a blanket, they come home soaked at 3 am, you are asleep and smiling.
+
+Meme: the joke of the trending "In This Town, Everybody Goes Out Partying Except Me" (#1 on MemeStand 20 Nov 2026). Its sound, the game it came from and the clip were not used.
+
+Format: 0:38, 1080x1920 full bleed, music only, loops. Posting Thu 26 Nov 2026 15:00 Lagos (early, while the meme is fresh).
+
+Design: see "Designs used" above.
+
+Score: synth house 122 bpm low-passed through walls, opening on the street and fading with distance, record stop into kalimba with room tone and TV murmur, buzzes, knocks, spoon ting, clock chimes, rain, thunder, squelchy steps, womp on REGRETTING IT, music-box bells, end chime. -16.3 LUFS, peak -1.0 dBFS. Claude could not listen to it, so Kenny should listen once.
+
+SEO: autocomplete suggests "in this town everybody goes out partying except me" and "everybody goes out partying except me" (exact), used in caption and hashtag.
+
+Known weak spots: figures are simple silhouettes; the whole-building shot (0:12 to 0:14) shows small detail on a phone; the return crowd is small in frame.
+
+### Reel series "It's Not Just Me", episode 2: "POV: you wave back at someone who wasn't waving at you" (Facebook Reel only, 24 Nov 2026)
+
+Series "It's Not Just Me", episode 2. Conversation 11 of build plan 24 Nov. Built on Opus. Engine claude/small-win-wave-engine/, pack in the same folder. Script claude/script-relatable-reel-11-wrong-wave.md (approved "go" 24 Nov).
+
+Story in one line: a stranger across the road waves, you wave back big, the wave was for the person behind you, you freeze, try three recoveries, walk it off, and everybody saw.
+
+Format: 0:38, 1080x1920 full bleed, music only, loops. Posting Wed 9 Dec 2026 23:00 Lagos (Google Calendar event and phone reminder set).
+
+Design: see "Designs used" above.
+
+Score: pizzicato strings, glockenspiel and shaker, D major, 107.37 bpm (17 bars = 38 s); record-stop and one held note at 0:11, near silence with one clock tick, a weaker chord per recovery, quiet walking groove with footsteps, two-note ding on NOBODY, descending womp on EVERYBODY, glock end chime. -16.3 LUFS, peak -1.3 dBFS. Claude could not listen to it, so Kenny should listen once.
+
+SEO: autocomplete suggests "when you wave at someone who wasn't waving at you" (exact), used in the caption.
+
+Known weak spots: figures are simple and faceless until the final stare; the walk-off (0:24 to 0:31) is the quietest stretch; ending cuts straight to frame 1.
+
+### Reel series "It's Not Just Me", episode 1: "Every group chat ever" (Facebook Reel only, 24 Nov 2026)
+
+Series: "It's Not Just Me" (all relatable Reels use it on the end card). Episode 1. Conversation 10 of build plan 24 Nov. Built on Sonnet. Engine claude/small-win-chat-engine/, pack in the same folder.
+
+Story in one line: a group chat says "we should hang out soon!!", everyone replies, nobody picks a day, and a year later it happens again.
+
+Format: 0:38, 1080x1920 full bleed, music only, loops. Posting Tue 1 Dec 2026 23:00 Lagos (Google Calendar event set; no phone alarm because alarms cannot be set more than 24 h ahead).
+
+Design: see "Designs used" above.
+
+Score: lo-fi electric piano, 101.05 bpm, 16 bars = 38.0 s, drums drop at the question, pad and clock ticks under the calendar, dead air before the end chime. -16 LUFS. Claude could not listen to it, so Kenny should listen once.
+
+Known weak spots: static UI with simple avatars; ending cuts straight to the first frame; no SEO autocomplete check (quota).
+
+### Film 5: She Never Knocked (Christmas, 21 Nov 2026)
+
+Built in build conversation 5 (claude/build-plan-2026-11-21.md) on Sonnet 5.5.
+
+Title: "Christmas Animated Short Film | She Never Knocked". Length 3:00, 1920x1080, 30 fps, -16.5 LUFS. Engine and packs in claude/christmas-engine/. Posting: film Sun 6 Dec 16:00 Lagos; Shorts Mon 7 Dec 18:00, Wed 9 Dec 18:00, Fri 11 Dec 22:00 (all YouTube).
+
+Story in one sentence: after her brother missed her wedding, a woman drives to his house every Christmas Eve for three years but never knocks, and on the fourth she does.
+
+Picks:
+- Protagonist Maya, mid-30s, dark brown skin #5C3826, braids in a low bun, burgundy coat #8C2F39, mustard scarf #D9A441. Brother Daniel, early 30s, beard, grey hoodie under navy parka. Neither name is Nigerian.
+- Sets: her small teal car (cabin close-up with steering wheel and door handle, and side view), his snowy row-house street with amber streetlamp and a lit window (tree, takeaway and TV glow, phone), her apartment with a wooden cupboard and a window, a wedding hall with an empty chair labelled DANIEL, his front door, the inside of his home (two mugs, tree, four gifts).
+- Meter (new style): car-dashboard display, top right, green monospace text "CHRISTMAS EVE: YEAR n" and "KNOCKED: 0 or 1". Giant green 0 on the right of the cold open that shrinks into the display; a giant 1 at the knock.
+- Palette: night navy #1F2A44, snow #E8EEF6, window gold #F4B860, coat burgundy, scarf mustard, amber street light.
+- Music: 3/4 waltz, 84 bpm. Music box melody, celesta, plucked chords, cello bass, string pad. B minor theme, first 8 notes F#5 D5 B4 A4 B4 D5 F#5 E5; D major version at the door opening (A5 F#5 D5 E5 F#5 A5 B5 A5). Sparse cold open, swell years 3 and the wait, near silence from 1:42 (cello drone and three quiet music-box notes), silence with the three knocks at 1:58, full D major from 2:05, resolving arpeggio at the end card. Effects: thump and bell on frame 1, engine idle, wipers, dog bark, car door, snow crunch, knocks, door latch and creak, phone buzz, keys, digital blips. Could not listen to it.
+- Opening line "Three Christmases. I never knocked." then card "Three years earlier." Closing lines "Neither of us went first." and "This year, someone did." End card: sprout, "Next: the bus stop. 60 days. 0 words."
+- All lines: Three Christmases. I never knocked. / Three years earlier. / He missed my wedding. / I stopped answering. / Christmas Eve. / Year two. / I kept buying them. / Year three. / Year four. / I was driving to you. / He'd waited by the phone every Christmas too. / Neither of us went first. / This year, someone did.
+- Thumbnail: close-up of Maya at the car door looking at his lit window, text "3 CHRISTMASES." (gold) over "NEVER KNOCKED." (cream) top centre-right. No outcome shown.
+- Real detail from Kenny: none given (script approved with "continue").
+
+Vertical designs: see "Designs used" above (three YouTube Shorts, 21 Nov 2026).
+
+
+Known weak spots: the wedding (0:07 to 0:12) and phone (0:12 to 0:17) scenes are static for 5 s each, against the "new picture every 2 to 3 s" rule for the first 30 s (a slow camera push on each would fix it); characters are mostly front-on; the Shorts reuse the film's score; a Facebook Christmas Reel was not built (optional in the plan).
+
+One-Short rule (Kenny, 26 Nov 2026): only Short 1 "She Drove to His House Every Christmas Eve" posts (Mon 7 Dec 18:00 Lagos, after the film on Sun 6 Dec 16:00). Short 2 and Short 3 are held, not deleted; Short 3 also gives the ending away, so it should not be used as is.
 
 ### Reel series: "Numbers that say everything", episode 1 "3 alarms" (Facebook Reel only, 21 Nov 2026)
 
