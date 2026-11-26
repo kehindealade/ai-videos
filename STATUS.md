@@ -43,11 +43,12 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - vidIQ credits 0 until 17 Dec 2026.
 - Claude could not listen to any score or voice; Kenny should listen once to each.
 
-## Calendar to-do (Google Calendar not connected yet on 26 Nov 2026; do these as soon as it is)
-- Delete the events for Christmas Short 2 (Wed 9 Dec 18:00) and Short 3 (Fri 11 Dec 22:00); keep Short 1 Mon 7 Dec 18:00.
-- Check the events for the held Shorts (Social Security Short 2 Fri 18 Dec 22:00, credit card Short 1 Thu 17 Dec 01:00) and ask Kenny before deleting them.
-- Add events for conversation 8 once built: ep 2 Tue 15 Dec 23:00, ep 3 Thu 31 Dec 15:00, ep 4 Tue 5 Jan 23:00 (Africa/Lagos, popup alerts, title "SmallWinFilms | Facebook Reel | Post: <title>").
-- Check that every event listed under "Scheduled or planned" exists.
+## Calendar (done by Claude through the Google Calendar connector, 26 Nov 2026)
+- Deleted the events for Christmas Short 2 (Wed 9 Dec 18:00) and Short 3 (Fri 11 Dec 22:00); Short 1 Mon 7 Dec 18:00 kept.
+- Added Numbers ep 2 Tue 15 Dec 23:00, ep 3 Thu 31 Dec 15:00, ep 4 Tue 5 Jan 23:00 (Africa/Lagos, popups at 30 and 0 min).
+- Every item from 26 Nov onward under "Scheduled or planned" has an event, except the heartbreak Short (Fri 27 Nov): the calendar has only "Link heartbreak film as Related video" at 12:00, no 22:00 post event.
+- Still open, ask Kenny: the held Shorts still have events (Social Security Short 2 "Social Security Tax Explained" Fri 18 Dec 22:00, credit card Short 1 "Credit Card Minimum Payment" Thu 17 Dec 01:00). Delete them or keep?
+- Antigravity has no calendar connection; calendar changes are made by Kenny or by Claude until one is connected.
 
 ## Not yet confirmed by Kenny
 - Which posts actually went live on 25 Nov and before (31 Texts film and Reel, Thanksgiving Reel, duplicate meal Reel deleted). The list above is still the plan as recorded.
