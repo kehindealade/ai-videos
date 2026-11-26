@@ -49,3 +49,5 @@ aliases: []
 - [stated] Wants clean, paste-ready formatting and respects tight character limits where specified
 - [stated] Creative concepts should be explained rather than delivered as files unless files are explicitly requested
 - [stated] Code style: NestJS and TypeScript, no comments, no docblocks, no unnecessary abstractions
+- [stated] 26 Nov 2026: automated API scheduling is now part of the workflow (tools/yt_upload.py for YouTube, tools/fb_reels.py for Facebook Reels), always scheduling to the earliest open best slot after passing claude/qa-gate.md
+- [stated] 26 Nov 2026: region and timezone targeting per video: if a topic fits a specific region better than the US Eastern default (e.g. UK, Europe, Australia, SE Asia, US-UK overlap), schedule to that region's best local peak slot and tweak currency, examples, spelling, language and search keywords to target that region
