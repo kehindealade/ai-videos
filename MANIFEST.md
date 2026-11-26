@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 124. Pending: 95. Excluded: 1.
+220 files in the project. Copied: 134. Pending: 85. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -65,16 +65,16 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-city-engine/s4.py | copied |
 | claude/money-map-city-engine/s4_content.py | copied |
 | claude/money-map-iou-engine/README.txt | copied |
-| claude/money-map-iou-engine/covers.py | pending |
-| claude/money-map-iou-engine/iou_common.py | pending |
-| claude/money-map-iou-engine/iou_content.py | pending |
-| claude/money-map-iou-engine/iou_engine.py | pending |
-| claude/money-map-iou-engine/iou_mix.py | pending |
-| claude/money-map-iou-engine/iou_shorts.py | pending |
-| claude/money-map-iou-engine/tts.py | pending |
-| claude/money-map-iou-engine/upload-pack-short-a-not-china.txt | pending |
-| claude/money-map-iou-engine/upload-pack-short-b-social-security-ious.txt | pending |
-| claude/money-map-iou-engine/upload-pack-who-owns-national-debt-long.txt | pending |
+| claude/money-map-iou-engine/covers.py | copied |
+| claude/money-map-iou-engine/iou_common.py | copied |
+| claude/money-map-iou-engine/iou_content.py | copied |
+| claude/money-map-iou-engine/iou_engine.py | copied |
+| claude/money-map-iou-engine/iou_mix.py | copied |
+| claude/money-map-iou-engine/iou_shorts.py | copied |
+| claude/money-map-iou-engine/tts.py | copied |
+| claude/money-map-iou-engine/upload-pack-short-a-not-china.txt | copied |
+| claude/money-map-iou-engine/upload-pack-short-b-social-security-ious.txt | copied |
+| claude/money-map-iou-engine/upload-pack-who-owns-national-debt-long.txt | copied |
 | claude/money-map-paper-engine/content.py | pending |
 | claude/money-map-paper-engine/engine.py | pending |
 | claude/money-map-ram-engine/MoneyMap_youtube-short_why-is-ram-so-expensive_upload-pack.txt | copied |
