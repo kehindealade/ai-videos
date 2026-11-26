@@ -49,6 +49,7 @@ General pattern: pycairo draws each frame, frames are piped to ffmpeg, audio is 
 | tools/qa.py | Mandatory QA gate: resolution, fps, loudness, true peak, border bars, phone-size sheets |
 | tools/yt_upload.py | YouTube Data API v3 resumable uploader, thumbnail, .srt captions and scheduler (reuses claude/yt-stats/client.json) |
 | tools/fb_reels.py | Meta Graph API v21.0 Facebook Page Reels uploader, scheduler, cover and comment tool |
+| tools/fb_stats.py | Meta Graph API v21.0 Facebook Page and Reels analytics reporter + permanent Page token exchanger |
 | tools/manifest.py | Rebuilds MANIFEST.md (which project files are copied or pending) |
 
 Free YouTube autocomplete without sign-in: curl "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=<phrase>"
