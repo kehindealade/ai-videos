@@ -69,5 +69,5 @@ aliases: [blueprint, blueprints, video kit, Stickman-Wall-Shorts, geography zip,
 - [stated] 24 Nov 2026: rejected the conversation 12 reply-all script ("nah"); wants relatable Reels built on a currently popular meme as the joke, not necessarily office-specific; picked "In this town, everybody goes out partying except me" and approved ("go"); conversation 12 DONE: It's Not Just Me ep 3 (dollhouse cutaway building look), engine claude/small-win-night-engine/, log entry claude/film-log-8-relatable-reel-3-night-in.md; post Thu 26 Nov 15:00 Lagos (Google Calendar and phone reminder set)
 
 ## Export and tools (25 Nov 2026)
-- [stated] weighing a move to Google AI Pro (Gemini 4 Neon, Antigravity with Opus 5.5) for this project; wants every project file exported so another AI can continue, and chose GitHub plus Google Drive for the export
+- [stated] weighing a move to Google AI Pro (Gemini 4 Neon, Antigravity with Opus 5.5) for this project; wants every project file exported so another AI can continue, and chose GitHub plus Google Drive for the export; said "go" on 25 Nov 2026 and the export is under way (docs and memory notes done, engine code still to copy in batches)
 - [stated] created the export targets: GitHub repo github.com/kehindealade/ai-videos and a Google Drive folder (drive.google.com/drive/folders/1QSBdcQ4Rqq63XXO-bq6apsgq3-HkjzZC)
