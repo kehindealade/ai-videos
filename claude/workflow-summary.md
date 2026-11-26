@@ -33,3 +33,5 @@ Upload rendered mp4 and png files to the Google Drive folder "AI videos/Renders"
 On YouTube, rename the file to the primary keyword, upload from desktop Studio as Unlisted, set English (United States) and not made for kids, use no licensed or trending audio on Shorts, wait for green Copyright and Ad suitability checks, then schedule at the timetable slot. Shorts go live after their long video so you can link the long as the Related video. On Facebook, upload the Reel manually with the custom cover, skip Facebook music, paste the caption and pin the first comment question (no engagement bait). About 48 hours after posting, check yt.py report plus Studio and Facebook screenshots, log retention, 3-second hold and search terms against the baseline in analytics-lessons.md, and apply what you learn to future videos without re-editing old ones.
 
 Final rule: always ask Kenny before changing a finished video or moving a post off its slot.
+
+QA gate (added 26 Nov 2026): before any upload or "done", follow claude/qa-gate.md: safe loudness mux, python3 tools/qa.py, all 9 manual checks answered from the phone-size sheets, fix and re-run until everything passes.

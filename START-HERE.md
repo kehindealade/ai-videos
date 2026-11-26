@@ -34,6 +34,7 @@ Kenny (Kehinde Alade), based in Lagos, Nigeria. Senior backend engineer. All tim
    - Small Win Films: claude/film-log.md (entries 5 to 9 merged in on 26 Nov 2026), claude/story-films-blueprint.md, claude/small-win-films-research.md
 5. STATUS.md (what is posted, scheduled, built and still open) and claude/build-plan-2026-11-24.md (the current build plan)
 6. ENGINE-INDEX.md (every engine and how to render it)
+7. claude/qa-gate.md (the check every render must pass before upload; run python3 tools/qa.py)
 
 ## How a video gets made
 
@@ -41,7 +42,8 @@ Kenny (Kehinde Alade), based in Lagos, Nigeria. Senior backend engineer. All tim
 2. Write the script with the hook named first. Small Win Films: send the script and wait for Kenny's go.
 3. Copy the closest engine from ENGINE-INDEX.md into a new folder and change the look, palette, music, voice and layout so nothing repeats.
 4. Voice (Money Map and spoken hooks): a never-used voice per voice-rules.md. Chatterbox Turbo is the default (Kenny found Kokoro alone too robotic), Kokoro builds the reference clip.
-5. Render stills first, check the safe zones and the first 15 seconds, then render the video, then loudness-normalise (about -16 LUFS, true peak below -1 dBTP).
+5. Render stills first, check the safe zones and the first 15 seconds, then render the video, then mux with the safe loudness chain in claude/qa-gate.md (about -16 LUFS, true peak below -1 dBTP).
+5b. QA gate: python3 tools/qa.py OUT.mp4 COVER.png, answer the 9 manual checks from the phone-size sheets, fix and re-run until everything passes. Nothing is uploaded or called done before this.
 6. Thumbnail or cover (cliffhanger), checked with claude/yt-stats/thumbcheck.py.
 7. Upload pack txt per video (title, description, chapters, tags, SEO check, UPLOAD STEPS block).
 8. Update the channel log, memory/ notes and this repo. Name files CHANNEL_platform_topic.

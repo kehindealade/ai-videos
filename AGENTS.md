@@ -17,5 +17,6 @@ Standing rules (full versions in memory/preferences.md and claude/yt-stats/workf
 11. Never commit rendered media (mp4, wav, png). Put renders in the Google Drive folder "AI videos/Renders".
 12. Reply style: plain, practical, concrete examples, no bold, no em dashes, no headers in prose replies.
 13. Ask Kenny before anything that changes a finished video's content, moves a post past its slot, or that you judge unadvisable.
+14. QA gate: no video, Short, Reel or cover is uploaded or reported done until it passes claude/qa-gate.md (mux with the safe loudness chain, run python3 tools/qa.py, answer all 9 manual checks from the sheets, fix and re-run until everything passes). Paste the results in your reply.
 
 Engines and render commands: ENGINE-INDEX.md. Current state: STATUS.md. Setup: setup.sh or render.ipynb.

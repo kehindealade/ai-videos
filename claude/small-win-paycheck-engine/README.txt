@@ -12,4 +12,6 @@ Commands (run from this folder):
 - Score and SFX: python3 pc_audio.py
 - Silent video: python3 paycheck_reel.py render /tmp/paycheck_silent.mp4
 - Final mux with loudness normalisation (-16 LUFS, true peak <= -1.5 dBTP):
-  ffmpeg -y -i /tmp/paycheck_silent.mp4 -i mix_raw.wav -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -af "loudnorm=I=-16:TP=-1.5:LRA=11" -shortest -movflags +faststart /tmp/SmallWinFilms_facebook-reel_first-paycheck.mp4
+  ffmpeg -y -i /tmp/paycheck_silent.mp4 -i mix_raw.wav -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -af "loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000,alimiter=limit=0.79:level=false" -shortest -movflags +faststart /tmp/SmallWinFilms_facebook-reel_first-paycheck.mp4
+
+QA (26 Nov 2026): the first render failed claude/qa-gate.md (stub text under 48 px, floating feet on the bus, stray line in the envelope scene, frame 1 not a question, teal bands on the end card, true peak 0.0 dBTP). Fix before posting, then run python3 ../../tools/qa.py on the new mp4.
