@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 177. Pending: 42. Excluded: 1.
+220 files in the project. Copied: 179. Pending: 40. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -221,7 +221,7 @@ Regenerate with: python3 tools/manifest.py
 | claude/why-expensive-engine/wx_engine.py | copied |
 | claude/yt-stats/seeds-moneymap.txt | copied |
 | claude/yt-stats/seeds-smallwin.txt | copied |
-| claude/yt-stats/thumbcheck.py | pending |
+| claude/yt-stats/thumbcheck.py | copied |
 | claude/yt-stats/workflow.md | copied |
 | claude/yt-stats/yt-signin.txt | excluded: secret (OAuth client and refresh token), never committed |
-| claude/yt-stats/yt.py | pending |
+| claude/yt-stats/yt.py | copied |
