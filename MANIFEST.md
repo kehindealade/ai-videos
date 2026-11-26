@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 134. Pending: 85. Excluded: 1.
+220 files in the project. Copied: 142. Pending: 77. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -164,10 +164,10 @@ Regenerate with: python3 tools/manifest.py
 | claude/small-win-night-engine/ni_audio.py | copied |
 | claude/small-win-night-engine/night_reel.py | copied |
 | claude/small-win-numbers-engine/README.txt | copied |
-| claude/small-win-numbers-engine/alarms3.py | pending |
-| claude/small-win-numbers-engine/common.py | pending |
-| claude/small-win-numbers-engine/facebook-pack-3-alarms-reel.txt | pending |
-| claude/small-win-numbers-engine/piano_loop.py | pending |
+| claude/small-win-numbers-engine/alarms3.py | copied |
+| claude/small-win-numbers-engine/common.py | copied |
+| claude/small-win-numbers-engine/facebook-pack-3-alarms-reel.txt | copied |
+| claude/small-win-numbers-engine/piano_loop.py | copied |
 | claude/small-win-wave-engine/README.txt | copied |
 | claude/small-win-wave-engine/SmallWinFilms_facebook-pack_wave-back-wasnt-waving.txt | copied |
 | claude/small-win-wave-engine/wave_reel.py | copied |
@@ -215,10 +215,10 @@ Regenerate with: python3 tools/manifest.py
 | claude/vertical-video-rules.md | copied |
 | claude/voice-rules.md | copied |
 | claude/why-expensive-engine/README.txt | copied |
-| claude/why-expensive-engine/ink.py | pending |
-| claude/why-expensive-engine/upload-pack-printer-ink-short.txt | pending |
-| claude/why-expensive-engine/wx_common.py | pending |
-| claude/why-expensive-engine/wx_engine.py | pending |
+| claude/why-expensive-engine/ink.py | copied |
+| claude/why-expensive-engine/upload-pack-printer-ink-short.txt | copied |
+| claude/why-expensive-engine/wx_common.py | copied |
+| claude/why-expensive-engine/wx_engine.py | copied |
 | claude/yt-stats/seeds-moneymap.txt | copied |
 | claude/yt-stats/seeds-smallwin.txt | copied |
 | claude/yt-stats/thumbcheck.py | pending |

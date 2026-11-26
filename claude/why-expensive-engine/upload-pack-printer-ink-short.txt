@@ -1,0 +1,49 @@
+UPLOAD PACK: MONEY MAP SHORT, "WHY IS PRINTER INK SO EXPENSIVE?" (series "Why is it so expensive?" episode 1)
+File: why-is-printer-ink-so-expensive.mp4 (0:25, 1080x1920, captions burned in; already named)
+Cover: short-cover-printer-ink-1080x1920.png
+Captions file: why-is-printer-ink-so-expensive.srt (optional, burned-in captions already there)
+Post: Mon 30 Nov 2026, 6:00 pm Lagos (12 pm New York), by hand. Timetable Monday Short slot.
+
+TITLE (51 characters)
+Why Is Printer Ink So Expensive? (Not Just the Ink)
+
+DESCRIPTION
+Why is printer ink so expensive? One HP 962 black cartridge worked out to $40.22 an ounce in a January 2025 comparison, about three times an 18-year-old Scotch.
+
+The reason is the razor and blades model: one estimate said a $70 printer cost about $120 to build, so the money is in the refills. The cartridge is built to fit only that printer, and a study of ink costs says refills can add up to more than the printer's price within a year or two. You are not just buying ink, you are paying for the business model.
+
+Episode 1 of "Why is it so expensive?" on Money Map. Next: why is Lego so expensive? Follow the money.
+
+#shorts #printerink #moneymap
+
+TAGS (under 500 characters)
+why is printer ink so expensive, why is ink so expensive, printer ink cost, printer ink price per ounce, razor and blades model, how printer companies make money, ink cartridge price, why are printers cheap, HP ink cost, business model explained, shorts, Money Map
+
+SETTINGS
+Not made for kids; altered content No (synthetic voice is not realistic-person content); Education; English
+Related video: none (stand-alone Short)
+Playlist: Why Is It So Expensive? (create it; Lego and RAM episodes go in it)
+Pinned comment: Which costs you more, your printer or its ink? Reply and I'll use the best answers in the next episode.
+
+SEO CHECK
+Primary keyword "why is printer ink so expensive" is at the start of the title and the first sentence of the description. YouTube autocomplete 21 Nov 2026: "why is printer ink so expensive" and "why is ink so expensive" both suggest (exact phrase present, so searchers type it). Secondary keywords: why is ink so expensive, printer ink cost, razor and blades model, how printer companies make money. vidIQ has 0 credits until 17 Dec and the yt-stats quota was used up on 21 Nov, so no score and no seo run; autocomplete only.
+
+HOOK
+Shocking number. Frame 1: "THIS INK COSTS MORE THAN AGED SCOTCH?" with the cartridge blueprint, the $40.22 PER OUNCE callout and bars racing (steak $3.41, Scotch $13.01, ink $40.22), then "3x". Works with sound off (captions burned in). Payoff (the business model) at 0:08; the closing frame repeats the opening cartridge and callout.
+Analytics lessons met: dramatic first frame with question text, new picture every 2 to 3 s, phone-size captions and callouts, a reason to follow on the end card (EP. 2 teaser, FOLLOW pill), full-bleed 9:16.
+
+COVER
+Cliffhanger: "WHY IS INK SO EXPENSIVE?" with the cartridge and $40.22 PER OUNCE. It never shows the reason. Text sits in the upper-middle, clear of the bottom 25% and the right edge.
+
+CHANGE FROM THE SCRIPT (important)
+The script's hook was "This ink costs more per ounce than silver". Silver is now about $50 to $65 an ounce (Kitco, Fortune, Oct and Nov 2026) against $29.04 when the source was written, so that claim is no longer true and was dropped. The same source table supports a true comparison: ink vs an 18-year Scotch, about 3.1x, and about 11.8x a dry-aged ribeye.
+
+FACTS AND SOURCES
+- Techlicious, "HP Printer Ink Is Even More Expensive than You Might Think", 1 Jan 2025: HP 962 standard black cartridge $37 = $40.22 per ounce (about 0.92 oz of ink by weight); Macallan 18-Year Sherry Oak $13.01 per ounce; dry-aged ribeye $3.41 per ounce. Ratios: 40.22 / 13.01 = 3.09; 40.22 / 3.41 = 11.8. Its "ounce" for ink is by weight (cartridge weighed), so "per ounce" is the source's own comparison, not a fluid-ounce one. The video says "about 0.9 oz" for the cartridge.
+- Retail check 21 Nov 2026: HP 962 black now lists at $43.89 to $45.99 (Walmart, Newegg, CDW $43.99, Staples), so per ounce today is higher than the January 2025 figure; the video labels the prices "Techlicious, Jan 2025".
+- Consumer Reports ("Why is printer ink so expensive?"; the page shows no date): IHS Markit estimated the build cost of a $70 HP Envy 4520 at about $120; HP declined to comment. One model, one estimate; the video says "one estimate" and labels it on screen. The article calls it a classic razor-and-blade model.
+- Techlicious: for printers under $200, the recurring cost of ink can pass the printer's price within a year or two of moderate use; "cartridge built to fit only that printer" is the proprietary cartridge point in the same article. The count scene's blocks are an illustration, labelled ILLUSTRATION on screen.
+- Shown brand: only the example cartridge "HP 962 BLACK" as the sourced product; no claim about any company's intent beyond the sourced estimate.
+
+GATE
+Passes. Consumer research, sourced; no advice to buy or skip a product; estimate and illustration labelled. New look ("blueprint": white lines on deep blue grid, drafting dimension arrows, yellow callouts; Anton, Share Tech Mono), new voice (af_aoede 0.98), new structure (number race, then four "figures"), hook type shocking number. Length 0:25 (script 35 s; the shorter cut keeps every beat).
