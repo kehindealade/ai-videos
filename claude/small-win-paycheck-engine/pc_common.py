@@ -85,7 +85,7 @@ def rrect(c, x, y, w, h, r):
     c.close_path()
 
 
-def caption_card(c, lines, y_center=1215, a=1.0, bg=INK, fg=CREAM, accent=CHERRY, size=56):
+def caption_card(c, lines, y_center=1205, a=1.0, bg=INK, fg=CREAM, accent=CHERRY, size=72):
     if a <= 0.01 or not lines:
         return
     if isinstance(lines, str):
@@ -94,10 +94,10 @@ def caption_card(c, lines, y_center=1215, a=1.0, bg=INK, fg=CREAM, accent=CHERRY
     font(c, H, True)
     c.set_font_size(size)
     widths = [c.text_extents(ln).width for ln in lines]
-    pad_x = 46
-    line_h = int(size * 1.24)
-    w = min(870, max(widths) + pad_x * 2)
-    h = len(lines) * line_h + 44
+    pad_x = 38
+    line_h = int(size * 1.18)
+    w = min(880, max(widths) + pad_x * 2)
+    h = len(lines) * line_h + 36
     x = (VW - w) / 2
     y = y_center - h / 2
     # Shadow
@@ -108,7 +108,7 @@ def caption_card(c, lines, y_center=1215, a=1.0, bg=INK, fg=CREAM, accent=CHERRY
     rrect(c, x, y, w, h, 22)
     c.set_source_rgba(*bg, 0.94 * a)
     c.fill()
-    # Cherry left stripe
+    # Accent left stripe
     c.save()
     rrect(c, x, y, w, h, 22)
     c.clip()
@@ -122,7 +122,7 @@ def caption_card(c, lines, y_center=1215, a=1.0, bg=INK, fg=CREAM, accent=CHERRY
     c.set_line_width(3)
     c.stroke()
     # Text
-    start_y = y + 22 + size * 0.86
+    start_y = y + 18 + size * 0.84
     for i, ln in enumerate(lines):
         txt(c, ln, VW / 2 + 6, start_y + i * line_h, size, fg, H, "c", a, True)
     c.restore()
@@ -135,43 +135,42 @@ def punch_card_counter(c, hours, stamp_pulse=0.0, a=1.0, scale=1.0, cy=366):
     c.translate(VW / 2, cy)
     s = scale * (1.0 + 0.08 * stamp_pulse)
     c.scale(s, s)
-    w, h = 440, 96
+    w, h = 580, 108
     x, y = -w / 2, -h / 2
     # Drop shadow
-    rrect(c, x + 5, y + 7, w, h, 14)
+    rrect(c, x + 5, y + 7, w, h, 16)
     c.set_source_rgba(0, 0, 0, 0.28 * a)
     c.fill()
     # Manila card
-    rrect(c, x, y, w, h, 14)
+    rrect(c, x, y, w, h, 16)
     c.set_source_rgba(*KRAFT, a)
     c.fill()
     # Top punch notch
     c.set_source_rgba(*TEAL_DARK, a)
-    c.arc(0, y, 14, 0, math.pi)
+    c.arc(0, y, 12, 0, math.pi)
     c.fill()
     # Ruled border
-    rrect(c, x + 6, y + 6, w - 12, h - 12, 10)
+    rrect(c, x + 6, y + 6, w - 12, h - 12, 12)
     c.set_source_rgba(*INK, 0.45 * a)
     c.set_line_width(2.5)
     c.stroke()
-    # Label + stamped hours
-    txt(c, "TIME CARD · HOURS", x + 26, y + 36, 22, INK, M, "l", 0.78 * a, True)
-    txt(c, f"{int(hours):02d}", x + w - 28, y + 76, 62, PURPLE, M, "r", a, True)
-    # Mini stamp squares
+    # 5 purple stamp squares on left
     for k in range(5):
-        bx = x + 26 + k * 42
-        by = y + 48
-        rrect(c, bx, by, 32, 32, 6)
+        bx = x + 26 + k * 44
+        by = y + 34
+        rrect(c, bx, by, 34, 40, 7)
         filled = hours >= (k + 1) * 16
-        c.set_source_rgba(*(PURPLE if filled else KRAFT_DARK), (0.88 if filled else 0.5) * a)
+        c.set_source_rgba(*(PURPLE if filled else KRAFT_DARK), (0.90 if filled else 0.55) * a)
         c.fill()
         if filled:
             c.set_source_rgba(*CREAM, a)
-            c.set_line_width(3.5)
-            c.move_to(bx + 8, by + 16)
-            c.line_to(bx + 14, by + 23)
-            c.line_to(bx + 25, by + 10)
+            c.set_line_width(4)
+            c.move_to(bx + 8, by + 20)
+            c.line_to(bx + 15, by + 28)
+            c.line_to(bx + 26, by + 12)
             c.stroke()
+    # Big readable hours count (cap height > 48 px)
+    txt(c, f"{int(hours):02d} HRS", x + w - 26, y + 79, 72, PURPLE, H, "r", a, True)
     c.restore()
 
 
@@ -275,7 +274,6 @@ def draw_woman(c, cx, cy, scale=1.0, mood="smile", uniform=True, blink=False):
             c.arc(ex - 2.5, ey - 2.5, 2.5, 0, 2 * math.pi)
             c.fill()
             c.set_source_rgb(*INK)
-        # Eyebrow
         c.set_line_width(5.5)
         if mood == "shock":
             c.move_to(ex - 16, ey - 28)
@@ -436,19 +434,16 @@ def sprout(c, x, y, s, a=1.0):
 
 def draw_safe_zones(c):
     c.save()
-    # Danger zones: top 270, bottom 400 (from 1520), right 70, left 70
     c.set_source_rgba(1.0, 0.15, 0.15, 0.22)
     c.rectangle(0, 0, VW, 270)
     c.rectangle(0, 1520, VW, VH - 1520)
     c.rectangle(0, 270, 70, 1250)
     c.rectangle(VW - 70, 270, 70, 1250)
     c.fill()
-    # Safe band box: x 90..990, y 300..1340
     c.set_source_rgba(0.1, 0.9, 0.3, 0.9)
     c.set_line_width(4)
     c.rectangle(90, 300, 900, 1040)
     c.stroke()
-    # Caption band y 1100..1300
     c.set_source_rgba(0.2, 0.7, 1.0, 0.7)
     c.set_line_width(2)
     c.set_dash([12, 8])

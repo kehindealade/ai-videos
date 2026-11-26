@@ -29,7 +29,7 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Held, unposted: betting set (long and two Shorts, Paper look), duplicate meal Reel (Kenny was told to delete it), $39 coffee Short (to reschedule)
 
 ## Open build work (claude/build-plan-2026-11-24.md)
-- Conversation 8: Small Win Films "Numbers that say everything" eps 2 to 4. Ep 2 ("First paycheck") rendered 26 Nov 2026 but FAILED the QA gate (claude/qa-gate.md: stub text under 48 px, floating feet, stray line, frame 1 not a question, end card bands, true peak 0.0 dBTP); fix and re-render before posting (engine claude/small-win-paycheck-engine/, video + cover + pack in Drive AI videos/Renders, planned Tue 15 Dec 23:00 Small Win FB). Eps 3 (gym card, Thu 31 Dec 15:00) and 4 (last day, Tue 5 Jan 23:00) scripted, waiting for Kenny's go.
+- Conversation 8: Small Win Films "Numbers that say everything" eps 2 to 4. Ep 2 ("First paycheck") fixed and PASSED claude/qa-gate.md on 26 Nov 2026 (-16.6 LUFS, -1.9 dBTP, all 9 manual checks yes; waiting for Kenny's go to upload the fixed render to Drive AI videos/Renders; planned Tue 15 Dec 23:00 Small Win FB). Eps 3 (gym card, Thu 31 Dec 15:00) and 4 (last day, Tue 5 Jan 23:00) scripted, waiting for Kenny's go.
 - Conversation 9: three standalone Small Win Films Shorts (email rewritten six times, bus stop bench, moving out). Scripts need resending for Kenny's go. Not started.
 - Conversation 5 (optional): "How Mortgage Rates Work" long plus one Short. Not started.
 - "Why is it so expensive?" ep 3 cars (promised on the RAM end card), Lego last.
