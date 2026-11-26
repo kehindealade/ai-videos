@@ -20,7 +20,7 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Sat 28 Nov 17:00: Two Cups Short (Small Win YT, EEBA9t7TRa4, uploaded and scheduled via API)
 - Sun 6 Dec 16:00: Christmas film "She Never Knocked" (Small Win YT, ArNDjYgSFME, uploaded and scheduled via API with thumbnail); Tue 8 Dec 01:00 its Short 1 "She Drove to His House Every Christmas Eve" (03QiAzUZifc, uploaded and scheduled via API). Shorts 2 and 3 held, not deleted (Kenny, 26 Nov 2026)
 - Tue 8 Dec 15:00: RAM Short
-- Sun 13 Dec 16:00: Social Security long; Wed 16 Dec 01:00 its Short 1 (Short 2 held)
+- Sun 6 Dec 16:00: Social Security long (Money Map YT, 4oTBvpeAqP8, uploaded and scheduled via API with thumbnail and .srt, moved from Sun 13 Dec to fill Q4 Sunday slot); Thu 10 Dec 01:00 its Short 1 (WgSmdcw9kcU, uploaded and scheduled via API with .srt; Short 2 held)
 - Tue 15 Dec: credit card rewards long 15:00 (YouTube); "First paycheck" Reel 23:00 (Small Win FB, Numbers ep 2, rendered to Drive); Sun 20 Dec 16:00 credit card Short 2 (Short 1 held)
 - Wed 16 Dec 13:00: "Every Sunday at 6, She Called" film; Fri 18 Dec 22:00 its Short
 - Sun 20 Dec 16:00: "The pay later hangover" Reel (Money Map FB, scheduled via API, moved from Sun 27 Dec to fit Meta 29-day window and hit pre-Christmas peak)
