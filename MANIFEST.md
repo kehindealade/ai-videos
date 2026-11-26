@@ -1,26 +1,26 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 205. Pending: 14. Excluded: 1.
+220 files in the project. Copied: 219. Pending: 0. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
 |---|---|
 | claude/analytics-lessons.md | copied |
 | claude/bad-day-engine/README.md | copied |
-| claude/bad-day-engine/audio.py | pending |
-| claude/bad-day-engine/cover.py | pending |
-| claude/bad-day-engine/facebook-pack-bad-day-reel.txt | pending |
-| claude/bad-day-engine/film.py | pending |
-| claude/bad-day-engine/fp.py | pending |
-| claude/bad-day-engine/reel.py | pending |
-| claude/bad-day-engine/short.py | pending |
-| claude/bad-day-engine/short_cover.py | pending |
-| claude/bad-day-engine/thumb-test-bad-day.txt | pending |
-| claude/bad-day-engine/thumbs.py | pending |
-| claude/bad-day-engine/timeline.py | pending |
-| claude/bad-day-engine/upload-pack-bad-day-film.txt | pending |
-| claude/bad-day-engine/upload-pack-bad-day-short.txt | pending |
-| claude/bad-day-engine/vo.py | pending |
+| claude/bad-day-engine/audio.py | copied |
+| claude/bad-day-engine/cover.py | copied |
+| claude/bad-day-engine/facebook-pack-bad-day-reel.txt | copied |
+| claude/bad-day-engine/film.py | copied |
+| claude/bad-day-engine/fp.py | copied |
+| claude/bad-day-engine/reel.py | copied |
+| claude/bad-day-engine/short.py | copied |
+| claude/bad-day-engine/short_cover.py | copied |
+| claude/bad-day-engine/thumb-test-bad-day.txt | copied |
+| claude/bad-day-engine/thumbs.py | copied |
+| claude/bad-day-engine/timeline.py | copied |
+| claude/bad-day-engine/upload-pack-bad-day-film.txt | copied |
+| claude/bad-day-engine/upload-pack-bad-day-short.txt | copied |
+| claude/bad-day-engine/vo.py | copied |
 | claude/build-plan-2026-11-21.md | copied |
 | claude/build-plan-2026-11-24.md | copied |
 | claude/christmas-engine/README.txt | copied |

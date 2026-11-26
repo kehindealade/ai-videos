@@ -1,0 +1,40 @@
+FACEBOOK + TIKTOK PACK: BAD DAY (vertical Reel, 1:27)
+Replaces facebook-pack-bad-day-film.txt (that pack was for the 3:08 horizontal film).
+File: bad-day-reel-facebook.mp4 (1080x1920, 1:27, -14 LUFS)
+Cover: reel-cover-bad-day-1080x1920.png
+Post: Facebook today, Wed 18 Nov, after 5:30 pm Lagos. TikTok tomorrow, Thu 19 Nov.
+
+HOOK (first 7 seconds)
+Voiceover (Kokoro am_onyx): "My boss ruined my day at 8 am. So I tried four things to fix it. Keep count."
+Same words on screen for muted viewers, boss shouting from frame 1, the "I TRIED 0 / BETTER? NO" counter on screen and pulsing on "Keep count." No voice after the hook.
+
+FACEBOOK REEL CAPTION
+His boss shouted at him at 8 am. After work, he tried four things to fix the day.
+Did any of them work? Keep count.
+Not every day can be saved. Some you just finish.
+#shortfilm #badday #animation #relatable #animatedshortfilm
+
+FIRST COMMENT (post as the Page, then pin it)
+What do you do when nothing fixes a bad day?
+
+TIKTOK CAPTION
+He tried 4 things to fix his bad day. Keep count. #shortfilm #badday #animation #relatable #animatedshortfilm
+
+FACEBOOK STEPS
+Switch to the Small Win Films Page > + Create > Reel > pick the mp4 > tap Edit cover and upload the cover png > skip music and effects > paste caption > turn on the AI info label (required now: realistic AI voice in the hook) > check "posting as Small Win Films" > Share > post and pin the first comment > reply as the Page in the first 30 minutes.
+
+TIKTOK STEPS
++ > Upload > same mp4 > Edit cover > upload the cover png (or pick the 0:01 frame) > paste caption > More options > turn on "AI-generated content" > Post.
+
+WHAT WAS TRIMMED (3:08 to 1:27)
+Old 8 s cold open replaced by the 7 s voiceover hook; morning cut to the shout plus "Everyone watched"; "hearing it" and lunch to 3 s each; after work 4 s; food, football, song and walk about 9 s each (start and the "it didn't work" moment); four-things list 6 s; still angry 8 s; bed 8 s; ending 8.5 s.
+
+SEO AND RULES CHECK
+- Keyword "bad day short film" carried by #badday #shortfilm and "bad day" in the first caption line.
+- No YouTube link in the caption (the link lives in the Page's About section).
+- No engagement bait: "Keep count" and the pinned question invite watching and real replies; nothing asks for likes, shares or tags.
+- Original file, no watermark, no added music; AI label on.
+- New caption wording, not copied from YouTube.
+
+POLICY AND REPETITION GATE
+Passes. Same story as the YouTube film, cut for Facebook (not a new film). No violence, no profanity, adults only, honest ending that is sad but not hopeless.

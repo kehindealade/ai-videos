@@ -1,0 +1,13 @@
+BAD DAY: THUMBNAIL TEST (18 Nov 2026)
+Video: Nothing Could Fix His Bad Day | Animated Short Film (title unchanged for now)
+Why: first 23 hours, 1.4k impressions, 1.0% click rate, 83% of views from Suggested. Old thumbnail (thumbnail-nothing-worked-1280x720.png, the "I TRIED 4 / BETTER? NO" card) only makes sense after watching.
+
+NEW THUMBNAILS (1280x720)
+A thumb-A-boss.png: boss shouting at him at 8:00 AM, his shocked face big, "HIS DAY, RUINED". Main pick: conflict and a clear face read at phone size.
+B thumb-B-none-worked.png: his sad face big, four crossed-out cards (food, football, song, walk), "HE TRIED 4 THINGS / NONE WORKED". Curiosity: what did he try?
+C thumb-C-still-not-okay.png: walking alone at night under a streetlight, "STILL NOT OKAY". Emotional, for TV and Suggested.
+
+HOW TO RUN IT
+Studio on a computer > Content > Bad Day > Details > Thumbnail > Test & compare > upload A, B, C > Done > Save. YouTube rotates them and picks the winner by watch time share (usually a few days to 2 weeks). Leave the title alone until the thumbnail test ends, then test titles.
+
+Code: claude/bad-day-engine/thumbs.py (with fp.py, the film's drawing primitives). Run: python3 thumbs.py <out_dir>. Needs pycairo and the Rounded Mplus 1c ExtraBold font.
