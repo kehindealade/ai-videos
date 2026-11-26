@@ -13,18 +13,17 @@ Sources: claude/build-plan-2026-11-21.md, claude/build-plan-2026-11-24.md, memor
 - Wed 25 Nov: 31 Texts She Never Sent film (YouTube 13:00) and Reel (Facebook 14:00 or after 17:30); Black Friday Short (YouTube 18:00)
 - Thu 26 Nov: Black Friday Reel "50% OFF of what?" 15:00 (Money Map FB); "First paycheck" Reel (v2-qa, Numbers ep 2) 15:00 (Small Win FB, scheduled via API)
 - Fri 27 Nov: "Everybody goes out except me" Reel 15:00 (Small Win FB, scheduled via API); coffee Reel 16:00 (Money Map FB, moved from 14:00); heartbreak Short 22:00 (Small Win YT); printer ink Short 22:00 (Money Map YT, moved from Mon 30 Nov)
-- Sun 29 Nov 16:00: "3 alarms" Reel (Small Win FB, scheduled via API)
+- Sun 29 Nov 16:00: "3 alarms" Reel (Small Win FB, scheduled via API); "2027 tax brackets" Reel (Money Map FB, scheduled via API, moved from Thu 3 Dec)
 - Tue 1 Dec: national debt long 20:00 (Money Map YT, moved from 15:00); group chat Reel 23:00 (Small Win FB, scheduled via API)
 - Thu 3 Dec 01:00: debt Short A (Money Map YT, moved from Wed 2 Dec 18:00); Sat 5 Dec 17:00: debt Short B (Money Map YT, moved from 15:00)
-- Thu 3 Dec 15:00: tax brackets Reel (Money Map FB); "Wave back at someone who wasn't waving" Reel 15:00 (Small Win FB, scheduled via API, moved from Wed 9 Dec)
+- Thu 3 Dec 15:00: "Why is rent so expensive?" Reel (Money Map FB, scheduled via API, moved from Thu 10 Dec); "Wave back at someone who wasn't waving" Reel (Small Win FB, scheduled via API, moved from Wed 9 Dec)
 - Sat 28 Nov 17:00: Two Cups Short (Small Win YT, EEBA9t7TRa4, uploaded and scheduled via API)
 - Sun 6 Dec 16:00: Christmas film "She Never Knocked" (Small Win YT, ArNDjYgSFME, uploaded and scheduled via API with thumbnail); Tue 8 Dec 01:00 its Short 1 "She Drove to His House Every Christmas Eve" (03QiAzUZifc, uploaded and scheduled via API). Shorts 2 and 3 held, not deleted (Kenny, 26 Nov 2026)
 - Tue 8 Dec 15:00: RAM Short
-- Thu 10 Dec 15:00: rent Reel (Money Map FB)
 - Sun 13 Dec 16:00: Social Security long; Wed 16 Dec 01:00 its Short 1 (Short 2 held)
 - Tue 15 Dec: credit card rewards long 15:00 (YouTube); "First paycheck" Reel 23:00 (Small Win FB, Numbers ep 2, rendered to Drive); Sun 20 Dec 16:00 credit card Short 2 (Short 1 held)
 - Wed 16 Dec 13:00: "Every Sunday at 6, She Called" film; Fri 18 Dec 22:00 its Short
-- Sun 27 Dec 16:00: pay later hangover Reel (Money Map FB)
+- Sun 20 Dec 16:00: "The pay later hangover" Reel (Money Map FB, scheduled via API, moved from Sun 27 Dec to fit Meta 29-day window and hit pre-Christmas peak)
 - Held, unposted: betting set (long and two Shorts, Paper look), duplicate meal Reel (Kenny was told to delete it), $39 coffee Short (to reschedule)
 
 ## Open build work (claude/build-plan-2026-11-24.md)
