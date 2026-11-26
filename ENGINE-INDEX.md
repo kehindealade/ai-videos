@@ -46,6 +46,9 @@ General pattern: pycairo draws each frame, frames are piped to ffmpeg, audio is 
 |---|---|
 | claude/yt-stats/yt.py | Free YouTube research: suggest, outliers, trending, scan, seo, report (needs a fresh sign-in; see workflow.md Setup) |
 | claude/yt-stats/thumbcheck.py | Thumbnail and cover safe-zone check: python3 thumbcheck.py thumb.png |
+| tools/qa.py | Mandatory QA gate: resolution, fps, loudness, true peak, border bars, phone-size sheets |
+| tools/yt_upload.py | YouTube Data API v3 resumable uploader, thumbnail, .srt captions and scheduler (reuses claude/yt-stats/client.json) |
+| tools/fb_reels.py | Meta Graph API v21.0 Facebook Page Reels uploader, scheduler, cover and comment tool |
 | tools/manifest.py | Rebuilds MANIFEST.md (which project files are copied or pending) |
 
 Free YouTube autocomplete without sign-in: curl "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=<phrase>"
