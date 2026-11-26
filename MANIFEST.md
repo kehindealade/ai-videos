@@ -1,6 +1,6 @@
 # Manifest: every file from the Claude project "AI Videos and YouTube"
 
-220 files in the project. Copied: 142. Pending: 77. Excluded: 1.
+220 files in the project. Copied: 147. Pending: 72. Excluded: 1.
 Regenerate with: python3 tools/manifest.py
 
 | Path | Status |
@@ -49,8 +49,8 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-bf-engine/bf_short.py | pending |
 | claude/money-map-bf-engine/facebook-pack-black-friday-reel.txt | pending |
 | claude/money-map-bf-engine/upload-pack-black-friday-short.txt | pending |
-| claude/money-map-chalk-engine/facebook-pack-restaurant-reel.txt | pending |
-| claude/money-map-chalk-engine/reel.py | pending |
+| claude/money-map-chalk-engine/facebook-pack-restaurant-reel.txt | copied |
+| claude/money-map-chalk-engine/reel.py | copied |
 | claude/money-map-city-engine/README.txt | copied |
 | claude/money-map-city-engine/cb_tts.py | copied |
 | claude/money-map-city-engine/cc_common.py | copied |
@@ -108,9 +108,9 @@ Regenerate with: python3 tools/manifest.py
 | claude/money-map-sheet-engine/tts.py | copied |
 | claude/money-map-sheet-engine/vcommon.py | copied |
 | claude/money-map-split-engine/README.txt | copied |
-| claude/money-map-split-engine/coffee.py | pending |
-| claude/money-map-split-engine/common.py | pending |
-| claude/money-map-split-engine/facebook-pack-coffee-reel.txt | pending |
+| claude/money-map-split-engine/coffee.py | copied |
+| claude/money-map-split-engine/common.py | copied |
+| claude/money-map-split-engine/facebook-pack-coffee-reel.txt | copied |
 | claude/money-map-statement-engine/banks.py | pending |
 | claude/money-map-statement-engine/cover_gap.py | pending |
 | claude/money-map-statement-engine/short_coffee.py | pending |

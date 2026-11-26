@@ -1,0 +1,35 @@
+FACEBOOK PACK: MONEY MAP REEL, "SAME MONEY, TWO CHOICES" EPISODE 1 (COFFEE)
+File: money-map-same-money-two-choices-coffee-reel.mp4 (0:36, 1080x1920 edge to edge, music only, text on screen, loops)
+Cover: reel-cover-coffee-1080x1920.png
+Post: Money Map Facebook Page, Fri 27 Nov 2026, 2:00 pm Lagos (8 am New York, Friday Reel slot; no Saturday posts per the timetable). Facebook only.
+
+HOOK (frame 1)
+Biggest question. "SAME COFFEE. 1 YEAR. WHO SPENDS MORE?" over a split screen: café counter on the left ($0), home machine on the right already at $60. The right side starts higher, which makes people guess. No voice to wait for; the first beat is the counter popping to $60 with a coin chime.
+Analytics lessons met: tension text of 8 words or fewer on frame 1, both counters moving from second 3 and a new coin every 0.4 s on the left, payoff ($1,040 APART) at 0:24, ends at 0:36 (under 45 s), full-bleed 9:16 with an interior divider only, a follow line and a next-episode line on the end card, loops (last frame cuts to the first, music is exactly 15 bars at 100 bpm).
+
+FACEBOOK CAPTION
+Same coffee, 250 workdays. The difference surprised me. ☕
+Which side are you: the café every day, or the machine at home? Tell me in the comments.
+#MoneyMap #SameMoneyTwoChoices #coffee #savingmoney
+
+FIRST COMMENT (post as the Page, then pin it)
+Which side are you on, café or home? And what should episode 2 compare?
+
+FACEBOOK STEPS
+Switch to the Money Map Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip Facebook music (the Reel has its own score) > paste caption > Share > pin the first comment > reply as the Page in the first 30 minutes.
+
+FACTS
+- Plain arithmetic with labelled example prices: $5 café cup, $0.60 home cup, 250 workdays, machine $60. Café: 250 x $5 = $1,250. Home: $60 + 250 x $0.60 = $210. Difference $1,040.
+- On screen: "Example prices. Not advice, just maths." No brand named.
+
+COVER
+Cliffhanger: "SAME COFFEE. WHO SPENDS MORE?" with both counters at the start ($0 and $60). Never shows the totals. Text in the upper third, clear of the bottom 25% and the right edge.
+
+SEO CHECK (free autocomplete only; vidIQ 0 credits until 17 Dec, yt-stats quota used up today)
+Facebook Reels are found through the feed, so the caption leads with the hook and 3 or 4 hashtags. Autocomplete for "same coffee every day" and "coffee at home vs coffee shop cost" returned nothing useful, so the angle is a curiosity hook, not a search term. Primary tag: #MoneyMap. Series tag: #SameMoneyTwoChoices (new, so every episode groups under it).
+
+SERIES NEXT
+Ep 2: a new phone every year vs every 3 years. Ep 3: 4 streaming services vs 1. Ep 4: delivery app vs pickup.
+
+GATE
+Passes. Plain maths, labelled example prices, no product or brand, "not advice" on screen. New look for Money Map (split-screen warm and cool, coin stacks), music only, hook type biggest question as planned.

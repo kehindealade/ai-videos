@@ -1,0 +1,34 @@
+FACEBOOK PACK: MONEY MAP REEL, "YOUR $16 MEAL"
+File: money-map-restaurant-reel.mp4 (about 0:47, 1080x1920, captions burned in, voice bf_isabella)
+Cover: reel-cover-restaurant-1080x1920.png
+Post: Money Map Facebook Page, Mon 23 Nov 2026, 6:00 pm Lagos (12 pm New York). Also fine as a YouTube Short later (title below).
+
+HOOK (frame 1)
+Chalkboard bill "MEAL ...... $16", the full plate split into slices with the tiny green 80c slice pulled out, "THEY KEEP 80c", and the line "You pay sixteen dollars for a meal. The restaurant keeps about eighty cents." Hook type: shocking number (the Bitcoin video used biggest question).
+
+FACEBOOK CAPTION
+You pay $16 for a meal. The restaurant keeps about 80 cents.
+Food, staff, rent, power and card fees take the rest. Where did you think it went?
+#money #restaurant #business #finance #moneymap
+
+FIRST COMMENT (post as the Page, then pin it)
+What's the most you've paid for a meal that felt worth it?
+
+FACEBOOK STEPS
+Switch to the Money Map Page > + Create > Reel > pick the mp4 > Edit cover > upload the cover png > skip music (the Reel has its own sound) > paste caption > turn on the AI info label (synthetic voice) > Share > pin the first comment > reply as the Page in the first 30 minutes.
+
+IF POSTED AS A YOUTUBE SHORT LATER
+Title: What a Restaurant Keeps From Your $16 Meal
+Tags: how restaurants make money, restaurant profit margin, where does your money go, restaurant business, Money Map, shorts
+Description first line: How restaurants make money: from a $16 meal, a typical restaurant keeps about 80 cents.
+
+FACTS AND SOURCES
+- Cost split per $1 of sales for a typical independent restaurant (pre-pandemic baseline): food about 33c, labor about 33c, other operating costs about 29c (utilities, occupancy, supplies, admin, repairs, card fees), pre-tax profit about 5c. Applied to $16: $5.28, $5.28, $4.64, $0.80.
+- Total restaurant expenses up 36% from 2019 to 2026; average menu prices up 36% from Feb 2020 to May 2026; 42% of operators said they were not profitable in 2025 (shown as "about 4 in 10").
+- Source: National Restaurant Association, "Elevated costs continue to pressure restaurant profitability", 8 Jul 2026. On-screen footnote names the source.
+
+RESEARCH
+"how restaurants make money": demand 6/7 High, competition Medium (27 of 50 title matches, 15% big channels); a near-identical video ("Here's How Much an NYC Restaurant Makes Off a $16...") was getting about 2,115 views an hour on 19 Nov; 7 small-channel wins (best Short 16.2x). Saved in claude/facebook-reel-research-2026-11-19.md.
+
+GATE
+Passes. Explains, no advice, sourced numbers, no real restaurant or person named. New look for Money Map (chalkboard menu), new voice (bf_isabella), no receipt (the $39 coffee Short used one).

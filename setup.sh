@@ -47,7 +47,7 @@ fetch ofl/roboto/Roboto%5Bwdth,wght%5D.ttf
 fetch ofl/lora/Lora%5Bwght%5D.ttf
 fetch ofl/barlowcondensed/BarlowCondensed-Bold.ttf
 fetch ofl/barlow/Barlow-Regular.ttf
-fetch ofl/permanentmarker/PermanentMarker-Regular.ttf
+fetch apache/permanentmarker/PermanentMarker-Regular.ttf
 fetch ofl/kalam/Kalam-Regular.ttf
 fetch ofl/cormorantsc/CormorantSC-Bold.ttf
 fetch ofl/ibmplexserif/IBMPlexSerif-Bold.ttf
